@@ -1,1 +1,525 @@
-{"updated": "", "reports": []}
+{
+ "updated": "2026-11-16T05:59:16+00:00",
+ "reports": [
+  {
+   "espn_event_id": "",
+   "away": "LAC",
+   "home": "BAL",
+   "kickoff": "2026-11-17T01:15:00Z",
+   "week": 10,
+   "pulled_at": "Sun 11/15 10:00 PM PT",
+   "sources_checked": [
+    "nfl.com/injuries/league/2026/reg10",
+    "nfl.com Week 10 injury report article",
+    "chargers.com injury report (Sat 11/14)",
+    "baltimoreravens.com injury report (Sat 11/14)",
+    "RotoWire (McConkey ruled out, 11/15)",
+    "foxsports.com (Lamar Jackson, 11/13)",
+    "foxbaltimore.com/WBFF (11/11)",
+    "baltimorechronicle.com",
+    "therx.com odds (11/15)",
+    "si.com odds (11/11)",
+    "covers.com (11/11)"
+   ],
+   "sources_unreachable": [
+    "espn.com/nfl/injuries (not pulled this run)",
+    "Official inactives (not posted until ~3:45 PM PT Mon 11/16)",
+    "Gameday practice-squad elevations (not found as of pull)",
+    "Opening line: no source gave a verified opener"
+   ],
+   "line_before": "BAL -4.5 / O/U 38.5 (BetMGM via SI, Wed 11/11)",
+   "line_now": "BAL -4.5 / O/U 38.5, ML BAL -230 / LAC +183 (MyBookie via therx.com, Sun 11/15 ~3:45 AM PT)",
+   "line_moved_on_news": "No measurable move on the McConkey downgrade as of last check; the bigger earlier shift (market moved BAL from ~pick'em to >FG favorite) came before this week's reports and was not tied to a specific injury in sources.",
+   "top3": [
+    {
+     "player": "Lamar Jackson (and Tyler Huntley)",
+     "team": "BAL",
+     "why": "Both QBs on IR; Jacoby Brissett makes his Ravens debut after acquisition from ARI \u2014 4th BAL starter in 4 games. Caps BAL offense; supports a low total."
+    },
+    {
+     "player": "Ladd McConkey",
+     "team": "LAC",
+     "why": "Top WR (1,000-yard type) ruled out with back; Brenen Thompson also doubtful. Herbert's targets thin to Quentin Johnston, Tre' Harris, KeAndre Lambert-Smith. Pushes toward Under / BAL cover."
+    },
+    {
+     "player": "LAC OL: Branson Taylor out, Pipkins & Awosika questionable",
+     "team": "LAC",
+     "why": "Line that has allowed 31 sacks faces BAL pass rush with a starter out and two more limited; Pipkins only one LP session."
+    }
+   ],
+   "clusters": [
+    "LAC WR room: McConkey Out, Brenen Thompson Doubtful",
+    "LAC secondary: CB Isas Waxter Out, S Kendall Williamson Out",
+    "LAC OL: G/T Branson Taylor Out, G Awosika Q, T Pipkins Q (personal/knee)",
+    "BAL QB room: Jackson IR, Huntley IR \u2014 Brissett starts"
+   ],
+   "replacements": [
+    {
+     "out": "Lamar Jackson (QB, BAL)",
+     "replacement": "Jacoby Brissett (first BAL start; backup unconfirmed \u2014 likely rookie Joe Fagnano)",
+     "dropoff": "Large: MVP-level dual threat to a pocket veteran with ~1 week in the system."
+    },
+    {
+     "out": "Ladd McConkey (WR, LAC)",
+     "replacement": "Quentin Johnston / Tre' Harris / KeAndre Lambert-Smith",
+     "dropoff": "Moderate-large: loses primary slot/target leader; Thompson also likely out."
+    },
+    {
+     "out": "Tyler Loop (K, BAL)",
+     "replacement": "Riley Patterson",
+     "dropoff": "Small-moderate: journeyman (97/112 career FG), new to team."
+    },
+    {
+     "out": "Jaylinn Hawkins (S, BAL)",
+     "replacement": "Existing depth (4th game missed)",
+     "dropoff": "Small; already priced in."
+    }
+   ],
+   "conflicts": [
+    "McConkey: Sat official report = Questionable (RotoWire 11/14); Sun 11/15 team ruled him Out and nfl.com now shows Out \u2014 newest official wins: Out.",
+    "Herbert: SI (11/11 odds page) listed QB Justin Herbert as Questionable; he is not on the final official LAC report (chargers.com / nfl.com) \u2014 official wins: expected to play.",
+    "Line: covers.com (11/11) showed BAL -5.5 'early' (Kalshi-based); SI/BetMGM 11/11 and MyBookie 11/15 both -4.5 \u2014 used -4.5 sportsbook numbers."
+   ],
+   "unknowns": [
+    {
+     "what": "Whether Njoku and Perryman are activated off IR (21-day window) and Pipkins/Eboigbe/Awosika play",
+     "known_by": "Roster moves Mon 11/16 by ~1:00 PM PT; inactives 3:45 PM PT"
+    },
+    {
+     "what": "Official inactives both teams",
+     "known_by": "Mon 11/16 3:45 PM PT"
+    },
+    {
+     "what": "Practice-squad elevations (e.g. K Mevis, QB depth)",
+     "known_by": "Mon 11/16 ~1:00 PM PT"
+    },
+    {
+     "what": "Adam Randall activation/active",
+     "known_by": "Mon 11/16 3:45 PM PT"
+    },
+    {
+     "what": "Final line move after McConkey news",
+     "known_by": "Mon 11/16 kickoff 5:15 PM PT"
+    }
+   ],
+   "players": [
+    {
+     "team": "LAC",
+     "player": "Ladd McConkey",
+     "pos": "WR",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat DNP",
+     "estimated": false,
+     "status": "Out",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Back. Questionable on Sat report; downgraded to Out Sun 11/15 and did not travel. Next game 11/22 vs NYJ.",
+     "source": "RotoWire 11/15; nfl.com/injuries",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Brenen Thompson",
+     "pos": "WR",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat DNP",
+     "estimated": false,
+     "status": "Doubtful",
+     "play_pct": 10,
+     "type": "injury",
+     "note": "Hamstring.",
+     "source": "nfl.com/injuries (Week 10 official); chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Branson Taylor",
+     "pos": "G/T",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat DNP",
+     "estimated": false,
+     "status": "Out",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Ankle.",
+     "source": "nfl.com/injuries (Week 10 official); chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Isas Waxter",
+     "pos": "CB",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat DNP",
+     "estimated": false,
+     "status": "Out",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Ankle.",
+     "source": "nfl.com/injuries (Week 10 official); chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Kendall Williamson",
+     "pos": "S",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat DNP",
+     "estimated": false,
+     "status": "Out",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Calf.",
+     "source": "nfl.com/injuries (Week 10 official); chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "David Njoku",
+     "pos": "TE",
+     "practice": "Thu LP \u00b7 Fri LP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 70,
+     "type": "injury",
+     "note": "Fibula. In 21-day practice window (needs activation from IR to play). Full Sat = trending to play if activated.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Kayode Awosika",
+     "pos": "G",
+     "practice": "Thu LP \u00b7 Fri LP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 80,
+     "type": "injury",
+     "note": "Fibula. Full Sat.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Denzel Perryman",
+     "pos": "LB",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 70,
+     "type": "injury",
+     "note": "Pectoral. In 21-day practice window (needs activation).",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Trey Pipkins III",
+     "pos": "G/T",
+     "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat LP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 45,
+     "type": "personal",
+     "note": "Personal/knee. In 21-day practice window. Only one limited session.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Justin Eboigbe",
+     "pos": "DL",
+     "practice": "Thu DNP \u00b7 Fri LP \u00b7 Sat LP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 55,
+     "type": "injury",
+     "note": "Ankle. Trending up but never full.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Khalil Mack",
+     "pos": "OLB",
+     "practice": "Thu DNP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "rest",
+     "note": "Rest day Thu; no game status = expected to play.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Bud Dupree",
+     "pos": "OLB",
+     "practice": "Fri DNP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "rest",
+     "note": "Rest; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Daiyan Henley",
+     "pos": "LB",
+     "practice": "Thu DNP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "personal",
+     "note": "Personal Thu; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Deane Leonard",
+     "pos": "CB",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Concussion; cleared, no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Keaton Mitchell",
+     "pos": "RB",
+     "practice": "Thu LP \u00b7 Fri LP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Hip; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Cam Hart",
+     "pos": "CB",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Ankle; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Rodney Shelley",
+     "pos": "CB",
+     "practice": "Thu LP \u00b7 Fri LP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Calf; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Tre' Harris",
+     "pos": "WR",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Shoulder; no game status. Elevated role with McConkey out.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "LAC",
+     "player": "Alex Harkey",
+     "pos": "G",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Foot; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Lamar Jackson",
+     "pos": "QB",
+     "practice": "\u2014",
+     "estimated": false,
+     "status": "IR",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Broken/dislocated right thumb (Week 8), surgery; 6-10 week timetable per HC Jesse Minter.",
+     "source": "foxsports.com 11/13; baltimorechronicle.com",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Tyler Huntley",
+     "pos": "QB",
+     "practice": "\u2014",
+     "estimated": false,
+     "status": "IR",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Toe.",
+     "source": "foxbaltimore.com (WBFF) 11/11",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Tyler Loop",
+     "pos": "K",
+     "practice": "\u2014",
+     "estimated": false,
+     "status": "IR",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Groin, placed on IR 11/3. Riley Patterson kicking; Harrison Mevis on practice squad.",
+     "source": "foxbaltimore.com 11/11; baltimorechronicle.com",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Jaylinn Hawkins",
+     "pos": "S",
+     "practice": "Thu LP \u00b7 Fri LP \u00b7 Sat LP",
+     "estimated": false,
+     "status": "Out",
+     "play_pct": 0,
+     "type": "injury",
+     "note": "Knee. Misses 4th straight game.",
+     "source": "nfl.com/injuries (Week 10 official); baltimoreravens.com injury report (Sat 11/14 2:39 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Adam Randall",
+     "pos": "RB",
+     "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "Questionable",
+     "play_pct": 50,
+     "type": "injury",
+     "note": "Neck/hamstring. Rookie, no regular-season snaps yet; Minter said 'potential' he's activated. Depth only.",
+     "source": "baltimoreravens.com injury report (Sat 11/14 2:39 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Ronnie Stanley",
+     "pos": "LT",
+     "practice": "Sat DNP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "rest",
+     "note": "Rest/toe; no game status = expected to play.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM); baltimoreravens.com injury report (Sat 11/14 2:39 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Calais Campbell",
+     "pos": "DL",
+     "practice": "Sat DNP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "rest",
+     "note": "Veteran rest; no game status.",
+     "source": "baltimoreravens.com injury report (Sat 11/14 2:39 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Rashod Bateman",
+     "pos": "WR",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Calf; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Olaivavega Ioane",
+     "pos": "G",
+     "practice": "Thu LP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 95,
+     "type": "injury",
+     "note": "Knee/shoulder; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Kyle Hamilton",
+     "pos": "S",
+     "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 98,
+     "type": "injury",
+     "note": "Hip; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Nate Wiggins",
+     "pos": "CB",
+     "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 98,
+     "type": "illness",
+     "note": "Illness; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Rasheen Ali",
+     "pos": "RB",
+     "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 98,
+     "type": "injury",
+     "note": "Ankle; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    },
+    {
+     "team": "BAL",
+     "player": "Matthew Hibner",
+     "pos": "TE",
+     "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
+     "estimated": false,
+     "status": "none",
+     "play_pct": 98,
+     "type": "injury",
+     "note": "Hand; no game status.",
+     "source": "chargers.com injury report (Sat 11/14 1:42 PM)",
+     "pulled_at": "Sun 11/15 10:00 PM PT"
+    }
+   ]
+  }
+ ]
+}
