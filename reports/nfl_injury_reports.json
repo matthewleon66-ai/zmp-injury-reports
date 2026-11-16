@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:53:48+00:00",
+ "updated": "2026-11-16T23:54:48+00:00",
  "reports": [
   {
    "espn_event_id": "401873065",
@@ -7,7 +7,7 @@
    "home": "BAL",
    "kickoff": "2026-11-17T01:15:00Z",
    "week": 10,
-   "pulled_at": "Mon 11/16 3:58 PM PT",
+   "pulled_at": "Mon 11/16 3:54 PM PT",
    "sources_checked": [
     "nfl.com/injuries (Week 10 page)",
     "nfl.com/inactives (no MNF list posted at pull)",
@@ -21,7 +21,8 @@
     "cbssports.com gametracker + Week 10 inactives tracker",
     "thescore.com Week 10 inactives",
     "ESPN fantasy Week 10 inactives",
-    "vavel.com live blog"
+    "vavel.com live blog",
+    "RotoWire game page 11/16 (Pipkins will not play; Randall remains on IR)"
    ],
    "sources_unreachable": [
     "Official MNF inactives: not yet published/indexed on nfl.com/inactives, team sites, ESPN, CBS, theScore as of 3:58 PM PT \u2014 Q players NOT resolved by inactives this run",
@@ -87,11 +88,12 @@
     "Herbert: SI (11/11) and CBS gametracker AP note (left last game, hand) vs. official LAC report with no listing \u2014 official wins: plays.",
     "Adisa Isaac (BAL LB): ESPN lists Questionable (hamstring) but he is not on the official BAL report \u2014 official wins; treated as stale ESPN note.",
     "Total: DK 39.5 vs FanDuel/Novig 38.5 \u2014 book-dependent; both shown.",
-    "Pipkins: nfl.com/chargers.com Questionable; ESPN shows IR-R. No activation reported Mon (only Njoku, Perryman) \u2014 he likely cannot play unless activated."
+    "Pipkins: nfl.com/chargers.com Questionable vs RotoWire 11/16 'will not play' (not activated from IR) - newest wins: Out.",
+    "Adam Randall: official BAL report Questionable vs RotoWire 11/16 'remains on IR' - newest wins: Out."
    ],
    "unknowns": [
     {
-     "what": "Official inactives both teams (resolve Awosika, Eboigbe, Thompson, Randall, Stanley, Pipkins)",
+     "what": "Official inactives both teams (resolve Awosika, Eboigbe, Thompson, Stanley)",
      "known_by": "Should be out now (posted ~3:45 PM PT); not indexed at 3:58 PM PT \u2014 check nfl.com/inactives or team X accounts before 5:15 PM PT kickoff"
     },
     {
@@ -214,12 +216,12 @@
      "pos": "G/T",
      "practice": "Thu DNP \u00b7 Fri DNP \u00b7 Sat LP",
      "estimated": false,
-     "status": "Questionable",
-     "play_pct": 20,
+     "status": "Out",
+     "play_pct": 0,
      "type": "personal",
-     "note": "Personal/knee. Still IR-R per ESPN; not among Monday activations, so likely can't play. Only one LP session.",
-     "source": "espn.com LAC injuries; nfl.com/injuries; activation reports Mon 11/16",
-     "pulled_at": "Mon 11/16 3:58 PM PT"
+     "note": "Not activated from IR - RotoWire 11/16: will not play.",
+     "source": "RotoWire 11/16; ESPN (IR-R)",
+     "pulled_at": "Mon 11/16 3:54 PM PT"
     },
     {
      "team": "LAC",
@@ -409,12 +411,12 @@
      "pos": "RB",
      "practice": "Thu FP \u00b7 Fri FP \u00b7 Sat FP",
      "estimated": false,
-     "status": "Questionable",
-     "play_pct": 40,
+     "status": "Out",
+     "play_pct": 0,
      "type": "injury",
-     "note": "Neck/hamstring. ESPN shows IR-R; no activation found as of pull. Depth only.",
-     "source": "baltimoreravens.com report (Sat 11/14); espn.com game page (Mon 11/16)",
-     "pulled_at": "Mon 11/16 3:58 PM PT"
+     "note": "Not activated - remains on IR per RotoWire 11/16, so cannot play.",
+     "source": "RotoWire 11/16; ESPN (IR-R)",
+     "pulled_at": "Mon 11/16 3:54 PM PT"
     },
     {
      "team": "BAL",
@@ -559,7 +561,8 @@
      "source": "RotoWire (Mon 11/16 3:02 PM)",
      "pulled_at": "Mon 11/16 3:58 PM PT"
     }
-   ]
+   ],
+   "pulled_iso": "2026-11-16T23:54:48+00:00"
   }
  ]
 }
