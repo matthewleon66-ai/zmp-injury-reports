@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T19:59:59Z",
- "updated_pt": "Tue 11/17 11:59 AM PT",
+ "updated": "2026-11-17T20:52:04Z",
+ "updated_pt": "Tue 11/17 12:52 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -24,7 +24,7 @@
     "prev": null,
     "now": 44.5,
     "spread": "HOU -12.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -190,7 +190,7 @@
     "prev": null,
     "now": 45.5,
     "spread": "BUF -16.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -355,7 +355,7 @@
     "prev": 49.5,
     "now": 48.5,
     "spread": "CHI -11.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -530,7 +530,7 @@
     "prev": null,
     "now": 54.5,
     "spread": "DAL -8.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -696,7 +696,7 @@
     "prev": 46.5,
     "now": 45.5,
     "spread": "DET -6.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -713,14 +713,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 11:59 AM PT",
-   "pulled_at_iso": "2026-11-17T19:59:59Z",
+   "pulled_at": "Tue 11/17 12:52 PM PT",
+   "pulled_at_iso": "2026-11-17T20:52:04Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Tue 11/17 11:59 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Tue 11/17 12:52 PM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -741,7 +741,7 @@
     "prev": null,
     "now": 41.5,
     "spread": "KC -16.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -908,7 +908,7 @@
     "prev": null,
     "now": 38.5,
     "spread": "PIT -4.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1073,7 +1073,7 @@
     "prev": 44.5,
     "now": 43.5,
     "spread": "CAR -2.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1242,7 +1242,7 @@
     "prev": 40.5,
     "now": 41.5,
     "spread": "LAC -3.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1259,14 +1259,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 11:59 AM PT",
-   "pulled_at_iso": "2026-11-17T19:59:59Z",
+   "pulled_at": "Tue 11/17 12:52 PM PT",
+   "pulled_at_iso": "2026-11-17T20:52:04Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 41.5 → 41.5 | — | Tue 11/17 11:59 AM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 41.5 → 41.5 | — | Tue 11/17 12:52 PM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1287,7 +1287,7 @@
     "prev": null,
     "now": 40.5,
     "spread": "DEN -10",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1452,7 +1452,7 @@
     "prev": null,
     "now": 46.5,
     "spread": "JAX -6",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1619,7 +1619,7 @@
     "prev": 46.5,
     "now": 45.5,
     "spread": "SF -3",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
@@ -1726,7 +1726,7 @@
     "prev": null,
     "now": 52.5,
     "spread": "CIN -6.5",
-    "book": "DraftKings",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
