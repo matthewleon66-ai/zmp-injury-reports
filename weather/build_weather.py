@@ -475,6 +475,21 @@ def main():
     alerts_doc = load(ALERTS, {"alerts": []})
     new_alerts, errors = [], []
 
+    if os.environ.get("WX_DEBUG"):
+        et = now - timedelta(hours=5)
+        base = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?"
+        for label, q in (("dash range d+1..d+7 limit500", f"dates={et + timedelta(days=1):%Y%m%d}-{et + timedelta(days=7):%Y%m%d}&limit=500"),
+                         ("range d+1..d+6", f"dates={et + timedelta(days=1):%Y%m%d}-{et + timedelta(days=6):%Y%m%d}&limit=500"),
+                         ("range d..d+6", f"dates={et:%Y%m%d}-{et + timedelta(days=6):%Y%m%d}"),
+                         ("range d+1..d+3", f"dates={et + timedelta(days=1):%Y%m%d}-{et + timedelta(days=3):%Y%m%d}"),
+                         ("single d+2", f"dates={et + timedelta(days=2):%Y%m%d}"),
+                         ("no dates", "limit=100")):
+            try:
+                req = urllib.request.Request(base + q, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    log("  PROBE", label, q, r.status, len(json.loads(r.read()).get("events", [])), "events")
+            except Exception as e:
+                log("  PROBE", label, q, "FAILED", e)
     games = espn_games(now)
     log(f"{len(games)} upcoming games")
     out = []
