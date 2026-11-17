@@ -1,1 +1,82 @@
-{}
+{
+ "29.6847,-95.4107": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/HGX/61,91/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/HGX/61,91",
+  "nws_city": "Houston, TX",
+  "km_from_nws_ref": 11.4,
+  "verified": true,
+  "checked": "2026-11-17T05:38:42Z"
+ },
+ "42.7738,-78.7870": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/BUF/39,42/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/BUF/39,42",
+  "nws_city": "Orchard Park, NY",
+  "km_from_nws_ref": 3.9,
+  "verified": true,
+  "checked": "2026-11-17T05:38:43Z"
+ },
+ "41.8623,-87.6167": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/LOT/76,72/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/LOT/76,72",
+  "nws_city": "Chicago, IL",
+  "km_from_nws_ref": 6.3,
+  "verified": true,
+  "checked": "2026-11-17T05:38:43Z"
+ },
+ "32.7473,-97.0945": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/FWD/78,103/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/FWD/78,103",
+  "nws_city": "Arlington, TX",
+  "km_from_nws_ref": 5.9,
+  "verified": true,
+  "checked": "2026-11-17T05:38:44Z"
+ },
+ "39.0489,-94.4839": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/EAX/47,48/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/EAX/47,48",
+  "nws_city": "Kansas City, MO",
+  "km_from_nws_ref": 10.2,
+  "verified": true,
+  "checked": "2026-11-17T05:38:45Z"
+ },
+ "39.9008,-75.1675": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/PHI/50,76/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/PHI/50,76",
+  "nws_city": "Philadelphia, PA",
+  "km_from_nws_ref": 12.4,
+  "verified": true,
+  "checked": "2026-11-17T05:38:45Z"
+ },
+ "35.2258,-80.8528": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/GSP/118,65/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/GSP/118,65",
+  "nws_city": "Charlotte, NC",
+  "km_from_nws_ref": 2.7,
+  "verified": true,
+  "checked": "2026-11-17T05:38:46Z"
+ },
+ "39.7439,-105.0201": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/BOU/62,62/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/BOU/62,62",
+  "nws_city": "Denver, CO",
+  "km_from_nws_ref": 12.0,
+  "verified": true,
+  "checked": "2026-11-17T05:38:47Z"
+ },
+ "40.8135,-74.0745": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/OKX/30,46/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/OKX/30,46",
+  "nws_city": "East Rutherford, NJ",
+  "km_from_nws_ref": 1.0,
+  "verified": true,
+  "checked": "2026-11-17T05:38:47Z"
+ },
+ "38.9078,-76.8645": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/LWX/102,73/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/LWX/102,73",
+  "nws_city": "Summerfield, MD",
+  "km_from_nws_ref": 0.5,
+  "verified": true,
+  "checked": "2026-11-17T05:39:21Z"
+ }
+}
