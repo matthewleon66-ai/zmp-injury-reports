@@ -214,13 +214,23 @@ def _total_from(block):
     return None
 
 
+def _open_total(o):
+    """ESPN: odds.total.over.open.line like 'o45.5' (fallback: odds.open.total)."""
+    t = o.get("total") if isinstance(o.get("total"), dict) else {}
+    for side in ("over", "under"):
+        n = _num(((t.get(side) or {}).get("open") or {}).get("line"))
+        if n is not None and n > 20:
+            return n
+    return _total_from(o.get("open"))
+
+
 def parse_odds(o):
     if not o:
         return {"provider": None, "total": None, "total_open": None, "spread": None}
     return {
         "provider": (o.get("provider") or {}).get("name"),
         "total": _num(o.get("overUnder")) or _total_from(o.get("current")),
-        "total_open": _total_from(o.get("open")),
+        "total_open": _open_total(o),
         "spread": o.get("details"),
     }
 
@@ -236,7 +246,7 @@ def espn_open_total(event_id):
     if os.environ.get("WX_DEBUG"):
         log("  DEBUG pickcenter:", json.dumps(d.get("pickcenter"))[:3000])
     for pc in d.get("pickcenter", []) or []:
-        t = _total_from(pc.get("open"))
+        t = _open_total(pc)
         if t:
             return t
     return None
@@ -482,10 +492,11 @@ def main():
         # ---- market (every run)
         odds = g["odds"]
         t_now = odds["total"]
-        t_open = odds["total_open"] or p.get("total", {}).get("open")
-        if t_open is None and t_now is not None:
+        pt = p.get("total", {})
+        t_open = odds["total_open"] or (pt.get("open") if pt.get("open_source") == "ESPN" else None)
+        if t_open is None and t_now is not None and not pt:
             t_open = espn_open_total(g["id"])
-        open_src = "ESPN open" if t_open is not None else None
+        open_src = "ESPN" if t_open is not None else None
         if t_open is None:
             t_open = p.get("total", {}).get("first_seen") or t_now
             open_src = "first seen by this feed"
