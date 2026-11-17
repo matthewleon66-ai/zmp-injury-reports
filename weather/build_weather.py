@@ -154,11 +154,22 @@ def mph_from_text(s):
 def espn_games(now):
     start = now.astimezone(PT).date()
     end = start + timedelta(days=7)
-    url = ("https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?limit=100&dates="
-           f"{start:%Y%m%d}-{end:%Y%m%d}")
-    data = get_json(url, accept="application/json")
+    base = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?limit=100&dates="
+    events, seen, data = [], set(), {}
+    for i in range(8):  # one call per day: ESPN rejects some multi-day ranges
+        day = start + timedelta(days=i)
+        try:
+            data = get_json(f"{base}{day:%Y%m%d}", accept="application/json")
+        except Exception as e:
+            log(f"  ESPN {day} failed: {e}")
+            continue
+        for ev in data.get("events", []):
+            if ev["id"] not in seen:
+                seen.add(ev["id"]); events.append(ev)
+    if not seen and not data:
+        raise RuntimeError("ESPN scoreboard unreachable")
     games = []
-    for ev in data.get("events", []):
+    for ev in events:
         comp = ev["competitions"][0]
         state = comp.get("status", {}).get("type", {}).get("state") or ev.get("status", {}).get("type", {}).get("state")
         if state != "pre":
