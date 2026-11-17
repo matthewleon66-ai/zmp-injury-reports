@@ -7,6 +7,9 @@ on:
       force:
         description: "Pull every game now (true/false)"
         default: "false"
+      debug:
+        description: "Log raw odds (1 or empty)"
+        default: ""
 permissions:
   contents: write
   issues: write
@@ -24,6 +27,8 @@ jobs:
           python-version: "3.12"
       - name: Pull weather
         id: wx
+        env:
+          WX_DEBUG: ${{ inputs.debug }}
         run: python weather/build_weather.py ${{ inputs.force == 'true' && '--force' || '' }}
       - name: Validate JSON
         run: python -m json.tool reports/nfl_weather.json > /dev/null

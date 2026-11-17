@@ -174,6 +174,8 @@ def espn_games(now):
         state = comp.get("status", {}).get("type", {}).get("state") or ev.get("status", {}).get("type", {}).get("state")
         if state != "pre":
             continue
+        if os.environ.get("WX_DEBUG") and not games:
+            log("  DEBUG odds:", json.dumps(comp.get("odds"))[:3000])
         teams = {c["homeAway"]: c["team"]["abbreviation"] for c in comp["competitors"]}
         venue = comp.get("venue", {}) or {}
         week = (ev.get("week") or data.get("week") or {}).get("number")
@@ -231,6 +233,8 @@ def espn_open_total(event_id):
     except Exception as e:
         log("  summary odds failed:", e)
         return None
+    if os.environ.get("WX_DEBUG"):
+        log("  DEBUG pickcenter:", json.dumps(d.get("pickcenter"))[:3000])
     for pc in d.get("pickcenter", []) or []:
         t = _total_from(pc.get("open"))
         if t:
