@@ -1,0 +1,43 @@
+name: NFL weather layer
+on:
+  schedule:
+    - cron: "7 * * * *"   # hourly; the script decides which games are due (12h Mon-Wed, 6h Thu-Sat, hourly from 3h before kickoff, final pull at T-90)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Pull every game now (true/false)"
+        default: "false"
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: weather
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull weather
+        id: wx
+        run: python weather/build_weather.py ${{ inputs.force == 'true' && '--force' || '' }}
+      - name: Validate JSON
+        run: python -m json.tool reports/nfl_weather.json > /dev/null
+      - name: Commit
+        run: |
+          git config user.name "zmp-weather-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/nfl_weather.json weather/nws_points.json weather/alerts.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "Weather: $(TZ=America/Los_Angeles date '+%a %-m/%-d %-I:%M %p PT') refresh"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
+      - name: Alert (opens a GitHub issue, which emails the repo owner)
+        if: steps.wx.outputs.alerts != '0' && steps.wx.outputs.alerts != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "WEATHER ALERT $(TZ=America/Los_Angeles date '+%a %-m/%-d %-I:%M %p PT')" --body-file weather/.last_alerts.md
