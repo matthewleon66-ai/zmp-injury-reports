@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T17:57:21Z",
- "updated_pt": "Tue 11/17 9:57 AM PT",
+ "updated": "2026-11-17T18:56:17Z",
+ "updated_pt": "Tue 11/17 10:56 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -182,7 +182,7 @@
    "city": "Orchard Park, NY",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 47.5,
     "open_source": "ESPN",
@@ -332,13 +332,9 @@
    "pulled_at_iso": "2026-11-17T17:57:21Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U 45.5",
-    "before": "O/U 47.5",
-    "changed": true
-   },
-   "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 10 mph (peak 10) / gust 22 / SW | 60°F / 59°F | 43% rain | BREEZY | LOW | 47.5 → 45.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "edge_rerun_needed": false,
+   "odds_display": null,
+   "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 10 mph (peak 10) / gust 22 / SW | 60°F / 59°F | 43% rain | BREEZY | MEDIUM | 47.5 → 45.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873071",
@@ -351,7 +347,7 @@
    "city": "Chicago, IL",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 46.5,
     "open_source": "ESPN",
@@ -513,7 +509,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 10 mph (peak 10) / gust 17 / WNW [Open-Meteo 4] | 48°F / 43°F | 8% none | BREEZY SOURCES DISAGREE | LOW | 46.5 → 48.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 10 mph (peak 10) / gust 17 / WNW [Open-Meteo 4] | 48°F / 43°F | 8% none | BREEZY SOURCES DISAGREE | MEDIUM | 46.5 → 48.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873073",
@@ -526,7 +522,7 @@
    "city": "Arlington, TX",
    "neutral_site": false,
    "roof": "ROOF TBD",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 48.5,
     "open_source": "ESPN",
@@ -679,7 +675,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 10 mph (peak 10) / gust 16 / NNE | 66°F / 65°F | 4% none | BREEZY ROOF TBD | LOW | 48.5 → 54.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 10 mph (peak 10) / gust 16 / NNE | 66°F / 65°F | 4% none | BREEZY ROOF TBD | MEDIUM | 48.5 → 54.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873072",
@@ -692,7 +688,7 @@
    "city": "Detroit, MI",
    "neutral_site": false,
    "roof": "INDOOR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 49.5,
     "open_source": "ESPN",
@@ -717,14 +713,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 9:57 AM PT",
-   "pulled_at_iso": "2026-11-17T17:57:21Z",
+   "pulled_at": "Tue 11/17 10:56 AM PT",
+   "pulled_at_iso": "2026-11-17T18:56:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 49.5 → 45.5 | — | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Tue 11/17 10:56 AM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -737,7 +733,7 @@
    "city": "Kansas City, MO",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 44.5,
     "open_source": "ESPN",
@@ -891,7 +887,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 8 mph (peak 8) / gust 12 / N [Open-Meteo 15] | 50°F / 44°F | 1% none | CALM SOURCES DISAGREE | LOW | 44.5 → 41.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 8 mph (peak 8) / gust 12 / N [Open-Meteo 15] | 50°F / 44°F | 1% none | CALM SOURCES DISAGREE | MEDIUM | 44.5 → 41.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873076",
@@ -904,7 +900,7 @@
    "city": "Philadelphia, PA",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 42.5,
     "open_source": "ESPN",
@@ -1056,7 +1052,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 5 mph (peak 5) / gust 8 / NE | 63°F / 62°F | 33% rain | CALM | LOW | 42.5 → 38.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 5 mph (peak 5) / gust 8 / NE | 63°F / 62°F | 33% rain | CALM | MEDIUM | 42.5 → 38.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873068",
@@ -1069,7 +1065,7 @@
    "city": "Charlotte, NC",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 46.5,
     "open_source": "ESPN",
@@ -1225,7 +1221,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 6 mph (peak 6) / gust 12 / N | 70°F / 69°F | 5% none | CALM | LOW | 46.5 → 43.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 6 mph (peak 6) / gust 12 / N | 70°F / 69°F | 5% none | CALM | MEDIUM | 46.5 → 43.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873074",
@@ -1259,14 +1255,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 9:57 AM PT",
-   "pulled_at_iso": "2026-11-17T17:57:21Z",
+   "pulled_at": "Tue 11/17 10:56 AM PT",
+   "pulled_at_iso": "2026-11-17T18:56:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 41.5 → 40.5 | — | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 41.5 → 40.5 | — | Tue 11/17 10:56 AM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1616,14 +1612,18 @@
     "open": 46.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": null,
-    "now": 46.5,
+    "prev": 46.5,
+    "now": 45.5,
     "spread": "SF -3",
     "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-17T05:38:41Z",
       "total": 46.5
+     },
+     {
+      "t": "2026-11-17T18:56:17Z",
+      "total": 45.5
      }
     ]
    },
@@ -1701,7 +1701,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 5:20 PM PT | Estadio Banorte | OPEN-AIR | 3 mph (peak 3) / gust 17 / NW | 64°F / 61°F | 57% rain 0.01\" | CALM | LOW | 46.5 → 46.5 | Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 5:20 PM PT | Estadio Banorte | OPEN-AIR | 3 mph (peak 3) / gust 17 / NW | 64°F / 61°F | 57% rain 0.01\" | CALM | LOW | 46.5 → 45.5 | Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873078",
