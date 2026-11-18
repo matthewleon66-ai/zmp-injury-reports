@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T03:53:29Z",
- "updated_pt": "Tue 11/17 7:53 PM PT",
+ "updated": "2026-11-18T04:57:57Z",
+ "updated_pt": "Tue 11/17 8:57 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -705,8 +705,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": 44.5,
-    "now": 43.5,
+    "prev": 43.5,
+    "now": 44.5,
     "spread": "DET -7",
     "book": "DraftKings",
     "history": [
@@ -725,6 +725,10 @@
      {
       "t": "2026-11-18T02:18:05Z",
       "total": 43.5
+     },
+     {
+      "t": "2026-11-18T04:57:57Z",
+      "total": 44.5
      }
     ]
    },
@@ -733,14 +737,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 7:53 PM PT",
-   "pulled_at_iso": "2026-11-18T03:53:29Z",
+   "pulled_at": "Tue 11/17 8:57 PM PT",
+   "pulled_at_iso": "2026-11-18T04:57:57Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 43.5 | — | Tue 11/17 7:53 PM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 44.5 | — | Tue 11/17 8:57 PM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -1283,14 +1287,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 7:53 PM PT",
-   "pulled_at_iso": "2026-11-18T03:53:29Z",
+   "pulled_at": "Tue 11/17 8:57 PM PT",
+   "pulled_at_iso": "2026-11-18T04:57:57Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Tue 11/17 7:53 PM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Tue 11/17 8:57 PM PT"
   },
   {
    "espn_event_id": "401873075",
