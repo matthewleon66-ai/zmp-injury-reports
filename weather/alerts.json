@@ -17,6 +17,15 @@
    "text": "MIA@BUF: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
    "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 8 mph (peak 9) / gust 13 / SW | 60°F / 59°F | 42% rain | CALM | MEDIUM | 47.5 → 45.5 | NWS + Open-Meteo | Tue 11/17 9:59 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873066-2026-11-18T17:54:27Z-0",
+   "created": "2026-11-18T17:54:27Z",
+   "game": "IND@HOU",
+   "kickoff_pt": "Thu 11/19 5:15 PM PT",
+   "text": "IND@HOU: sustained wind 5 -> 0 mph (CALM -> CALM)",
+   "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF TBD | 0 mph (peak 0) / gust 5 / — | 64°F / 62°F | 0% none | CALM ROOF TBD | HIGH | 45.5 → 44.5 | NWS + Open-Meteo | Wed 11/18 9:54 AM PT",
+   "notified": false
   }
  ]
 }
