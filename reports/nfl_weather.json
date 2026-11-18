@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T01:05:51Z",
- "updated_pt": "Tue 11/17 5:05 PM PT",
+ "updated": "2026-11-18T02:18:05Z",
+ "updated_pt": "Tue 11/17 6:18 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -16,7 +16,7 @@
    "city": "Houston, TX",
    "neutral_site": false,
    "roof": "ROOF TBD",
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "total": {
     "open": 45.5,
     "open_source": "ESPN",
@@ -169,7 +169,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF TBD | 5 mph (peak 5) / gust 6 / NE | 66°F / 64°F | 0% none | CALM ROOF TBD | MEDIUM | 45.5 → 44.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF TBD | 5 mph (peak 5) / gust 6 / NE | 66°F / 64°F | 0% none | CALM ROOF TBD | HIGH | 45.5 → 44.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873070",
@@ -352,8 +352,8 @@
     "open": 46.5,
     "open_source": "ESPN",
     "first_seen": 48.5,
-    "prev": 49.5,
-    "now": 48.5,
+    "prev": 48.5,
+    "now": 49.5,
     "spread": "CHI -11.5",
     "book": "DraftKings",
     "history": [
@@ -376,6 +376,10 @@
      {
       "t": "2026-11-17T23:48:37Z",
       "total": 48.5
+     },
+     {
+      "t": "2026-11-18T02:18:05Z",
+      "total": 49.5
      }
     ]
    },
@@ -517,7 +521,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 10 mph (peak 10) / gust 17 / WNW [Open-Meteo 4] | 48°F / 43°F | 8% none | BREEZY SOURCES DISAGREE | MEDIUM | 46.5 → 48.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 10 mph (peak 10) / gust 17 / WNW [Open-Meteo 4] | 48°F / 43°F | 8% none | BREEZY SOURCES DISAGREE | MEDIUM | 46.5 → 49.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873073",
@@ -701,8 +705,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": 45.5,
-    "now": 44.5,
+    "prev": 44.5,
+    "now": 43.5,
     "spread": "DET -7",
     "book": "DraftKings",
     "history": [
@@ -717,6 +721,10 @@
      {
       "t": "2026-11-17T22:51:54Z",
       "total": 44.5
+     },
+     {
+      "t": "2026-11-18T02:18:05Z",
+      "total": 43.5
      }
     ]
    },
@@ -725,14 +733,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 5:05 PM PT",
-   "pulled_at_iso": "2026-11-18T01:05:51Z",
+   "pulled_at": "Tue 11/17 6:18 PM PT",
+   "pulled_at_iso": "2026-11-18T02:18:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 44.5 | — | Tue 11/17 5:05 PM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 43.5 | — | Tue 11/17 6:18 PM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -1275,14 +1283,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Tue 11/17 5:05 PM PT",
-   "pulled_at_iso": "2026-11-18T01:05:51Z",
+   "pulled_at": "Tue 11/17 6:18 PM PT",
+   "pulled_at_iso": "2026-11-18T02:18:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Tue 11/17 5:05 PM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Tue 11/17 6:18 PM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1627,7 +1635,7 @@
    "city": "Mexico City, Mexico",
    "neutral_site": true,
    "roof": "OPEN-AIR",
-   "confidence": "LOW",
+   "confidence": "MEDIUM",
    "total": {
     "open": 46.5,
     "open_source": "ESPN",
@@ -1721,7 +1729,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 5:20 PM PT | Estadio Banorte | OPEN-AIR | 3 mph (peak 3) / gust 17 / NW | 64°F / 61°F | 57% rain 0.01\" | CALM | LOW | 46.5 → 45.5 | Open-Meteo | Tue 11/17 9:57 AM PT"
+   "card": "Sun 11/22 5:20 PM PT | Estadio Banorte | OPEN-AIR | 3 mph (peak 3) / gust 17 / NW | 64°F / 61°F | 57% rain 0.01\" | CALM | MEDIUM | 46.5 → 45.5 | Open-Meteo | Tue 11/17 9:57 AM PT"
   },
   {
    "espn_event_id": "401873078",
