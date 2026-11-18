@@ -8,6 +8,15 @@
    "text": "MIA@BUF: sustained wind 9 -> 10 mph (CALM -> BREEZY)",
    "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 10 mph (peak 10) / gust 22 / SW | 60°F / 59°F | 43% rain | BREEZY | LOW | 47.5 → 45.5 | NWS + Open-Meteo | Tue 11/17 9:57 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873070-2026-11-18T05:59:13Z-0",
+   "created": "2026-11-18T05:59:13Z",
+   "game": "MIA@BUF",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "MIA@BUF: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
+   "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 8 mph (peak 9) / gust 13 / SW | 60°F / 59°F | 42% rain | CALM | MEDIUM | 47.5 → 45.5 | NWS + Open-Meteo | Tue 11/17 9:59 PM PT",
+   "notified": false
   }
  ]
 }
