@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:02:02+00:00",
+  "updated": "2026-11-19T02:48:24+00:00",
   "reports": [
     {
       "espn_event_id": "",
@@ -7,395 +7,444 @@
       "home": "HOU",
       "kickoff": "2026-11-20T01:15:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 10:05 PM PT",
-      "pulled_iso": "2026-11-17T06:05:00Z",
+      "pulled_at": "Wed 11/18 7:10 PM PT",
+      "pulled_iso": "2026-11-19T03:10:00Z",
       "sources_checked": [
-        "houstontexans.com Week 11 injury report: Texans vs. Colts (Mon 11/16 5:48 PM)",
-        "si.com Texans OnSI: first injury report (Mon 11/16 5:38 PM PT)",
-        "si.com betting preview (DraftKings, 11/16)",
-        "sportsbettingdime.com opening Week 11 odds (DraftKings, Sat 11/15 2:57 PM PT)",
-        "covers.com TNF odds (updated Fri 11/13)",
-        "nbcsports.com/PFT MNF recap (to confirm Week 10 is finished)"
+        "colts.com 'Colts rule out 5 players for Week 11 TNF vs. Houston Texans' (Wed 11/18 1:30 PM)",
+        "nfl.com/injuries Week 11 (Wed practice column)",
+        "houstontexans.com Week 11 injury report (updated Tue 11/17 3:46 PM; Mon/Tue columns only)",
+        "ESPN 'Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs' (Wed 11/18 3:00 PM PT) - same story as TSN lead, confirmed 2026",
+        "SI Texans OnSI 'Texans rule out 4 players on final injury report' (Wed 11/18 ~1:20 PM PT)",
+        "SI Colts OnSI 'Week 11 Injury Report: Colts, Texans each without key veterans' (Wed 11/18 ~2:07 PM PT)",
+        "Yahoo/Colts Wire 'Colts vs. Texans final injury report' (Wed 11/18 ~5:30 PM PT)",
+        "NBC Sports/Rotoworld 'Colts list Gardner as questionable after 3 DNPs' (Wed 11/18)",
+        "heavy.com Kamari Lassiter update (Wed 11/18) - confirmed 2026",
+        "Yahoo 'Texans estimate David Montgomery as full participant' (Mon 11/16 evening) - Monday report was estimated",
+        "VegasInsider Colts vs Texans odds page (11/18)",
+        "Yahoo game page odds (Wed 11/18)",
+        "BUSR 'Why the line moved toward Houston' (Wed 11/18 9:04 AM PT)",
+        "SI betting 'Colts vs. Texans odds skyrocket' (Tue 11/17 5:15 AM PT, DraftKings)"
       ],
       "sources_unreachable": [
-        "nfl.com/injuries — not fetched this run (Monday report read via team site + SI)",
-        "ESPN game page / ESPN event id — fetch permission not granted, site.api.espn.com blocked by proxy",
-        "Team X accounts (not fetchable)",
-        "No live line feed reached after Monday's report; line_now is DraftKings from 11/16 preview"
+        "battleredblog.com injury report (robots-blocked)",
+        "houstontexans.com report had no Wednesday column yet when fetched; Wed practice from nfl.com",
+        "ESPN game page / event id not reached",
+        "Team X accounts (not fetchable)"
       ],
-      "line_before": "IND @ HOU: HOU -9.5 (-115) / O/U 44.5, ML HOU -455 / IND +350 (DraftKings opener, Sat 11/15)",
-      "line_now": "HOU -9.5 / O/U 44.5 (DraftKings via SI, Mon 11/16); Covers consensus total 43.5 (Fri 11/13); Covers Mon 11/16 late: HOU -10.5 / O/U 44.5 (opened -9.5 / 43.5); BetMGM HOU -11 / 44",
-      "line_moved_on_news": "No confirmed move yet after Monday's report (posted ~5:45 PM PT); recheck Tue/Wed.",
+      "line_before": "HOU -9.5 (-115) / O/U 44.5, ML HOU -455 / IND +350 (DraftKings opener, Sat 11/15); Covers Mon 11/16 late HOU -10.5 / 44.5",
+      "line_now": "HOU -12.5 / O/U 44.5 at most books, ML ~HOU -750 / IND +525 (VegasInsider 11/18); HardRock -13, BookMaker -13, Kalshi -13.5; total 44 at BetMGM/HardRock, Yahoo shows 43.5",
+      "line_moved_on_news": "HOU moved from -9.5/-10.5 to -12.5/-13 Mon-Wed as both IND starting OTs (Raimann, Travis) and both starting CBs (Ward, Gardner) sat all week; BUSR also cites sharp money (34% of tickets, 61% of dollars on HOU). Total roughly flat at 44.5.",
       "top3": [
         {
-          "player": "Sauce Gardner & Charvarius Ward",
+          "player": "Bernhard Raimann & Jalen Travis",
           "team": "IND",
-          "why": "Both starting CBs DNP Monday (calf, knee). On a short week, missing both would gut IND's pass defense vs. Stroud/Dell — supports HOU -9.5 and the Over."
+          "why": "Both starting OTs OUT. Luke Tenuta at LT, Matt Goncalves slides to RT, Tucker at RG - big pass-pro downgrade vs. Will Anderson Jr., though HOU is also without Hunter. Main driver of the move to HOU -12.5."
         },
         {
-          "player": "Bernhard Raimann (and Jalen Travis)",
+          "player": "Charvarius Ward (Out) & Sauce Gardner (Q, 3 DNPs)",
           "team": "IND",
-          "why": "Starting LT in concussion protocol with 3 days to clear; backup T Travis also DNP (knee). Exposes IND QB to HOU pass rush — though HOU's Danielle Hunter is DNP too."
+          "why": "Ward is out and Gardner is very unlikely after three DNPs. Justin Walley and backups vs. Stroud/Dell supports HOU's passing game and the Over/HOU team total."
         },
         {
-          "player": "Danielle Hunter / Azeez Al-Shaair / Marvin Harrison Jr.",
+          "player": "Danielle Hunter / Woody Marks / Marvin Harrison Jr. / Azeez Al-Shaair (IR)",
           "team": "HOU",
-          "why": "Top edge rusher, top LB and a starting WR all DNP Monday. If Hunter and Al-Shaair sit, HOU's defense softens — the main path to IND covering +9.5."
+          "why": "HOU is also thin: top edge (Clowney replaces), lead RB (Montgomery returns from groin), a starting WR and top LB (IR) are all missing. This is IND's best argument for covering +12.5."
         }
       ],
       "clusters": [
-        "IND CB: Sauce Gardner (DNP), Charvarius Ward (DNP)",
-        "IND OT: Bernhard Raimann (DNP, concussion), Jalen Travis (DNP, knee)",
-        "HOU front seven: Danielle Hunter (DNP), Azeez Al-Shaair (DNP), Jake Hummel (LP)"
+        "IND OT: Bernhard Raimann (Out, concussion), Jalen Travis (Out, knee); backup T Charlie Heck Q (personal, DNP Tue/Wed)",
+        "IND CB: Charvarius Ward (Out), Sauce Gardner (Q, DNP all week)",
+        "IND DL/LB: Jerry Tillery (Out), Jaylon Carlies (IR)",
+        "HOU front seven: Danielle Hunter (Out), Azeez Al-Shaair (IR), Jake Hummel (Q, LP all week)",
+        "HOU pass catchers: Marvin Harrison Jr. (Out), Brevin Jordan (Out)"
       ],
-      "replacements": [],
+      "replacements": [
+        {
+          "out": "Bernhard Raimann (IND LT)",
+          "replacement": "Luke Tenuta",
+          "dropoff": "Large - backup T starting at LT vs. HOU pass rush (SI Colts OnSI)"
+        },
+        {
+          "out": "Jalen Travis (IND RT)",
+          "replacement": "Matt Goncalves (RG->RT), Dalton Tucker in at RG",
+          "dropoff": "Moderate - two OL spots shuffled on a short week (SI Colts OnSI)"
+        },
+        {
+          "out": "Charvarius Ward (IND CB) [+ Gardner if out]",
+          "replacement": "Justin Walley as top boundary CB; Kenneth Harris, Jonathan Edwards behind",
+          "dropoff": "Large if Gardner also sits - IND would have neither starting CB (SI Texans OnSI)"
+        },
+        {
+          "out": "Danielle Hunter (HOU DE)",
+          "replacement": "Jadeveon Clowney opposite Will Anderson Jr.",
+          "dropoff": "Moderate - veteran fill-in, less pass-rush juice (SI Texans OnSI)"
+        },
+        {
+          "out": "Woody Marks (HOU RB)",
+          "replacement": "David Montgomery (back from groin, first game since Week 5); Emari Demercado RB2",
+          "dropoff": "Small to moderate - Montgomery is capable but possibly rusty (SI Texans OnSI, ESPN)"
+        }
+      ],
       "conflicts": [
-        "Estimated vs. actual: SI says Monday statuses are estimates from a walkthrough; the Texans' own report doesn't say. Treated as estimated (weaker data) — SI is the more specific source.",
-        "Line sources disagree Mon night: DraftKings via SI HOU -9.5, Covers HOU -10.5, BetMGM HOU -11 — recheck Tue."
+        "heavy.com listed IND G Dalton Tucker among those ruled out; colts.com, ESPN and SI list Mallory, Raimann, Tillery, Travis and Ward as out, and nfl.com shows Tucker FP. Official team report won: Tucker is not on the out list.",
+        "Jaylin Smith (HOU CB): Yahoo/Colts Wire and SI Colts OnSI list him Questionable despite FP all week; SI Texans OnSI's list leaves him out. Kept as Questionable.",
+        "Kamari Lassiter: DNP Tue/Wed on official report but no designation in any final-report article, and a league source says he plays (Aaron Wilson via heavy.com). Kept as no status, play_pct 80.",
+        "Lead 'Colts Make Final Sauce Gardner Decision Before Texans Tilt' (si.com) is STALE - Jan 2, 2026 (2025 Week 18, Gardner Out). Ignored. Current status is Q after 3 DNPs.",
+        "Opening line differs by source: DK opener -9.5 (previous report), SI 'opened -10', VegasInsider lists open -5.5 / 45.5 (likely look-ahead line). Used DK -9.5 as line_before.",
+        "Monday was a walkthrough for both teams - Monday practice statuses are estimates (Yahoo for HOU; CBS 'walkthrough' and colts.com wording for IND)."
       ],
       "unknowns": [
         {
-          "what": "Tuesday practice report for both teams",
-          "known_by": "Tue 11/17 ~5:30 PM PT"
+          "what": "Sauce Gardner active or inactive (also Gould, Heck, Rhodes, Hummel, Teller, J. Smith, Lassiter)",
+          "known_by": "Thu 11/19 ~3:45 PM PT inactives (earlier via Schefter/Rapoport/beat reports Thu)"
         },
         {
-          "what": "Game statuses (Out/Doubtful/Questionable) — Gardner, Ward, Raimann, Hunter, Al-Shaair, Harrison Jr., Marks",
-          "known_by": "Wed 11/18 ~5:30 PM PT"
+          "what": "Who replaces Al-Shaair at LB for HOU - not named in any source",
+          "known_by": "Thu 11/19 inactives / starting lineup"
         },
         {
-          "what": "Woody Marks / Bernhard Raimann clearing concussion protocol",
-          "known_by": "Wed 11/18 report"
-        },
-        {
-          "what": "Official inactives",
-          "known_by": "Thu 11/19 ~3:45 PM PT"
+          "what": "Any Wednesday-night or Thursday roster moves (practice-squad elevations at OT/CB for IND)",
+          "known_by": "Thu 11/19 ~1 PM PT"
         }
       ],
       "players": [
         {
-          "team": "HOU",
-          "player": "Azeez Al-Shaair",
-          "pos": "LB",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Groin. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Marvin Harrison Jr.",
-          "pos": "WR",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hamstring. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Danielle Hunter",
-          "pos": "DE",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hamstring. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Brevin Jordan",
-          "pos": "TE",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Foot / illness. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Woody Marks",
-          "pos": "RB",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Concussion — in protocol on a short week; must clear before Thursday. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Jake Hummel",
-          "pos": "LB",
-          "practice": "Mon LP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Groin. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Reed Blankenship",
-          "pos": "S",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hand. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Tank Dell",
-          "pos": "WR",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hand / Shoulder. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Blake Fisher",
-          "pos": "T",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Thumb. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Kamari Lassiter",
-          "pos": "CB",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Wrist. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "David Montgomery",
-          "pos": "RB",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Groin. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Febechi Nwaiwu",
-          "pos": "G",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Knee. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Keylan Rutledge",
-          "pos": "C/G",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Shoulder. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Jaylin Smith",
-          "pos": "CB",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hamstring. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "HOU",
-          "player": "Wyatt Teller",
-          "pos": "G",
-          "practice": "Mon FP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Back. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
           "team": "IND",
-          "player": "Jaylon Carlies",
-          "pos": "LB",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Neck. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "IND",
-          "player": "Sauce Gardner",
+          "player": "Charvarius Ward",
           "pos": "CB",
-          "practice": "Mon DNP (est.)",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
           "estimated": true,
-          "status": "none",
-          "play_pct": null,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Calf. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "IND",
-          "player": "Will Mallory",
-          "pos": "TE",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hamstring. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Knee. Ruled out Wed. Second starting CB (with Gardner) likely missing.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         },
         {
           "team": "IND",
           "player": "Bernhard Raimann",
           "pos": "T",
-          "practice": "Mon DNP (est.)",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
           "estimated": true,
-          "status": "none",
-          "play_pct": null,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Concussion. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "IND",
-          "player": "Luke Rhodes",
-          "pos": "LS",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Hamstring. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
-        },
-        {
-          "team": "IND",
-          "player": "Jerry Tillery",
-          "pos": "DT",
-          "practice": "Mon DNP (est.)",
-          "estimated": true,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Calf. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Concussion. Starting LT ruled out; Luke Tenuta expected to start at LT (SI Colts OnSI).",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         },
         {
           "team": "IND",
           "player": "Jalen Travis",
           "pos": "T",
-          "practice": "Mon DNP (est.)",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
           "estimated": true,
-          "status": "none",
-          "play_pct": null,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knee. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Knee. Starting RT out 2nd straight game; Matt Goncalves moves RG->RT, Dalton Tucker in at RG (SI Colts OnSI).",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         },
         {
           "team": "IND",
-          "player": "Charvarius Ward",
-          "pos": "CB",
-          "practice": "Mon DNP (est.)",
+          "player": "Will Mallory",
+          "pos": "TE",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
           "estimated": true,
-          "status": "none",
-          "play_pct": null,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knee. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Hamstring. Ruled out.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Jerry Tillery",
+          "pos": "DT",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Calf. Ruled out; 2nd straight game missed.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Sauce Gardner",
+          "pos": "CB",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Questionable",
+          "play_pct": 25,
+          "type": "injury",
+          "note": "Calf (aggravated, left Week 10 vs MIA and didn't return). Questionable after 3 DNPs - usually means he sits. If out, Justin Walley likely top boundary CB with Kenneth Harris / Jonathan Edwards (SI Texans OnSI).",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); NBC/Rotoworld 11/18; ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         },
         {
           "team": "IND",
           "player": "Anthony Gould",
           "pos": "WR",
-          "practice": "Mon LP (est.)",
+          "practice": "Mon LP(est) · Tue LP · Wed LP",
           "estimated": true,
-          "status": "none",
-          "play_pct": null,
+          "status": "Questionable",
+          "play_pct": 65,
           "type": "injury",
-          "note": "Toe. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Toe. Limited all week.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Charlie Heck",
+          "pos": "T",
+          "practice": "Mon - · Tue DNP · Wed DNP",
+          "estimated": false,
+          "status": "Questionable",
+          "play_pct": 50,
+          "type": "personal",
+          "note": "Not injury related - personal. Backup T; matters more with both starting OTs out.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Luke Rhodes",
+          "pos": "LS",
+          "practice": "Mon DNP(est) · Tue LP · Wed LP",
+          "estimated": true,
+          "status": "Questionable",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Hamstring. Missed Week 10.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         },
         {
           "team": "IND",
           "player": "Dalton Tucker",
           "pos": "G",
-          "practice": "Mon FP (est.)",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
           "estimated": true,
           "status": "none",
-          "play_pct": null,
+          "play_pct": 95,
           "type": "injury",
-          "note": "Shoulder. No game status yet — game designations come with Wednesday's report.",
-          "source": "houstontexans.com Week 11 injury report (Mon 11/16 5:48 PM); SI Texans OnSI first injury report (Mon 11/16 5:38 PM PT)",
-          "pulled_at": "Mon 11/16 10:05 PM PT"
+          "note": "Shoulder. No designation; expected to start at RG with Goncalves sliding to RT. (heavy.com listed him Out - wrong per colts.com.)",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Jaylon Carlies",
+          "pos": "LB",
+          "practice": "Mon DNP(est); placed on IR Tue",
+          "estimated": true,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Neck. Placed on IR Tue 11/17; out at least 4 games (colts.com). nfl.com page still showed him DNP.",
+          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Danielle Hunter",
+          "pos": "DE",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Hamstring. Out 2nd straight game; Jadeveon Clowney expected to take most snaps opposite Will Anderson Jr. (SI Texans OnSI).",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Woody Marks",
+          "pos": "RB",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Concussion (Week 10 vs CLE). Out; David Montgomery (no designation) returns as lead back, Emari Demercado RB2.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Marvin Harrison Jr.",
+          "pos": "WR",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Hamstring. Out 2nd straight game.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Brevin Jordan",
+          "pos": "TE",
+          "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Foot / illness. Ruled out.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Jake Hummel",
+          "pos": "LB",
+          "practice": "Mon LP(est) · Tue LP · Wed LP",
+          "estimated": true,
+          "status": "Questionable",
+          "play_pct": 65,
+          "type": "injury",
+          "note": "Groin. Limited all week; LB depth matters more with Al-Shaair on IR.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Wyatt Teller",
+          "pos": "G",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "Questionable",
+          "play_pct": 90,
+          "type": "injury",
+          "note": "Back. Full all week but still Questionable.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Jaylin Smith",
+          "pos": "CB",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "Questionable",
+          "play_pct": 85,
+          "type": "injury",
+          "note": "Hamstring. Full all week; listed Questionable by Yahoo/Colts Wire and SI Colts OnSI (SI Texans OnSI list omitted him).",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Kamari Lassiter",
+          "pos": "CB",
+          "practice": "Mon FP(est) · Tue DNP · Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 80,
+          "type": "injury",
+          "note": "Wrist. Added Tue; DNP Tue/Wed but no game designation reported, and 'set to play vs. Colts per a league source' (Aaron Wilson, KPRC 2, via heavy.com 11/18).",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; heavy.com 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "David Montgomery",
+          "pos": "RB",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Groin. Off injury report for Thursday; first game back since Week 5, takes over for Marks.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; FantasyPros",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Tank Dell",
+          "pos": "WR",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand / shoulder. No designation.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Reed Blankenship",
+          "pos": "S",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand. No designation.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Blake Fisher",
+          "pos": "T",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Thumb. No designation.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Febechi Nwaiwu",
+          "pos": "G",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee. No designation.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Keylan Rutledge",
+          "pos": "C/G",
+          "practice": "Mon FP(est) · Tue FP · Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder. No designation.",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
+        },
+        {
+          "team": "HOU",
+          "player": "Azeez Al-Shaair",
+          "pos": "LB",
+          "practice": "Mon DNP(est); placed on IR",
+          "estimated": true,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Groin. Starting LB placed on IR this week (ESPN, heavy.com, Yahoo).",
+          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; ESPN 11/18",
+          "pulled_at": "Wed 11/18 7:10 PM PT"
         }
       ]
     },
@@ -405,59 +454,445 @@
       "home": "BUF",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:15 PM PT",
+      "pulled_iso": "2026-11-19T03:15:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "Yahoo Sports Dolphins Wed injury report (11/18)",
+        "SI Dolphins On SI first Week 11 injury report (11/18)",
+        "Yahoo Sports Bills Wed injury report (11/18)",
+        "SI Bills On SI Week 11 practice injuries (11/18-19)",
+        "NBC Sports Kincaid note (11/18)",
+        "Yahoo Sports Malik Willis IR (11/11)",
+        "VegasInsider Week 11 odds (11/18 5:53 PM ET)",
+        "RotoWire Week 11 line moves (11/18 2:05 PM ET)",
+        "Covers Week 11 lines (11/17 10:13 PM ET)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "buffalorumblings.com (robots blocked)",
+        "buffalobills.com/team/injury-report (table did not load)",
+        "nfl.com/injuries official page (not in search results)"
       ],
-      "line_before": "",
-      "line_now": "BUF -16.5 / O/U 46.5 (Covers, Mon 11/16)",
+      "line_before": "BUF -16.5 / O/U 46.5 (Covers, Mon 11/16); opener BUF -17 / 47 (BetMGM via VegasInsider)",
+      "line_now": "BUF -16.5 / O/U 45.5 (VegasInsider consensus + RotoWire, Wed 11/18)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Malik Willis (IR) -> Kyle McCord",
+          "team": "MIA",
+          "why": "Starting QB on IR (groin) since 11/11; McCord starts again - already priced into the 16.5 spread."
         },
         {
-          "what": "Game statuses",
+          "player": "Christian Benford + Dee Alford",
+          "team": "BUF",
+          "why": "Top outside CB (groin) and slot CB (concussion protocol) both DNP - weakens BUF pass D, small lean toward MIA passing/Over if both sit."
+        },
+        {
+          "player": "Aaron Brewer",
+          "team": "MIA",
+          "why": "Starting C still in concussion protocol (DNP) and backup C Andrew Meyer limited (neck) - Jarrett Kingston would snap; hurts MIA offense vs BUF front."
+        }
+      ],
+      "clusters": [
+        "BUF CB: Christian Benford (groin) DNP, Dee Alford (concussion) DNP",
+        "BUF S: Cole Bishop, Damar Hamlin, Amani Hooker all LP",
+        "MIA C: Aaron Brewer DNP (concussion), Andrew Meyer LP (neck)",
+        "MIA WR room: Jared Wayne DNP, Chris Bell LP, Caleb Douglas LP"
+      ],
+      "replacements": [
+        {
+          "out": "QB Malik Willis (MIA, IR)",
+          "replacement": "Kyle McCord",
+          "dropoff": "Large - backup-level starter; expected to start through at least Week 12."
+        },
+        {
+          "out": "C Aaron Brewer (MIA, if out)",
+          "replacement": "Jarrett Kingston (if Meyer also out)",
+          "dropoff": "Moderate - third-string center vs a strong BUF DL."
+        },
+        {
+          "out": "S Dante Trader Jr. (MIA, if out)",
+          "replacement": "Zayne Anderson alongside Michael Taaffe",
+          "dropoff": "Moderate."
+        },
+        {
+          "out": "P Bradley Pinion (MIA, if out)",
+          "replacement": "Jack Browning (signed to practice squad 11/18)",
+          "dropoff": "Small-moderate - field position."
+        }
+      ],
+      "conflicts": [
+        "Damar Hamlin injury: SI Bills article said foot (seen in boot); official report via Yahoo/SI Dolphins lists toe - official listing (toe) used.",
+        "Opening line: RotoWire lists opener BUF -12.5 / 48.5 (likely lookahead), VegasInsider says BetMGM opened -17 / 47 Sunday night - VegasInsider used."
+      ],
+      "unknowns": [
+        {
+          "what": "Game statuses (Out/Doubtful/Questionable)",
           "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Whether Benford and Alford (concussion protocol) play",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Zeek Biggers (DT, knee in Week 10) was not on Wednesday's MIA report - current status unconfirmed",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Bills report was estimated (walkthrough) - first real practice participation",
+          "known_by": "Thu 11/19 ~1:00 PM PT"
         }
       ],
       "players": [
         {
           "team": "MIA",
-          "player": "Zeek Biggers",
-          "pos": "DT",
-          "practice": "No Week 11 report yet",
+          "player": "Malik Willis",
+          "pos": "QB",
+          "practice": "IR",
           "estimated": false,
-          "status": "none",
-          "play_pct": null,
+          "status": "IR",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knee injury in Week 10; severity unknown.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Lingering groin; placed on IR 11/11, out at least 4 weeks (possible return Wk 13 vs CHI). Kyle McCord starts.",
+          "source": "Yahoo Sports (11/11)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
         },
         {
           "team": "MIA",
           "player": "Zach Sieler",
           "pos": "DT",
-          "practice": "No Week 11 report yet",
+          "practice": "IR",
           "estimated": false,
           "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Season-ending biceps injury (Week 9). Carried over from Mon 11/16 report.",
+          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Aaron Brewer",
+          "pos": "C",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Season-ending biceps injury (Week 9).",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Concussion; still in protocol, missed another practice.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Dante Trader Jr.",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder/groin. Zayne Anderson likely starts if out.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Jared Wayne",
+          "pos": "WR",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Quad. Jalen Tolbert would see more snaps.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Bradley Pinion",
+          "pos": "P",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Right groin (new). Team signed P Jack Browning to practice squad 11/18.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Jaylin Simpson",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee (new); mainly special teams.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Tucker Addington",
+          "pos": "LS",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Chris Bell",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Knee; returned to practice after missing Colts game.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Caleb Douglas",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Shoulder (new).",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "JuJu Brents",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Neck (new).",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Andrew Meyer",
+          "pos": "C",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Neck (new); backup C behind Brewer.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "MIA",
+          "player": "Darrell Baker Jr.",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "Yahoo Sports 'Dolphins list 11 players on first injury report' (Wed 11/18) + SI Dolphins On SI (Wed 11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Dalton Kincaid",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Thumb/ankle (per NBC Sports 11/18).",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Christian Benford",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin, hurt vs Jets; coach Brady said missing practice doesn't necessarily mean he misses the game.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Dee Alford",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Concussion protocol (hurt vs Jets); slot CB.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "O'Cyrus Torrence",
+          "pos": "G",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "personal",
+          "note": "Not injury related - personal.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Dorian Williams",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Calf (left Jets game). Rookie Kaleb Elarms-Orr replaced him in-game.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Cole Bishop",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 75,
+          "type": "injury",
+          "note": "Shoulder; said he was a little sore, expected to be fine.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Ray Davis",
+          "pos": "RB",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Damar Hamlin",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 65,
+          "type": "injury",
+          "note": "Toe (official listing); SI reported walking boot/scooter after practice.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Amani Hooker",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 75,
+          "type": "injury",
+          "note": "Knee; played all 71 snaps vs Jets.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Keon Coleman",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Ty Johnson",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Connor McGovern",
+          "pos": "C",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Neck.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "T.J. Sanders",
+          "pos": "DL",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Tyrell Shavers",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "Yahoo Sports 'Dalton Kincaid, Christian Benford listed as out of Bills practice' (Wed 11/18, estimated report) + SI Bills On SI (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
         }
       ]
     },
@@ -467,34 +902,272 @@
       "home": "CAR",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:15 PM PT",
+      "pulled_iso": "2026-11-19T03:15:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "baltimoreravens.com Wed practice report (11/18)",
+        "Yahoo Sports Ravens Injury Report Week 11 (11/18)",
+        "Heavy - Minter on Madubuike (11/18)",
+        "panthers.com Week 11 Wednesday Injury Report (11/18)",
+        "Yahoo Sports - Bryce Young new injury (11/18)",
+        "NBC Sports - Minter confirms Jackson thumb out 6-10 weeks (11/13)",
+        "CBS 'NFL Week 11 injury report: Updates on Lamar Jackson, Joe Burrow, Jaxson Dart' (turned out to be 2025 season - ignored)",
+        "VegasInsider Week 11 odds (11/18 5:53 PM ET)",
+        "RotoWire Week 11 line moves (11/18)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "russellstreetreport.com Wed injury report (fetch error)",
+        "nfl.com/injuries official page (not in search results)"
       ],
-      "line_before": "",
-      "line_now": "CAR -2.5 / O/U 44.5 (Covers, Mon 11/16)",
-      "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "line_before": "CAR -2.5 / O/U 44.5 (Covers, Mon 11/16); opener CAR -2 / 44.5 (BetMGM via VegasInsider)",
+      "line_now": "CAR -2.5 / O/U 43.5 (VegasInsider consensus + RotoWire, Wed 11/18)",
+      "line_moved_on_news": "Lookahead BAL -4 flipped to CAR favored at open after Lamar Jackson's thumb surgery/IR with Jacoby Brissett starting (RotoWire); spread steady since Monday, total down 1.",
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Lamar Jackson (IR) -> Jacoby Brissett",
+          "team": "BAL",
+          "why": "Fractured/dislocated thumb, surgery, out 6-10 weeks - main reason BAL went from road favorite to dog."
         },
         {
-          "what": "Game statuses",
-          "known_by": "Fri 11/20 ~1:00 PM PT"
+          "player": "Nnamdi Madubuike",
+          "team": "BAL",
+          "why": "Top interior DL, hamstring, only BAL DNP; Minter vague ('see where it's at' late week) - his absence helps CAR run game."
+        },
+        {
+          "player": "Tommy Tremble + Darren Waller + Bobby Okereke",
+          "team": "CAR",
+          "why": "Both top TEs (knee) and starting LB (foot, missed last 2 games) DNP - thins CAR offense options and LB depth."
         }
       ],
-      "players": []
+      "clusters": [
+        "CAR TE room: Tommy Tremble (knee) DNP, Darren Waller (knee) DNP",
+        "CAR LB: Bobby Okereke (foot) DNP, Isaiah Simmons (knee) DNP"
+      ],
+      "replacements": [
+        {
+          "out": "QB Lamar Jackson (BAL, IR)",
+          "replacement": "Jacoby Brissett",
+          "dropoff": "Large - Brissett lost 23-20 to LAC in his debut; expected starter for 6-10 weeks."
+        }
+      ],
+      "conflicts": [
+        "CBS 'Week 11 injury report: Updates on Lamar Jackson...' article is from Nov 12, 2025 (Lamar knee DNP) - stale, ignored; NBC Sports (11/13/2026) + RotoWire (11/18/2026) confirm Jackson on IR with thumb injury."
+      ],
+      "unknowns": [
+        {
+          "what": "Game statuses (Out/Doubtful/Questionable)",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Madubuike availability (hamstring)",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Both teams' Wednesday reports were estimates (walkthroughs) - first real practice participation",
+          "known_by": "Thu 11/19 ~1:00 PM PT"
+        },
+        {
+          "what": "Full official BAL list beyond the 6 players reported (no nfl.com access)",
+          "known_by": "Thu 11/19 ~1:00 PM PT"
+        }
+      ],
+      "players": [
+        {
+          "team": "BAL",
+          "player": "Lamar Jackson",
+          "pos": "QB",
+          "practice": "IR",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Fractured/dislocated thumb (Week 8 vs BUF), surgery, IR; Minter: out 6-10 weeks. Jacoby Brissett starts.",
+          "source": "NBC Sports (11/13) + RotoWire (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Nnamdi Madubuike",
+          "pos": "DL",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring, hurt in Week 10 loss to LAC; Minter: will see late in week. Only 53-man absence.",
+          "source": "baltimoreravens.com 'Nnamdi Madubuike Is Lone Absence From Ravens Practice' (Wed 11/18) + Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Olaivavega Ioane",
+          "pos": "G",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Knee/shoulder; rookie RG, left LAC game in 3rd quarter.",
+          "source": "baltimoreravens.com 'Nnamdi Madubuike Is Lone Absence From Ravens Practice' (Wed 11/18) + Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Jaylinn Hawkins",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "baltimoreravens.com 'Nnamdi Madubuike Is Lone Absence From Ravens Practice' (Wed 11/18) + Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Mike Green",
+          "pos": "OLB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Biceps.",
+          "source": "Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Matthew Hibner",
+          "pos": "TE",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand.",
+          "source": "Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "BAL",
+          "player": "Adam Randall",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Neck/hamstring; recently activated off IR.",
+          "source": "Yahoo Sports Ravens Week 11 report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Bobby Okereke",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Foot; has missed the last two games.",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Chuba Hubbard",
+          "pos": "RB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 90,
+          "type": "rest",
+          "note": "Veteran rest day (not injury related).",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Tommy Tremble",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee (new to report).",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Darren Waller",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Isaiah Simmons",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee; core special teamer.",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Trevis Gipson",
+          "pos": "EDGE",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Will Lee III",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 90,
+          "type": "injury",
+          "note": "Hamstring; missed last two games.",
+          "source": "panthers.com Week 11 Wednesday Injury Report (Wed 11/18 2:41 PM ET) + Joe Person (X)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CAR",
+          "player": "Bryce Young",
+          "pos": "QB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 97,
+          "type": "injury",
+          "note": "Foot soreness after win over NO; Canales: no restrictions. Has not missed time this season.",
+          "source": "Joe Person (X) + Yahoo Sports (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        }
+      ]
     },
     {
       "espn_event_id": "",
@@ -502,46 +1175,257 @@
       "home": "CHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:15 PM PT",
+      "pulled_iso": "2026-11-19T03:15:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "neworleanssaints.com Saints Wednesday Injury Report Week 11 (11/18, both teams)",
+        "Yahoo/Canal Street Chronicles Saints report (11/18)",
+        "Yahoo/Windy City Gridiron Bears vs Saints report (11/18)",
+        "VegasInsider Week 11 odds (11/18 5:53 PM ET)",
+        "RotoWire Week 11 line moves (11/18)",
+        "Covers Week 11 lines (11/17)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "windycitygridiron.com (robots blocked; read via Yahoo syndication)",
+        "nfl.com/injuries official page (not in search results)"
       ],
-      "line_before": "",
-      "line_now": "CHI -10.5 / O/U 49.5 (Covers, Mon 11/16)",
-      "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "line_before": "CHI -10.5 / O/U 49.5 (Covers, Mon 11/16); opened CHI -10 Sunday night (VegasInsider)",
+      "line_now": "CHI -12 / O/U 49 (Hard Rock via VegasInsider, Wed 5 PM ET); RotoWire CHI -11.5 / 48.5",
+      "line_moved_on_news": "CHI moved -10 to -12 (briefly -12.5 Wed AM) with 79% of money on CHI; RotoWire flags Saints OL injuries (McCoy, Fuaga) but no source directly ties the move to them.",
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Erik McCoy + Taliese Fuaga + Asim Richards",
+          "team": "NO",
+          "why": "Starting C and two tackles all DNP - possible 3 OL backups vs CHI front; favors CHI cover/under for NO points."
         },
         {
-          "what": "Game statuses",
+          "player": "Kyler Gordon",
+          "team": "CHI",
+          "why": "Starting nickel CB DNP (shoulder), Ben Johnson calls him day-to-day - only real CHI concern."
+        },
+        {
+          "player": "Martin Emerson Jr. + Justin Reid",
+          "team": "NO",
+          "why": "Starting CB (concussion) and S (personal) DNP - NO secondary thin vs CHI passing game, leans Over/CHI."
+        }
+      ],
+      "clusters": [
+        "NO OL: Erik McCoy (biceps) DNP, Taliese Fuaga (knee) DNP, Asim Richards (knee) DNP",
+        "NO secondary: Martin Emerson Jr. (concussion) DNP, Justin Reid (personal) DNP, Decamerion Richardson (thigh) LP"
+      ],
+      "replacements": [],
+      "conflicts": [
+        "Bears report: neworleanssaints.com says CHI didn't practice (estimated); Yahoo/WCG calls it the first 'official' report without saying estimated - team site used (estimated)."
+      ],
+      "unknowns": [
+        {
+          "what": "Game statuses (Out/Doubtful/Questionable)",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Who starts at C/T for NO if McCoy, Fuaga, Richards sit (no source named replacements)",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Kyler Gordon availability (day-to-day)",
           "known_by": "Fri 11/20 ~1:00 PM PT"
         }
       ],
       "players": [
         {
           "team": "NO",
-          "player": "Pete Werner",
-          "pos": "LB",
-          "practice": "No Week 11 report yet",
+          "player": "Martin Emerson Jr.",
+          "pos": "CB",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Injured in Week 10; injury and severity not specified.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Concussion.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Taliese Fuaga",
+          "pos": "T",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Alvin Kamara",
+          "pos": "RB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 90,
+          "type": "rest",
+          "note": "Not injury related - rest.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Erik McCoy",
+          "pos": "C",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Biceps.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Justin Reid",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "personal",
+          "note": "Not injury related - personal matter.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Asim Richards",
+          "pos": "T",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Pete Werner",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring (hurt Week 10).",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Decamerion Richardson",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Thigh.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "Jordyn Tyson",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 75,
+          "type": "injury",
+          "note": "Chest.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "NO",
+          "player": "CJ Donaldson",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder; back at full practice.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CHI",
+          "player": "Kyler Gordon",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder, hurt vs TB; Ben Johnson: day-to-day.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM) + Yahoo/WCG (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CHI",
+          "player": "Jeffery Simmons",
+          "pos": "DT",
+          "practice": "Wed LP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 80,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CHI",
+          "player": "Luther Burden",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Concussion; trending toward playing.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CHI",
+          "player": "Kyle Monangai",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Toe; 'on track' to return Week 11.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "CHI",
+          "player": "Malik Muhammad",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": true,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Toe.",
+          "source": "neworleanssaints.com 'Saints Wednesday Injury Report: 2026 Week 11 vs. Chicago Bears' (Wed 11/18 3:49 PM)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
         }
       ]
     },
@@ -551,72 +1435,393 @@
       "home": "DAL",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:15 PM PT",
+      "pulled_iso": "2026-11-19T03:15:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "tennesseetitans.com Week 11 Injury Report (11/18)",
+        "tennesseetitans.com Quick Hits Wednesday (11/18)",
+        "Dallas Sports Journal Cowboys injury report (11/18)",
+        "Heavy Cowboys Wednesday report (11/18)",
+        "VegasInsider Week 11 odds (11/18 5:53 PM ET)",
+        "RotoWire Week 11 line moves (11/18)",
+        "Covers Week 11 lines (11/17)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "tennesseetitans.com report table had DAL section blank ('TBD')",
+        "dallascowboys.com official report (not in search results)",
+        "nfl.com/injuries official page (not in search results)"
       ],
-      "line_before": "",
-      "line_now": "DAL -9.5 / O/U 53.5 (Covers, Mon 11/16)",
+      "line_before": "DAL -9.5 / O/U 53.5 (Covers, Mon 11/16); opener DAL -8 / 52.5 (BetMGM via VegasInsider)",
+      "line_now": "DAL -8 to -8.5 / O/U 52.5-54.5 (BetMGM -8 / 52.5; RotoWire -8.5 / 54.5; Covers 11/17 -7.5 / 54.5)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Jake Ferguson",
+          "team": "DAL",
+          "why": "Starting TE, PCL/MCL sprain, Schottenheimer says out 'multiple weeks' - not expected vs TEN; loses a top red-zone target."
         },
         {
-          "what": "Game statuses",
+          "player": "Tyler Booker + DaRon Bland",
+          "team": "DAL",
+          "why": "Starting RG and CB both high ankle sprains, DNP, 'could miss a little bit of time' - T.J. Bass and Cobie Durant step in."
+        },
+        {
+          "player": "Tyjae Spears",
+          "team": "TEN",
+          "why": "RB DNP (knee); with WR Wan'Dale Robinson on season-ending IR, TEN offense even thinner."
+        }
+      ],
+      "clusters": [
+        "DAL S: P.J. Locke DNP (concussion), Juanyeh Thomas LP, Jalen Thompson LP (hamstrings)",
+        "DAL edge: Donovan Ezeiruaku DNP (ankle), Von Miller DNP (rest)"
+      ],
+      "replacements": [
+        {
+          "out": "G Tyler Booker (DAL)",
+          "replacement": "T.J. Bass",
+          "dropoff": "Moderate - Booker had started every game at RG."
+        },
+        {
+          "out": "CB DaRon Bland (DAL)",
+          "replacement": "Cobie Durant",
+          "dropoff": "Moderate."
+        },
+        {
+          "out": "WR Wan'Dale Robinson (TEN, IR)",
+          "replacement": "Xavier Restrepo promoted; Carnell Tate returning",
+          "dropoff": "Moderate."
+        }
+      ],
+      "conflicts": [
+        "Spread/total vary by source: BetMGM DAL -8 / 52.5, RotoWire -8.5 / 54.5, Covers (11/17) -7.5 / 54.5, Covers Mon 11/16 -9.5 / 53.5 - reported as a range.",
+        "RotoWire opener DAL -7 / 47.5 vs VegasInsider opener -8 / 52.5 - VegasInsider used."
+      ],
+      "unknowns": [
+        {
+          "what": "Game statuses (Out/Doubtful/Questionable)",
           "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "P.J. Locke (2nd recent concussion), Ezeiruaku, Mingo availability",
+          "known_by": "Fri 11/20 ~1:00 PM PT"
+        },
+        {
+          "what": "Official DAL report from dallascowboys.com/nfl.com (used Dallas Sports Journal + Heavy, which agree)",
+          "known_by": "Thu 11/19 ~1:00 PM PT"
         }
       ],
       "players": [
         {
-          "team": "DAL",
-          "player": "Tyler Booker",
-          "pos": "G",
-          "practice": "No Week 11 report yet",
+          "team": "TEN",
+          "player": "Wan'Dale Robinson",
+          "pos": "WR",
+          "practice": "IR",
           "estimated": false,
-          "status": "none",
-          "play_pct": null,
+          "status": "IR",
+          "play_pct": 0,
           "type": "injury",
-          "note": "High ankle sprain in Week 10 loss to SF; DAL hopes for return within ~4 weeks — very likely out Week 11.",
-          "source": "NFL.com news roundup Mon 11/16 (Rapoport)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
-        },
-        {
-          "team": "DAL",
-          "player": "Daron Bland",
-          "pos": "CB",
-          "practice": "No Week 11 report yet",
-          "estimated": false,
-          "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "Ankle injury in Week 10; severity unknown.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Placed on IR Tuesday 11/17; out for the season per Robert Saleh.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
         },
         {
           "team": "TEN",
           "player": "Tony Adams",
           "pos": "S",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Injured in Week 10; injury not specified.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Concussion (hurt Week 10).",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Tyjae Spears",
+          "pos": "RB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Fernando Carmona Jr.",
+          "pos": "G",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle; designated to return from IR, in 21-day practice window.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "John Franklin-Myers",
+          "pos": "DL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Back.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Anthony Hill Jr.",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Neck.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Carnell Tate",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 65,
+          "type": "injury",
+          "note": "Shoulder; returned to practice after missing 2 games, working toward Sunday.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Cody Barton",
+          "pos": "LB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 90,
+          "type": "injury",
+          "note": "Concussion; full participant.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Kylen Granson",
+          "pos": "TE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "TEN",
+          "player": "Kevin Winston Jr.",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "tennesseetitans.com Week 11 Injury Report (Wed 11/18 2:30 PM) + Titans Quick Hits (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Jake Ferguson",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 5,
+          "type": "injury",
+          "note": "Left knee PCL/MCL sprain + ankle; Schottenheimer: out 'multiple weeks', not expected vs TEN.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "DaRon Bland",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "High ankle sprain (opposite ankle from last week); Cobie Durant took outside CB work.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Tyler Booker",
+          "pos": "G",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 10,
+          "type": "injury",
+          "note": "High ankle sprain Week 10 vs SF; typical 4-6 weeks. T.J. Bass steps in at RG.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Donovan Ezeiruaku",
+          "pos": "OLB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "P.J. Locke",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Concussion (2nd in recent weeks).",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Jonathan Mingo",
+          "pos": "WR",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Von Miller",
+          "pos": "OLB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 90,
+          "type": "rest",
+          "note": "Not injury related - rest.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Juanyeh Thomas",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 70,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Jalen Thompson",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 60,
+          "type": "injury",
+          "note": "Hamstring; designated to return, in 21-day window.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Malik Hooker",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Groin.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "James Houston",
+          "pos": "OLB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Devin Moore",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 85,
+          "type": "injury",
+          "note": "Hip; designated to return, in 21-day window.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Otito Ogbonnia",
+          "pos": "DT",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Finger.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
+        },
+        {
+          "team": "DAL",
+          "player": "Joey Porter Jr.",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle/foot.",
+          "source": "Dallas Sports Journal + Heavy Cowboys Wed injury report (11/18)",
+          "pulled_at": "Wed 11/18 ~7:15 PM PT"
         }
       ]
     },
@@ -626,46 +1831,254 @@
       "home": "DET",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:00 PM PT",
+      "pulled_iso": "2026-11-19T03:00:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "buccaneers.com Buccaneers-Lions Injury Report Nov.18 (~6:45 PM PT)",
+        "NBC Sports/PFT Mayfield non-participant 11/18",
+        "CBS Sports NFL Week 11 injury report 11/18",
+        "VegasInsider Week 11 odds (5 PM ET Wed)",
+        "Rotowire Week 11 line moves (2:05 PM ET Wed)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "detroitnews.com D.J. Reed article (robots blocked)"
       ],
-      "line_before": "",
-      "line_now": "DET -5.5 / O/U 46.5 (Covers, Mon 11/16)",
-      "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "line_before": "DET -5.5 / O/U 46.5 (Covers, Mon 11/16)",
+      "line_now": "DET -7 / O/U 44 (Hard Rock Bet via VegasInsider, Wed 11/18 5 PM ET)",
+      "line_moved_on_news": "DET up ~1.5 and total down ~2.5 as Mayfield (foot/thumb) missed practice; sources don't explicitly tie the move to him.",
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Baker Mayfield",
+          "team": "TB",
+          "why": "Starting QB DNP (foot sprain + right thumb); decision Friday. Rookie Jalon Daniels took first-team reps; a backup start would push DET spread up and total down."
         },
         {
-          "what": "Game statuses",
-          "known_by": "Fri 11/20 ~1:00 PM PT"
+          "player": "Antoine Winfield Jr.",
+          "team": "TB",
+          "why": "Top TB safety DNP (ankle); loss weakens pass defense vs Goff."
+        },
+        {
+          "player": "Cade Mays",
+          "team": "DET",
+          "why": "Lions C DNP (ankle); interior OL depth hit."
+        }
+      ],
+      "clusters": [],
+      "replacements": [
+        {
+          "out": "Baker Mayfield (if out)",
+          "replacement": "Jalon Daniels (rookie, ran with 1st team Wed); Easton Stick promoted to active roster",
+          "dropoff": "Large - Pro Bowl-level starter to rookie/journeyman"
+        }
+      ],
+      "conflicts": [
+        "VegasInsider calls Mayfield 'questionable' - no official game status yet (set Friday); kept status none."
+      ],
+      "unknowns": [
+        {
+          "what": "Mayfield availability / TB starting QB",
+          "known_by": "Fri 11/20 ~1 PM PT (Bowles said decision Friday)"
+        },
+        {
+          "what": "Winfield Jr., Mays game status",
+          "known_by": "Fri 11/20 ~1 PM PT"
         }
       ],
       "players": [
         {
+          "team": "TB",
+          "player": "Baker Mayfield",
+          "pos": "QB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Foot sprain + right thumb; watched practice, Bowles cited 'progress'; decision Friday. Would be his 4th missed game this season. Jalon Daniels ran 1st team.",
+          "source": "buccaneers.com Wed 11/18 injury report; NBC/PFT 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "TB",
+          "player": "Antoine Winfield Jr.",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "buccaneers.com Wed 11/18 injury report",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "TB",
+          "player": "Yaya Diaby",
+          "pos": "OLB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "buccaneers.com Wed 11/18 injury report",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "TB",
+          "player": "Josh Hayes",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "buccaneers.com Wed 11/18 injury report",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "TB",
+          "player": "Cade Otton",
+          "pos": "TE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Thumb.",
+          "source": "buccaneers.com Wed 11/18 injury report",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "TB",
+          "player": "Tristan Wirfs",
+          "pos": "T",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Toe.",
+          "source": "buccaneers.com Wed 11/18 injury report",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Cade Mays",
+          "pos": "C",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "D.J. Reed",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hip; returned to practice.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Ennis Rakestraw Jr.",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Khalil Dorsey",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Joe Bachie",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Tyler Lacy",
+          "pos": "DL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Sione Vaki",
+          "pos": "RB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "DET",
+          "player": "Kerby Joseph",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee; full practice.",
+          "source": "buccaneers.com Wed 11/18 injury report (Lions section); CBS Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
           "team": "DET",
           "player": "Aidan Hutchinson",
           "pos": "DE",
-          "practice": "No Week 11 report yet",
+          "practice": "Not on report (IR)",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": null,
           "type": "injury",
-          "note": "Torn ACL (hurt celebrating a sack in Week 10 vs NE) — out for the season.",
-          "source": "NFL.com news roundup Mon 11/16 (Rapoport)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Torn ACL in Week 10 - out for season.",
+          "source": "NFL.com 11/16; VegasInsider 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         }
       ]
     },
@@ -675,72 +2088,451 @@
       "home": "KC",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:00 PM PT",
+      "pulled_iso": "2026-11-19T03:00:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "chiefs.com Week 11 injury report (pub 3:37 PM)",
+        "arizonasports.com Cardinals-Chiefs injury report 11/18",
+        "SI Cardinals injury report 11/18",
+        "CBS Sports Week 11 injury report 11/18",
+        "azcardinals.com Carson Beck article",
+        "SI betting Cardinals-Chiefs (DK)",
+        "NFL.com roundup 11/18"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "arrowheadpride.com (robots blocked)",
+        "chiefs.com Cardinals section said 'to be updated'"
       ],
-      "line_before": "",
-      "line_now": "KC -16.5 / O/U 40.5 (Covers, Mon 11/16)",
+      "line_before": "KC -16.5 / O/U 40.5 (Covers, Mon 11/16)",
+      "line_now": "KC -16.5 / O/U 40.5 (DraftKings via SI, Wed 11/18)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Kenneth Walker III",
+          "team": "KC",
+          "why": "Lead RB DNP (groin) again; Reid: 'don't want to do something stupid.' Missed Week 10."
         },
         {
-          "what": "Game statuses",
-          "known_by": "Fri 11/20 ~1:00 PM PT"
+          "player": "Trey Smith / Jaylon Moore",
+          "team": "KC",
+          "why": "Starting RG Smith (concussion) and OL Moore (ankle) both DNP; KC signed T Fred Johnson to practice squad, likely elevated."
+        },
+        {
+          "player": "Carson Beck",
+          "team": "ARI",
+          "why": "Rookie QB making 2nd start (Minshew season-ending injury); ARI OL also banged up (Froholdt concussion, LT Jayden Williams knee) - supports low ARI scoring."
+        }
+      ],
+      "clusters": [
+        "KC OL: Trey Smith (DNP concussion), Jaylon Moore (DNP ankle)",
+        "ARI OL: Hjalte Froholdt (LP concussion, still in protocol), Jayden Williams (LP knee, missed Week 10), Jon Gaines II (LP ankle)"
+      ],
+      "replacements": [
+        {
+          "out": "Gardner Minshew (season-ending)",
+          "replacement": "Carson Beck (rookie)",
+          "dropoff": "Moderate-large; Beck one NFL start"
+        },
+        {
+          "out": "Kenneth Walker III (if out)",
+          "replacement": "Jaydn Ott / committee",
+          "dropoff": "Moderate"
+        }
+      ],
+      "conflicts": [
+        "Darius Robinson injury listed as knee (SI) vs wrist (arizonasports.com); both FP - listed wrist per arizonasports table, low impact."
+      ],
+      "unknowns": [
+        {
+          "what": "Walker, Trey Smith (concussion protocol), Moore game status",
+          "known_by": "Fri 11/20 ~1 PM PT"
+        },
+        {
+          "what": "Froholdt clearing concussion protocol; Jayden Williams availability",
+          "known_by": "Fri 11/20 ~1 PM PT"
+        },
+        {
+          "what": "Why Kyler Murray/Jacoby Brissett not starting - not confirmed in Week 11 sources",
+          "known_by": "n/a"
         }
       ],
       "players": [
         {
           "team": "KC",
-          "player": "Jared Wiley",
-          "pos": "TE",
-          "practice": "No Week 11 report yet",
+          "player": "Kenneth Walker III",
+          "pos": "RB",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Ankle fracture in Week 10 (Andy Reid).",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Groin; missed Week 10. Reid says improving.",
+          "source": "chiefs.com Week 11 injury report 11/18; CBS 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         },
         {
           "team": "KC",
           "player": "Trey Smith",
           "pos": "G",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Concussion in Week 10.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Concussion (Week 10).",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Jaylon Moore",
+          "pos": "OL",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Nick Bolton",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shin; new to report.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Omarr Norman-Lott",
+          "pos": "DT",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Patrick Mahomes",
+          "pos": "QB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 98,
+          "type": "injury",
+          "note": "Knee / right elbow.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         },
         {
           "team": "KC",
           "player": "Travis Kelce",
           "pos": "TE",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Calf / ankle.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Rashee Rice",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Justin Fields",
+          "pos": "QB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Neck (backup).",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Jaydn Ott",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Peter Woods",
+          "pos": "DL",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Neck.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Mansoor Delane",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Alohi Gilman",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Quadricep.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Jadon Canady",
+          "pos": "DB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Thumb.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Jeff Bassa",
+          "pos": "LB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand.",
+          "source": "chiefs.com Week 11 injury report 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "KC",
+          "player": "Jared Wiley",
+          "pos": "TE",
+          "practice": "Not on Wed report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle fracture Week 10; SI lists out.",
+          "source": "Yahoo 11/16; SI betting 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Budda Baker",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest (NIR).",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Isaac Seumalo",
+          "pos": "OL",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest (NIR).",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Mack Wilson Sr.",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest (NIR).",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Josh Sweat",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "rest",
+          "note": "Rest / shoulder.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Walter Nolen III",
+          "pos": "DL",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "illness",
+          "note": "Illness.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Hjalte Froholdt",
+          "pos": "C",
+          "practice": "Wed LP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Calf in Week 10; returned to the game.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Concussion; missed last week, not yet out of protocol. Hayden Connor started at C.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Jayden Williams",
+          "pos": "T",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee; starting LT, missed Week 10.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Jon Gaines II",
+          "pos": "OL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Roy Lopez",
+          "pos": "DL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Toe / ankle.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Max Melton",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee / hand.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Darius Robinson",
+          "pos": "DL",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Wrist (SI says knee).",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Zach Carter",
+          "pos": "DL",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee; on IR, practicing in return window.",
+          "source": "arizonasports.com Cardinals-Chiefs injury report 11/18; SI Cardinals 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "ARI",
+          "player": "Gardner Minshew",
+          "pos": "QB",
+          "practice": "Not on report",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Season-ending injury; rookie Carson Beck starting (2nd start).",
+          "source": "azcardinals.com",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         }
       ]
     },
@@ -750,97 +2542,462 @@
       "home": "PHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:00 PM PT",
+      "pulled_iso": "2026-11-19T03:00:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+        "Steelers Depot Eagles Wed report",
+        "ProFootballRumors Milton to start (11/18, Schefter)",
+        "Fox Sports Sirianni presser",
+        "NBC Sports prediction/odds 11/18",
+        "CBS Sports Week 11 injury report 11/18",
+        "NFL.com roundup 11/18"
       ],
-      "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
-      ],
-      "line_before": "",
-      "line_now": "PIT -4.5 / O/U 38.5 (Covers, Mon 11/16)",
-      "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "sources_unreachable": [],
+      "line_before": "PIT -4.5 / O/U 38.5 (Covers, Mon 11/16); DK opened PIT -5.5 / 42.5",
+      "line_now": "PIT -4.5 / O/U 38.5 (DraftKings via NBC Sports, Wed 11/18)",
+      "line_moved_on_news": "Big look-ahead move (PHI -6.5 to PIT -4.5) priced in Hurts' absence earlier; no move Wed on Milton announcement.",
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Jalen Hurts",
+          "team": "PHI",
+          "why": "On IR with calf blood clots, out since Week 5, expected out for season. Joe Milton CONFIRMED starter (Sirianni, 11/18, via Schefter) over Tanner McKee (rib, FP)."
         },
         {
-          "what": "Game statuses",
-          "known_by": "Fri 11/20 ~1:00 PM PT"
+          "player": "Zack Baun",
+          "team": "PHI",
+          "why": "Starting LB DNP (back)."
+        },
+        {
+          "player": "T.J. Watt / Cameron Heyward / Nick Herbig",
+          "team": "PIT",
+          "why": "Watt and Heyward rest DNP (routine); Herbig DNP hip/ribs - pass rush depth vs a rookie-level QB."
+        }
+      ],
+      "clusters": [
+        "PHI WR room: DeVonta Smith (LP hamstring), Dontayvion Wicks (LP ankle), Britain Covey (LP knee) - Smith and Wicks missed Week 9 vs NYG",
+        "PIT OL: Mason McCormick (dislocated ankle, likely out until postseason)"
+      ],
+      "replacements": [
+        {
+          "out": "Jalen Hurts (IR, blood clots)",
+          "replacement": "Joe Milton III (1 start: 19-11 loss to NYG, 169 pass yds, 52.9% comp)",
+          "dropoff": "Large"
+        },
+        {
+          "out": "Mason McCormick (G)",
+          "replacement": "Not confirmed",
+          "dropoff": "Moderate"
+        }
+      ],
+      "conflicts": [
+        "Yahoo live-blog claim 'Joe Milton to start for Eagles in Week 11' VERIFIED by PFR (Schefter) and Fox/NBC - Sirianni announced 11/18.",
+        "NBC lists McCormick 'doubtful' and others 'questionable' - projections, not official statuses (set Friday); kept none."
+      ],
+      "unknowns": [
+        {
+          "what": "Game statuses (Baun, D. Smith, Wicks, Herbig, Ramsey)",
+          "known_by": "Fri 11/20 ~1 PM PT"
+        },
+        {
+          "what": "Michael Pittman Jr. activation from IR",
+          "known_by": "Sat 11/21"
         }
       ],
       "players": [
         {
-          "team": "PIT",
-          "player": "Mason McCormick",
-          "pos": "G",
-          "practice": "No Week 11 report yet",
+          "team": "PHI",
+          "player": "Jalen Hurts",
+          "pos": "QB",
+          "practice": "Not on report (IR)",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Blood clots in calf; out since Week 5, expected out for season. Joe Milton starts.",
+          "source": "Fox Sports; NBC Sports 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Zack Baun",
+          "pos": "LB",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Injured in Week 10; injury not specified.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Back.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "DeVonta Smith",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring; missed Week 9 vs NYG.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Dontayvion Wicks",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle; missed Week 9.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Britain Covey",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Jonathan Jones",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Michael Carter II",
+          "pos": "DB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Abdomen.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Nolan Smith",
+          "pos": "OLB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "illness",
+          "note": "Illness.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         },
         {
           "team": "PHI",
           "player": "Will Shipley",
           "pos": "RB",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed LP",
           "estimated": false,
           "status": "IR",
           "play_pct": null,
           "type": "injury",
-          "note": "Designated to return from IR (foot); practice window opened.",
-          "source": "NFL.com news roundup Mon 11/16",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Foot; on IR, practice window open.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Saquon Barkley",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Tanner McKee",
+          "pos": "QB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Rib; backup - Milton named starter.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Jihaad Campbell",
+          "pos": "LB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hamstring / quad.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Jonathan Greenard",
+          "pos": "OLB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Smael Mondon",
+          "pos": "LB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Andrew Mukuba",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Nick Herbig",
+          "pos": "OLB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hip / ribs.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Jalen Ramsey",
+          "pos": "S",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "personal",
+          "note": "Personal.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "T.J. Watt",
+          "pos": "OLB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Cameron Heyward",
+          "pos": "DT",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Darnell Washington",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "DeShon Elliott",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Michael Pittman Jr.",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Foot; eligible to come off IR.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM); NBC 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Patrick Queen",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hand.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Gennings Dunker",
+          "pos": "G",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Roman Wilson",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand.",
+          "source": "philadelphiaeagles.com Steelers vs. Eagles injury report 11/18 (5:59 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "PIT",
+          "player": "Mason McCormick",
+          "pos": "G",
+          "practice": "Not on Wed report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Dislocated ankle Week 10, no fracture/no surgery; could return for postseason (Rapoport).",
+          "source": "NFL.com roundup 11/18",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         }
       ]
     },
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873074",
       "away": "NYJ",
       "home": "LAC",
       "kickoff": "2026-11-22T21:05:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~7:00 PM PT",
+      "pulled_iso": "2026-11-19T03:00:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "newyorkjets.com Week 11 Wednesday injury report",
+        "chargers.com Chargers vs. Jets injury report 11/18",
+        "CBS Sports Week 11 injury report 11/18",
+        "SI betting Jets-Chargers",
+        "NFL.com roundup 11/18"
       ],
-      "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
-      ],
-      "line_before": "",
-      "line_now": "LAC -3.5 / O/U 40.5 (Covers, Mon 11/16)",
+      "sources_unreachable": [],
+      "line_before": "LAC -3.5 / O/U 40.5 (Covers, Mon 11/16)",
+      "line_now": "LAC -3.5 / O/U 41.5 (SI betting, Wed 11/18)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
+      "top3": [
+        {
+          "player": "Geno Smith",
+          "team": "NYJ",
+          "why": "Starting QB LP (ankle) in an estimated walkthrough report - trending toward playing but unconfirmed."
+        },
+        {
+          "player": "Ladd McConkey / Brenen Thompson",
+          "team": "LAC",
+          "why": "Top WR McConkey LP (back); Thompson DNP (hamstring)."
+        },
+        {
+          "player": "Harrison Phillips / Omar Cooper Jr.",
+          "team": "NYJ",
+          "why": "DL starter Phillips and WR Cooper DNP."
+        }
+      ],
+      "clusters": [
+        "LAC CB: Rodney Shelley (DNP ankle), Isas Waxter (DNP ankle), Donte Jackson (LP groin)",
+        "NYJ WR room: Omar Cooper Jr. (DNP ankle/hip), Isaiah Williams (DNP ribs)",
+        "NYJ DL: Harrison Phillips (DNP ankle), David Onyemata (LP, designated to return from IR)"
+      ],
       "replacements": [],
-      "conflicts": [],
+      "conflicts": [
+        "Jets team site says Wednesday participation was estimated (walkthrough); chargers.com lists same NYJ designations without the note - team site wins, marked estimated."
+      ],
       "unknowns": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "what": "Geno Smith game status / actual practice",
+          "known_by": "Thu 11/19 report; status Fri 11/20 ~1 PM PT"
         },
         {
-          "what": "Game statuses",
-          "known_by": "Fri 11/20 ~1:00 PM PT"
-        },
-        {
-          "what": "Geno Smith imaging result / who starts at QB for NYJ",
-          "known_by": "Wed 11/18 practice report"
+          "what": "Henley, Kolar (concussion), McConkey status",
+          "known_by": "Fri 11/20 ~1 PM PT"
         }
       ],
       "players": [
@@ -848,27 +3005,248 @@
           "team": "NYJ",
           "player": "Geno Smith",
           "pos": "QB",
-          "practice": "No Week 11 report yet",
-          "estimated": false,
+          "practice": "Wed LP (est.)",
+          "estimated": true,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Ankle injury in Week 10, ruled out in Q4; imaging Monday. Aaron Glenn says he stays the starter when healthy.",
-          "source": "NFL.com news roundup Mon 11/16 (Aaron Glenn)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Ankle (Week 10). Walkthrough; estimated.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         },
         {
           "team": "NYJ",
           "player": "Omar Cooper Jr.",
           "pos": "WR",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed DNP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle / hip.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "Harrison Phillips",
+          "pos": "DL",
+          "practice": "Wed DNP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "Isaiah Williams",
+          "pos": "WR",
+          "practice": "Wed DNP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ribs.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "David Onyemata",
+          "pos": "DL",
+          "practice": "Wed LP (est.)",
+          "estimated": true,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Abdomen; designated to return from IR.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "Joseph Ossai",
+          "pos": "EDGE",
+          "practice": "Wed LP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Foot / ankle.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "Dylan Parham",
+          "pos": "OL",
+          "practice": "Wed LP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "NYJ",
+          "player": "Trevin Wallace",
+          "pos": "LB",
+          "practice": "Wed LP (est.)",
+          "estimated": true,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin.",
+          "source": "newyorkjets.com Wed 11/18 injury report (estimated, walkthrough)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Daiyan Henley",
+          "pos": "LB",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Ankle injury in Week 10; severity unknown.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Knee.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Charlie Kolar",
+          "pos": "TE",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Khalil Mack",
+          "pos": "OLB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Rest.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Rodney Shelley",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Brenen Thompson",
+          "pos": "WR",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Isas Waxter",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Ladd McConkey",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Back.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Donte Jackson",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Justin Eboigbe",
+          "pos": "DL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Trey Pipkins III",
+          "pos": "G/T",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
+        },
+        {
+          "team": "LAC",
+          "player": "Kendall Williamson",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Calf.",
+          "source": "chargers.com Chargers vs. Jets injury report 11/18 (4:11 PM)",
+          "pulled_at": "Wed 11/18 ~7:00 PM PT"
         }
       ]
     },
@@ -878,34 +3256,318 @@
       "home": "NYG",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~6:50 PM PT",
+      "pulled_iso": "2026-11-19T02:50:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Wed 11/18 4:00 PM)",
+        "giants.com / Yahoo Dart IR articles (Sept 2026)",
+        "VegasInsider Week 11 odds (upd. Wed 11/18 5:53 PM)",
+        "Covers Week 11 odds (upd. Tue 11/17 10:13 PM ET)",
+        "CBS 'Week 11 injuries for bettors' (turned out to be 2025 — ignored)"
       ],
-      "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
-      ],
-      "line_before": "",
-      "line_now": "JAX -6.5 / O/U 46.5 (Covers, Mon 11/16)",
+      "sources_unreachable": [],
+      "line_before": "JAX -6.5 / O/U 46.5 (Covers, Mon 11/16)",
+      "line_now": "JAX -6 / O/U 46.5 (VegasInsider/Hard Rock, Wed 11/18 ~3 PM PT)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
-      "unknowns": [
+      "top3": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "player": "Jakobi Meyers",
+          "team": "JAX",
+          "why": "Starting WR limited (ankle); a downgrade would thin JAX passing game as 6-pt road fav."
         },
         {
-          "what": "Game statuses",
+          "player": "Travon Walker",
+          "team": "JAX",
+          "why": "Top edge rusher limited (rib); matters vs. Winston-led NYG offense."
+        },
+        {
+          "player": "Robert Hainsey",
+          "team": "JAX",
+          "why": "OL DNP (knee) while OL Jonah Monheim is limited (ankle) — line depth issue."
+        }
+      ],
+      "clusters": [
+        "JAX RB room: LeQuint Allen Jr. (hamstring), Chris Rodriguez Jr. (hand), Bhayshul Tuten (ankle/foot) all LP",
+        "JAX OL: Robert Hainsey DNP (knee), Jonah Monheim LP (ankle)"
+      ],
+      "replacements": [
+        {
+          "out": "Jaxson Dart (NYG QB, IR — knee, season-ending, since Week 2)",
+          "replacement": "Jameis Winston (starting since Week 3)",
+          "dropoff": "Long-standing; already priced in."
+        }
+      ],
+      "conflicts": [
+        "CBS 'Week 11 injury report for bettors' listing Dart OUT (concussion) and Burrow OUT (toe) is from Nov 2025 — stale. 2026: Dart on IR since Sept (knee); giants.com wins."
+      ],
+      "unknowns": [
+        {
+          "what": "Whether Hainsey/Armstead practice Thursday; game statuses",
           "known_by": "Fri 11/20 ~1:00 PM PT"
         }
       ],
-      "players": []
+      "players": [
+        {
+          "team": "NYG",
+          "player": "Nic Jones",
+          "pos": "CB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Malik Harrison",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Jason Pinnock",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hip.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Deonte Banks",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Ben Mann",
+          "pos": "LS",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "illness",
+          "note": "Illness.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Cam Skattebo",
+          "pos": "RB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "NYG",
+          "player": "Jaxson Dart",
+          "pos": "QB",
+          "practice": "IR",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Knee; season-ending surgery after Week 2 injury. Jameis Winston starting.",
+          "source": "giants.com (9/24/2026)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Arik Armstead",
+          "pos": "DT",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "personal",
+          "note": "Not injury related (personal).",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Robert Hainsey",
+          "pos": "OL",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "LeQuint Allen Jr.",
+          "pos": "RB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Matt Dickerson",
+          "pos": "DT",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Neck.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Antonio Johnson",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Jalen McLeod",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Jakobi Meyers",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Jonah Monheim",
+          "pos": "OL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Chris Rodriguez Jr.",
+          "pos": "RB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hand.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Danny Striggow",
+          "pos": "DE",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Bhayshul Tuten",
+          "pos": "RB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle/foot.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Travon Walker",
+          "pos": "DE",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Rib.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "B.J. Green II",
+          "pos": "DE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Forearm; designated for return from IR.",
+          "source": "giants.com Wed injury report (11/18 4:00 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        }
+      ]
     },
     {
       "espn_event_id": "",
@@ -913,35 +3575,48 @@
       "home": "DEN",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~6:50 PM PT",
+      "pulled_iso": "2026-11-19T02:50:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "Yahoo 'Raiders Wednesday Week 11 injury report vs Broncos: Brock Bowers DNP' (11/18 3:11 PM PT)",
+        "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+        "VegasInsider Week 11 odds (upd. Wed 11/18 5:53 PM)",
+        "Covers Week 11 odds (Tue 11/17)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "Team-site (raiders.com / denverbroncos.com) Wednesday report articles not fetched"
       ],
-      "line_before": "",
-      "line_now": "DEN -10.5 / O/U 40.5 (Covers table inconsistent — also shows +19.5) (Covers, Mon 11/16)",
+      "line_before": "DEN -10.5 / O/U 40.5 (Covers, Mon 11/16; opened DEN -9.5 / 40)",
+      "line_now": "DEN -10 (-115) / O/U 40.5 (VegasInsider/Hard Rock, Wed 11/18 ~3 PM PT)",
       "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
+      "top3": [
+        {
+          "player": "Brock Bowers",
+          "team": "LV",
+          "why": "LV's top pass target DNP (ankle/quad), 'day-by-day' per Kubiak; out would sap an already low-total offense (40.5)."
+        },
+        {
+          "player": "Matt Gay",
+          "team": "LV",
+          "why": "Kicker limited (hip) — matters in a low-total game with a double-digit spread."
+        },
+        {
+          "player": "Brandon Jones",
+          "team": "DEN",
+          "why": "Starting S limited (hamstring); DEN secondary also has Abrams-Draine LP."
+        }
+      ],
+      "clusters": [
+        "LV DL: Tonka Hemingway DNP (stinger), Folorunso Fatukasi LP (toe)"
+      ],
       "replacements": [],
-      "conflicts": [],
+      "conflicts": [
+        "Yahoo Raiders article lists only Bowers/Fatukasi/Gay/Booker; Yahoo participation report adds Ian Thomas (FP) and Tonka Hemingway (DNP) — fuller participation report used. It also says DEN had 2 limited; participation report shows 4 LP incl. 2 rest days."
+      ],
       "unknowns": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
-        },
-        {
-          "what": "Game statuses",
+          "what": "Brock Bowers practice Thursday / game status",
           "known_by": "Fri 11/20 ~1:00 PM PT"
-        },
-        {
-          "what": "Brock Bowers ankle test results",
-          "known_by": "Wed 11/18 practice report"
         }
       ],
       "players": [
@@ -949,14 +3624,196 @@
           "team": "LV",
           "player": "Brock Bowers",
           "pos": "TE",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed DNP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Right ankle, ruled out in Q3 of Week 10; tests Monday (Klint Kubiak).",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Ankle/quadriceps; hurt Week 10, 'day-by-day' (Klint Kubiak).",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "LV",
+          "player": "Tonka Hemingway",
+          "pos": "DT",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Stinger.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "LV",
+          "player": "Folorunso Fatukasi",
+          "pos": "DT",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Toe.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "LV",
+          "player": "Matt Gay",
+          "pos": "K",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hip.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "LV",
+          "player": "Thomas Booker",
+          "pos": "DT",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle; missed last week.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "LV",
+          "player": "Ian Thomas",
+          "pos": "TE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Calf.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Kris Abrams-Draine",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Zach Allen",
+          "pos": "DL",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Veteran rest.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Brandon Jones",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Hamstring.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Courtland Sutton",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Veteran rest.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Talanoa Hufanga",
+          "pos": "S",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Caleb Lohner",
+          "pos": "TE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Foot.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Riley Moss",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Adam Prentice",
+          "pos": "FB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "DEN",
+          "player": "Jaylen Waddle",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "Yahoo 'Broncos vs. Raiders practice participation report: Wednesday' (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
         }
       ]
     },
@@ -966,27 +3823,64 @@
       "home": "SF",
       "kickoff": "2026-11-23T01:20:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~6:50 PM PT",
+      "pulled_iso": "2026-11-19T02:50:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+        "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+        "49erswebzone Shanahan Wed presser notes (11/18)",
+        "NBC/Rotoworld Kyler Murray DNP (11/18)",
+        "VegasInsider Week 11 odds (upd. Wed 11/18 5:53 PM)",
+        "Covers Week 11 odds (Tue 11/17)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "49ers official report not on vikings.com page (SF section blank) or nfl.com/injuries (showed 'No Injuries Reported') — SF list taken from Yardbarker/49erswebzone"
       ],
-      "line_before": "SF -3.5 / O/U 46.5 (Covers opener)",
-      "line_now": "SF -2.5 / O/U 45.5-46.5 (opened SF -3.5 / 46.5) (Covers, Mon 11/16)",
-      "line_moved_on_news": "Moved toward MIN despite Addison's thumb news; no injury-driven move confirmed.",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
+      "line_before": "SF -3.5 / O/U 46.5 (opener)",
+      "line_now": "SF -3 (-115) / O/U 46 (VegasInsider/Hard Rock, Wed 11/18 ~3 PM PT)",
+      "line_moved_on_news": "",
+      "top3": [
+        {
+          "player": "Mike Evans",
+          "team": "SF",
+          "why": "SF WR1 DNP (Achilles tendinitis), missed last 3 games; Shanahan says could practice Thursday."
+        },
+        {
+          "player": "Jordan Addison",
+          "team": "MIN",
+          "why": "MIN WR DNP after thumb surgery Monday; expected out (possible short-term IR)."
+        },
+        {
+          "player": "Trent Williams",
+          "team": "SF",
+          "why": "All-Pro LT DNP (rest) along with CMC (rest) — watch Thursday to confirm only rest."
+        }
+      ],
+      "clusters": [
+        "SF CB/S: Renardo Green (back), Upton Stout (shoulder/neck), Ji'Ayir Brown (ankle), Siran Neal (knee/foot) all LP",
+        "SF WR/LB: Evans and Greenlaw DNP (injury)",
+        "MIN OLB: Andrew Van Ginkel (quad), Kyle Van Noy (calf) both LP"
+      ],
+      "replacements": [
+        {
+          "out": "Kyler Murray (MIN QB2, hamstring)",
+          "replacement": "Kirk Cousins starts; Carson Wentz backup",
+          "dropoff": "None for starting QB — Murray was backup; Cousins is the starter (Rotoworld)."
+        },
+        {
+          "out": "Jordan Addison (MIN WR, thumb surgery)",
+          "replacement": "Jauan Jennings / Jeshaun Jones",
+          "dropoff": "Moderate WR2 dropoff."
+        }
+      ],
+      "conflicts": [
+        "nfl.com/injuries showed SF 'No Injuries Reported' Wed evening — Yardbarker/49erswebzone full report used.",
+        "Covers article text says SF 'slimmed to -2.5' while its table and VegasInsider show -3/-3.5; VegasInsider (newer) used."
+      ],
       "unknowns": [
         {
-          "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "what": "Evans/Greenlaw return to practice; Addison IR move",
+          "known_by": "Thu 11/19 ~1:00 PM PT"
         },
         {
           "what": "Game statuses",
@@ -998,47 +3892,402 @@
           "team": "MIN",
           "player": "Jordan Addison",
           "pos": "WR",
-          "practice": "No Week 11 report yet",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 5,
+          "type": "injury",
+          "note": "Thumb; surgery Monday 11/16, may go to short-term IR.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Kyler Murray",
+          "pos": "QB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 10,
+          "type": "injury",
+          "note": "Grade 2 hamstring, week-to-week; backup to Kirk Cousins, likely out.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM) + NBC/Rotoworld",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "T.J. Hockenson",
+          "pos": "TE",
+          "practice": "Wed LP",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Thumb injury at Friday practice; missed Week 10; needs surgery and could go to IR (Kevin O'Connell).",
-          "source": "NFL.com news roundup Mon 11/16 (Kevin O'Connell)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Wrist.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Jeshaun Jones",
+          "pos": "WR",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Andrew Van Ginkel",
+          "pos": "OLB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Quad.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Kyle Van Noy",
+          "pos": "OLB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Calf.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Jay Ward",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Blake Cashman",
+          "pos": "LB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Concussion.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Tyrion Ingram-Dawkins",
+          "pos": "DL",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Jauan Jennings",
+          "pos": "WR",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Calf.",
+          "source": "vikings.com 'Initial Vikings at 49ers Injury Report' (11/18 3:50 PM)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Mike Evans",
+          "pos": "WR",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Achilles tendinitis; missed last 3 games; could practice Thu (Shanahan). Half-speed altitude practice.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Dre Greenlaw",
+          "pos": "LB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Neck; 'good chance to practice tomorrow' (Shanahan).",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Christian McCaffrey",
+          "pos": "RB",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Veteran rest.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Trent Williams",
+          "pos": "T",
+          "practice": "Wed DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "rest",
+          "note": "Veteran rest.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Ji'Ayir Brown",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Luke Gifford",
+          "pos": "LB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Chest.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Renardo Green",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Back, aggravated vs. DAL; day-to-day.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Mac Jones",
+          "pos": "QB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "illness",
+          "note": "Illness (backup QB).",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Khalid Kareem",
+          "pos": "DE",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Ankle.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Siran Neal",
+          "pos": "S",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Knee/foot.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Upton Stout",
+          "pos": "CB",
+          "practice": "Wed LP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Shoulder/neck.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Nate Hobbs",
+          "pos": "CB",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Adductor.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Jonathan Weeks",
+          "pos": "LS",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Chest.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "C.J. West",
+          "pos": "DT",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Knee.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Mykel Williams",
+          "pos": "DE",
+          "practice": "Wed FP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "injury",
+          "note": "Hand/ankle.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "De'Zhaun Stribling",
+          "pos": "WR",
+          "practice": "Not on report (long-term)",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Ankle since Week 1; expected back in December.",
+          "source": "Yardbarker/49erswebzone 49ers Wed report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
         }
       ]
     },
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873078",
       "away": "CIN",
       "home": "WSH",
       "kickoff": "2026-11-24T01:15:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/16 ~10:00 PM PT",
+      "pulled_at": "Wed 11/18 ~6:50 PM PT",
+      "pulled_iso": "2026-11-19T02:50:00Z",
       "sources_checked": [
-        "nfl.com Week 11 schedule",
-        "nfl.com news roundup Mon 11/16",
-        "Yahoo Sports Week 10 injuries (11/16)",
-        "Covers Week 11 lines (11/16)"
+        "nfl.com/injuries Week 11 (both 'No Injuries Reported', Wed eve)",
+        "SI All Bengals Risner update (11/16)",
+        "SI Commanders Quinn injury updates (11/17)",
+        "SI Commanders Croskey-Merritt window (11/17)",
+        "bengals.com Week 11 scouting report (11/18)",
+        "VegasInsider Week 11 odds (upd. Wed 11/18 5:53 PM)",
+        "Covers Week 11 odds (Tue 11/17)"
       ],
       "sources_unreachable": [
-        "No official Week 11 practice report yet — first one Wed 11/18 ~1 PM PT"
+        "No Wednesday report exists — Monday-night teams; first practice/report Thu 11/19"
       ],
-      "line_before": "",
-      "line_now": "Spread/total off the board; CIN big road ML favorite (Covers, Mon 11/16)",
-      "line_moved_on_news": "",
-      "top3": [],
-      "clusters": [],
-      "replacements": [],
-      "conflicts": [],
+      "line_before": "CIN -4/-4.5 / O/U 51.5 (opener; VegasInsider)",
+      "line_now": "CIN -6.5 / O/U 54 (VegasInsider/Hard Rock, Wed 11/18 ~3 PM PT)",
+      "line_moved_on_news": "Moved CIN -4 to -6.5 after CIN's 38-18 Week 10 win over PIT, not injury news.",
+      "top3": [
+        {
+          "player": "Dalton Risner",
+          "team": "CIN",
+          "why": "Starting G, both knees sore + illness; Jalen Rivers next up."
+        },
+        {
+          "player": "Lucas Patrick",
+          "team": "WSH",
+          "why": "Starting C in concussion protocol; Nick Allegretti likely starts if not cleared."
+        },
+        {
+          "player": "Jacory 'Bill' Croskey-Merritt",
+          "team": "WSH",
+          "why": "RB on IR (groin), 21-day window opened Tue 11/17; could return Monday."
+        }
+      ],
+      "clusters": [
+        "WSH DL: Daron Payne and Javon Kinlaw both on IR"
+      ],
+      "replacements": [
+        {
+          "out": "Lucas Patrick (WSH C, concussion) — if not cleared",
+          "replacement": "Nick Allegretti",
+          "dropoff": "Small."
+        }
+      ],
+      "conflicts": [
+        "CBS Week 11 bettors' injury piece listing Burrow OUT (toe) is from Nov 2025 — stale. 2026: Burrow healthy and starting (bengals.com 11/18)."
+      ],
       "unknowns": [
         {
           "what": "First official practice report for both teams",
-          "known_by": "Wed 11/18 ~1:00 PM PT"
+          "known_by": "Thu 11/19 ~1:00 PM PT"
         },
         {
-          "what": "Game statuses",
+          "what": "Croskey-Merritt activation; Patrick concussion clearance; Risner status",
           "known_by": "Sat 11/21 ~1:00 PM PT"
         }
       ],
@@ -1047,14 +4296,118 @@
           "team": "CIN",
           "player": "Dalton Risner",
           "pos": "G",
-          "practice": "No Week 11 report yet",
+          "practice": "No report until Thu",
           "estimated": false,
           "status": "none",
           "play_pct": null,
           "type": "injury",
-          "note": "Knee injury in Week 10; severity unknown.",
-          "source": "Yahoo Sports Week 10 injury roundup (11/16)",
-          "pulled_at": "Mon 11/16 ~10:00 PM PT"
+          "note": "Knee (both knees sore) from Week 10 + illness; not ruled out (Zac Taylor 11/16). Jalen Rivers fills in.",
+          "source": "SI All Bengals (11/16)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "CIN",
+          "player": "Dylan Fairchild",
+          "pos": "G",
+          "practice": "No report until Thu",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Unspecified issue being monitored; not ruled out.",
+          "source": "SI All Bengals (11/16)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "CIN",
+          "player": "Kyle Dugger",
+          "pos": "S",
+          "practice": "No report until Thu",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Quad; missed another game (backup S).",
+          "source": "SI All Bengals (11/16)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Lucas Patrick",
+          "pos": "C",
+          "practice": "No report until Thu",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Concussion protocol; Nick Allegretti likely starts if not cleared.",
+          "source": "SI Commanders (11/17, Dan Quinn)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Jacory Croskey-Merritt",
+          "pos": "RB",
+          "practice": "IR - practice window opened 11/17",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": null,
+          "type": "injury",
+          "note": "Groin; IR since 10/19; first practice Thursday.",
+          "source": "SI Commanders (11/17)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Terry McLaurin",
+          "pos": "WR",
+          "practice": "IR",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "On Reserve/Injured list.",
+          "source": "bengals.com scouting report (11/18)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Laremy Tunsil",
+          "pos": "T",
+          "practice": "Out (long-term)",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Triceps rehab, strength phase; no timetable.",
+          "source": "SI Commanders (11/17)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Daron Payne",
+          "pos": "DT",
+          "practice": "IR",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "On IR.",
+          "source": "SI Commanders (11/17)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Javon Kinlaw",
+          "pos": "DT",
+          "practice": "IR",
+          "estimated": false,
+          "status": "IR",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "On IR.",
+          "source": "SI Commanders (11/17)",
+          "pulled_at": "Wed 11/18 ~6:50 PM PT"
         }
       ]
     }
