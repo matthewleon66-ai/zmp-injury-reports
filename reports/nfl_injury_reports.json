@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:48:24+00:00",
+  "updated": "2026-11-19T23:55:00+00:00",
   "reports": [
     {
       "espn_event_id": "",
@@ -7,43 +7,41 @@
       "home": "HOU",
       "kickoff": "2026-11-20T01:15:00Z",
       "week": 11,
-      "pulled_at": "Wed 11/18 7:10 PM PT",
-      "pulled_iso": "2026-11-19T03:10:00Z",
+      "pulled_at": "Thu 11/19 3:55 PM PT",
+      "pulled_iso": "2026-11-19T23:55:00Z",
       "sources_checked": [
-        "colts.com 'Colts rule out 5 players for Week 11 TNF vs. Houston Texans' (Wed 11/18 1:30 PM)",
-        "nfl.com/injuries Week 11 (Wed practice column)",
-        "houstontexans.com Week 11 injury report (updated Tue 11/17 3:46 PM; Mon/Tue columns only)",
-        "ESPN 'Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs' (Wed 11/18 3:00 PM PT) - same story as TSN lead, confirmed 2026",
-        "SI Texans OnSI 'Texans rule out 4 players on final injury report' (Wed 11/18 ~1:20 PM PT)",
-        "SI Colts OnSI 'Week 11 Injury Report: Colts, Texans each without key veterans' (Wed 11/18 ~2:07 PM PT)",
-        "Yahoo/Colts Wire 'Colts vs. Texans final injury report' (Wed 11/18 ~5:30 PM PT)",
-        "NBC Sports/Rotoworld 'Colts list Gardner as questionable after 3 DNPs' (Wed 11/18)",
-        "heavy.com Kamari Lassiter update (Wed 11/18) - confirmed 2026",
-        "Yahoo 'Texans estimate David Montgomery as full participant' (Mon 11/16 evening) - Monday report was estimated",
-        "VegasInsider Colts vs Texans odds page (11/18)",
-        "Yahoo game page odds (Wed 11/18)",
-        "BUSR 'Why the line moved toward Houston' (Wed 11/18 9:04 AM PT)",
-        "SI betting 'Colts vs. Texans odds skyrocket' (Tue 11/17 5:15 AM PT, DraftKings)"
+        "colts.com 'Colts announce 7 inactive players for Week 11 game vs. Houston Texans' (Thu 11/19 3:45 PM PT) - official inactives",
+        "houstontexans.com Week 11 injury report (updated Wed 11/18 2:46 PM; Mon/Tue/Wed cols + game status)",
+        "Yahoo/Roundtable 'Shorthanded Colts make moves ahead of TNF' (Thu 11/19 1:36 PM PT) - CB Natrone Brooks, OL Reid Holskey elevated",
+        "Yahoo/NBC PFT 'Texans activate CB Jaylin Smith' (Thu 11/19 12:43 PM PT) - also LB Chad Muma, DE Chris Braswell elevated",
+        "Yahoo/Texans Wire 'Will Kamari Lassiter play in Week 11?' (Thu 11/19 1:00 PM PT)",
+        "heavy.com Texans lineup change - Blankenship back at S (Thu 11/19 10:29 AM PT, citing James Palmer)",
+        "Fox Sports Texans injuries page (Thu 11/19 3:24 PM PT) - HOU -12.5 / 44.5",
+        "SportsLine IND@HOU game forecast (open vs current by book)",
+        "SI betting 'Total dropping...' (Thu 11/19 4:26 AM PT, DraftKings)",
+        "Winners and Whiners line movement (Thu 11/19 4:47 AM PT)",
+        "VAVEL live blog (Thu 11/19 3:22 PM PT) - inactives not yet posted"
       ],
       "sources_unreachable": [
-        "battleredblog.com injury report (robots-blocked)",
-        "houstontexans.com report had no Wednesday column yet when fetched; Wed practice from nfl.com",
-        "ESPN game page / event id not reached",
+        "houstontexans.com 'Texans Inactives: Week 11 vs Indianapolis Colts' (fetch error) - Texans official inactives NOT confirmed this run",
+        "bleachernation.com inactives and odds pages (fetch error)",
+        "nfl.com/injuries not re-pulled; team site used",
+        "CBS 'Texans/Colts inactives' pages returned stale prior-season lists - ignored",
         "Team X accounts (not fetchable)"
       ],
-      "line_before": "HOU -9.5 (-115) / O/U 44.5, ML HOU -455 / IND +350 (DraftKings opener, Sat 11/15); Covers Mon 11/16 late HOU -10.5 / 44.5",
-      "line_now": "HOU -12.5 / O/U 44.5 at most books, ML ~HOU -750 / IND +525 (VegasInsider 11/18); HardRock -13, BookMaker -13, Kalshi -13.5; total 44 at BetMGM/HardRock, Yahoo shows 43.5",
-      "line_moved_on_news": "HOU moved from -9.5/-10.5 to -12.5/-13 Mon-Wed as both IND starting OTs (Raimann, Travis) and both starting CBs (Ward, Gardner) sat all week; BUSR also cites sharp money (34% of tickets, 61% of dollars on HOU). Total roughly flat at 44.5.",
+      "line_before": "HOU -10 / O/U 44.5 (BetMGM & DK open Sun 11/15); DK ML open HOU -455 / FD IND +410",
+      "line_now": "HOU -12.5 / O/U 44.5 (Fox, Thu 3:24 PM PT); DK -12.5 / 43.5 (Thu AM); BetMGM -12.5 / 44; ML DK HOU -699, FD IND +570",
+      "line_moved_on_news": "HOU moved -10 to -12.5 Mon-Wed as both IND starting OTs and both starting CBs were ruled out/DNP; Gardner's inactive status was expected and priced in - no further move Thursday. Total flat-to-down (44.5 -> 43.5-44.5 by book).",
       "top3": [
         {
           "player": "Bernhard Raimann & Jalen Travis",
           "team": "IND",
-          "why": "Both starting OTs OUT. Luke Tenuta at LT, Matt Goncalves slides to RT, Tucker at RG - big pass-pro downgrade vs. Will Anderson Jr., though HOU is also without Hunter. Main driver of the move to HOU -12.5."
+          "why": "Both starting OTs confirmed inactive. Luke Tenuta at LT, Matt Goncalves to RT, Dalton Tucker at RG; Charlie Heck (personal) cleared and active as swing T; OL Reid Holskey elevated. Big pass-pro downgrade vs Will Anderson Jr."
         },
         {
-          "player": "Charvarius Ward (Out) & Sauce Gardner (Q, 3 DNPs)",
+          "player": "Sauce Gardner & Charvarius Ward (both inactive)",
           "team": "IND",
-          "why": "Ward is out and Gardner is very unlikely after three DNPs. Justin Walley and backups vs. Stroud/Dell supports HOU's passing game and the Over/HOU team total."
+          "why": "Confirmed: IND has neither starting outside CB. Expected starters Justin Walley and Kenneth Harris outside, Kapena Gushiken slot (Roundtable projection); PS CB Natrone Brooks elevated. Supports HOU passing game / HOU team total."
         },
         {
           "player": "Danielle Hunter / Woody Marks / Marvin Harrison Jr. / Azeez Al-Shaair (IR)",
@@ -52,10 +50,10 @@
         }
       ],
       "clusters": [
-        "IND OT: Bernhard Raimann (Out, concussion), Jalen Travis (Out, knee); backup T Charlie Heck Q (personal, DNP Tue/Wed)",
-        "IND CB: Charvarius Ward (Out), Sauce Gardner (Q, DNP all week)",
-        "IND DL/LB: Jerry Tillery (Out), Jaylon Carlies (IR)",
-        "HOU front seven: Danielle Hunter (Out), Azeez Al-Shaair (IR), Jake Hummel (Q, LP all week)",
+        "IND OT: Bernhard Raimann, Jalen Travis (both inactive)",
+        "IND CB: Sauce Gardner, Charvarius Ward (both inactive)",
+        "IND DL/LB: Jerry Tillery (inactive), Jaylon Carlies (IR)",
+        "HOU front seven: Danielle Hunter (Out), Azeez Al-Shaair (IR/Out), Jake Hummel (Q)",
         "HOU pass catchers: Marvin Harrison Jr. (Out), Brevin Jordan (Out)"
       ],
       "replacements": [
@@ -70,11 +68,6 @@
           "dropoff": "Moderate - two OL spots shuffled on a short week (SI Colts OnSI)"
         },
         {
-          "out": "Charvarius Ward (IND CB) [+ Gardner if out]",
-          "replacement": "Justin Walley as top boundary CB; Kenneth Harris, Jonathan Edwards behind",
-          "dropoff": "Large if Gardner also sits - IND would have neither starting CB (SI Texans OnSI)"
-        },
-        {
           "out": "Danielle Hunter (HOU DE)",
           "replacement": "Jadeveon Clowney opposite Will Anderson Jr.",
           "dropoff": "Moderate - veteran fill-in, less pass-rush juice (SI Texans OnSI)"
@@ -83,28 +76,34 @@
           "out": "Woody Marks (HOU RB)",
           "replacement": "David Montgomery (back from groin, first game since Week 5); Emari Demercado RB2",
           "dropoff": "Small to moderate - Montgomery is capable but possibly rusty (SI Texans OnSI, ESPN)"
+        },
+        {
+          "out": "Sauce Gardner & Charvarius Ward (IND CBs)",
+          "replacement": "Justin Walley, Kenneth Harris outside; Kapena Gushiken slot; Natrone Brooks elevated",
+          "dropoff": "Large - both starting outside CBs gone (Roundtable projection, not confirmed lineup)"
+        },
+        {
+          "out": "M.J. Stewart (HOU S, Week 10 starter)",
+          "replacement": "Reed Blankenship back at S next to Calen Bullock",
+          "dropoff": "Upgrade for HOU (heavy.com / James Palmer)"
         }
       ],
       "conflicts": [
-        "heavy.com listed IND G Dalton Tucker among those ruled out; colts.com, ESPN and SI list Mallory, Raimann, Tillery, Travis and Ward as out, and nfl.com shows Tucker FP. Official team report won: Tucker is not on the out list.",
-        "Jaylin Smith (HOU CB): Yahoo/Colts Wire and SI Colts OnSI list him Questionable despite FP all week; SI Texans OnSI's list leaves him out. Kept as Questionable.",
-        "Kamari Lassiter: DNP Tue/Wed on official report but no designation in any final-report article, and a league source says he plays (Aaron Wilson via heavy.com). Kept as no status, play_pct 80.",
-        "Lead 'Colts Make Final Sauce Gardner Decision Before Texans Tilt' (si.com) is STALE - Jan 2, 2026 (2025 Week 18, Gardner Out). Ignored. Current status is Q after 3 DNPs.",
-        "Opening line differs by source: DK opener -9.5 (previous report), SI 'opened -10', VegasInsider lists open -5.5 / 45.5 (likely look-ahead line). Used DK -9.5 as line_before.",
-        "Monday was a walkthrough for both teams - Monday practice statuses are estimates (Yahoo for HOU; CBS 'walkthrough' and colts.com wording for IND)."
+        "Jake Hummel Wed practice: earlier nfl.com pull showed LP; houstontexans.com (updated Wed 2:46 PM) shows FP. Team report won.",
+        "Kamari Lassiter Wed practice: earlier pull showed DNP; houstontexans.com shows FP Wed, no game status. Team report won; Texans Wire says he should be cleared.",
+        "Danielle Hunter injury: Texans Wire says ankle; official houstontexans.com report says hamstring. Official won.",
+        "Al-Shaair: Texans Wire lists him Out (DNP Mon-Wed); ESPN/Yahoo earlier said placed on IR. Kept IR - either way he does not play.",
+        "Opening spread: SportsLine/BetMGM -10, W&W says ~-4.5 (look-ahead), earlier DK -9.5. Used -10 as line_before.",
+        "Jaylin Smith: PFT says 'Texans activate CB Jaylin Smith' Thu but doesn't say from which list; team report has him Q after FP all week. Treated as playing."
       ],
       "unknowns": [
         {
-          "what": "Sauce Gardner active or inactive (also Gould, Heck, Rhodes, Hummel, Teller, J. Smith, Lassiter)",
-          "known_by": "Thu 11/19 ~3:45 PM PT inactives (earlier via Schefter/Rapoport/beat reports Thu)"
+          "what": "Texans official inactives (Hummel, Teller, J. Smith Q; Lassiter) - list not reachable this run",
+          "known_by": "Already posted ~3:45 PM PT; visible at kickoff 5:15 PM PT"
         },
         {
-          "what": "Who replaces Al-Shaair at LB for HOU - not named in any source",
-          "known_by": "Thu 11/19 inactives / starting lineup"
-        },
-        {
-          "what": "Any Wednesday-night or Thursday roster moves (practice-squad elevations at OT/CB for IND)",
-          "known_by": "Thu 11/19 ~1 PM PT"
+          "what": "IND starting CB/OT lineup confirmation",
+          "known_by": "Kickoff Thu 5:15 PM PT"
         }
       ],
       "players": [
@@ -117,9 +116,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Knee. Ruled out Wed. Second starting CB (with Gardner) likely missing.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Knee. Inactive.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -130,9 +129,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Concussion. Starting LT ruled out; Luke Tenuta expected to start at LT (SI Colts OnSI).",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Concussion. Starting LT ruled out; Luke Tenuta expected to start at LT (SI Colts OnSI). Inactive.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -143,9 +142,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Knee. Starting RT out 2nd straight game; Matt Goncalves moves RG->RT, Dalton Tucker in at RG (SI Colts OnSI).",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Knee. Starting RT out 2nd straight game; Matt Goncalves moves RG->RT, Dalton Tucker in at RG (SI Colts OnSI). Inactive.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); ESPN 11/18",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -156,9 +155,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Hamstring. Ruled out.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Hamstring. Inactive.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -169,9 +168,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Calf. Ruled out; 2nd straight game missed.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Calf. Inactive.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -179,12 +178,25 @@
           "pos": "CB",
           "practice": "Mon DNP(est) · Tue DNP · Wed DNP",
           "estimated": true,
-          "status": "Questionable",
-          "play_pct": 25,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Calf (aggravated, left Week 10 vs MIA and didn't return). Questionable after 3 DNPs - usually means he sits. If out, Justin Walley likely top boundary CB with Kenneth Harris / Jonathan Edwards (SI Texans OnSI).",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); NBC/Rotoworld 11/18; ESPN 11/18",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Calf (3rd injury to same left calf in a year). Questionable after 3 DNPs -> INACTIVE. Walley/Harris start outside.",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); NBC/Rotoworld 11/18; ESPN 11/18",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
+        },
+        {
+          "team": "IND",
+          "player": "Riley Leonard",
+          "pos": "QB",
+          "practice": "not on injury report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "Inactive as 3rd QB (roster decision, not injury).",
+          "source": "official inactives (colts.com Thu 11/19 3:45 PM PT)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -192,12 +204,12 @@
           "pos": "WR",
           "practice": "Mon LP(est) · Tue LP · Wed LP",
           "estimated": true,
-          "status": "Questionable",
-          "play_pct": 65,
+          "status": "none",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Toe. Limited all week.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Toe. Limited all week. ACTIVE (not on inactives list).",
+          "source": "Not on official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -205,12 +217,12 @@
           "pos": "T",
           "practice": "Mon - · Tue DNP · Wed DNP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 50,
+          "status": "none",
+          "play_pct": 100,
           "type": "personal",
-          "note": "Not injury related - personal. Backup T; matters more with both starting OTs out.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Not injury related - personal. Backup T; matters more with both starting OTs out. Personal matter cleared Thu morning; ACTIVE.",
+          "source": "Not on official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -218,12 +230,12 @@
           "pos": "LS",
           "practice": "Mon DNP(est) · Tue LP · Wed LP",
           "estimated": true,
-          "status": "Questionable",
-          "play_pct": 70,
+          "status": "none",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Hamstring. Missed Week 10.",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Hamstring. Missed Week 10. ACTIVE (not on inactives list).",
+          "source": "Not on official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -232,11 +244,11 @@
           "practice": "Mon FP(est) · Tue FP · Wed FP",
           "estimated": true,
           "status": "none",
-          "play_pct": 95,
+          "play_pct": 100,
           "type": "injury",
-          "note": "Shoulder. No designation; expected to start at RG with Goncalves sliding to RT. (heavy.com listed him Out - wrong per colts.com.)",
-          "source": "colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Shoulder. No designation; expected to start at RG with Goncalves sliding to RT. (heavy.com listed him Out - wrong per colts.com.) ACTIVE (not on inactives list).",
+          "source": "Not on official inactives (colts.com Thu 11/19 3:45 PM PT); colts.com 'Colts rule out 5 players' (Wed 11/18 1:30 PM); nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols)",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "IND",
@@ -307,14 +319,14 @@
           "team": "HOU",
           "player": "Jake Hummel",
           "pos": "LB",
-          "practice": "Mon LP(est) · Tue LP · Wed LP",
+          "practice": "Mon LP(est) · Tue LP · Wed FP",
           "estimated": true,
           "status": "Questionable",
-          "play_pct": 65,
+          "play_pct": 80,
           "type": "injury",
-          "note": "Groin. Limited all week; LB depth matters more with Al-Shaair on IR.",
-          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Groin. LP->LP->FP trend (team report); Texans inactives not confirmed this run.",
+          "source": "houstontexans.com report (upd Wed 2:46 PM); Fox Sports Thu",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "HOU",
@@ -325,9 +337,9 @@
           "status": "Questionable",
           "play_pct": 90,
           "type": "injury",
-          "note": "Back. Full all week but still Questionable.",
+          "note": "Back. Full all week; still Q pending Texans inactives (not confirmed this run).",
           "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "HOU",
@@ -338,22 +350,22 @@
           "status": "Questionable",
           "play_pct": 85,
           "type": "injury",
-          "note": "Hamstring. Full all week; listed Questionable by Yahoo/Colts Wire and SI Colts OnSI (SI Texans OnSI list omitted him).",
-          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Hamstring. FP all week, Q; PFT Thu 'Texans activate CB Jaylin Smith'. Inactives not confirmed this run.",
+          "source": "houstontexans.com report; Yahoo/PFT Thu 11/19 12:43 PM PT",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "HOU",
           "player": "Kamari Lassiter",
           "pos": "CB",
-          "practice": "Mon FP(est) · Tue DNP · Wed DNP",
+          "practice": "Mon FP(est) · Tue DNP · Wed FP",
           "estimated": true,
           "status": "none",
-          "play_pct": 80,
+          "play_pct": 90,
           "type": "injury",
-          "note": "Wrist. Added Tue; DNP Tue/Wed but no game designation reported, and 'set to play vs. Colts per a league source' (Aaron Wilson, KPRC 2, via heavy.com 11/18).",
-          "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report; heavy.com 11/18",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "note": "Wrist. Practiced Wed, no game status; Texans Wire Thu: should be cleared.",
+          "source": "houstontexans.com report (upd Wed 2:46 PM); Texans Wire Thu 11/19 1:00 PM PT",
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "HOU",
@@ -390,9 +402,9 @@
           "status": "none",
           "play_pct": 95,
           "type": "injury",
-          "note": "Hand. No designation.",
+          "note": "Hand. No designation; returns to starting S next to Calen Bullock, M.J. Stewart to reserve (heavy.com/James Palmer Thu).",
           "source": "nfl.com/injuries (Wed); houstontexans.com report (Mon/Tue cols); SI Texans OnSI final report (Wed 11/18); Yahoo/Colts Wire final report",
-          "pulled_at": "Wed 11/18 7:10 PM PT"
+          "pulled_at": "Thu 11/19 3:55 PM PT"
         },
         {
           "team": "HOU",
