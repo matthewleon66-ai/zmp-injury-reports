@@ -26,6 +26,15 @@
    "text": "IND@HOU: sustained wind 5 -> 0 mph (CALM -> CALM)",
    "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF TBD | 0 mph (peak 0) / gust 5 / — | 64°F / 62°F | 0% none | CALM ROOF TBD | HIGH | 45.5 → 44.5 | NWS + Open-Meteo | Wed 11/18 9:54 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873067-2026-11-19T05:59:21Z-0",
+   "created": "2026-11-19T05:59:21Z",
+   "game": "ARI@KC",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "ARI@KC: sustained wind 9 -> 13 mph (CALM -> BREEZY)",
+   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 13 mph (peak 13) / gust 20 / NNW | 50°F / 44°F | 1% none | BREEZY | MEDIUM | 44.5 → 40.5 | NWS + Open-Meteo | Wed 11/18 9:59 PM PT",
+   "notified": false
   }
  ]
 }
