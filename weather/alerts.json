@@ -80,6 +80,15 @@
    "text": "BAL@CAR: sustained wind 8 -> 10 mph (CALM -> BREEZY)",
    "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 10 mph (peak 12) / gust 18 / N | 67°F / 66°F | 14% none | BREEZY | MEDIUM | 46.5 → 43.5 | NWS + Open-Meteo | Thu 11/19 9:53 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873066-2026-11-19T19:45:25Z-0",
+   "created": "2026-11-19T19:45:25Z",
+   "game": "IND@HOU",
+   "kickoff_pt": "Thu 11/19 5:15 PM PT",
+   "text": "IND@HOU: roof status ROOF TBD -> ROOF OPEN",
+   "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF OPEN | 0 mph (peak 0) / gust 5 / — | 65°F / 63°F | 0% none | CALM | FINAL | 45.5 → 44.5 | NWS | Thu 11/19 11:45 AM PT",
+   "notified": false
   }
  ]
 }
