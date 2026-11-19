@@ -35,6 +35,42 @@
    "text": "ARI@KC: sustained wind 9 -> 13 mph (CALM -> BREEZY)",
    "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 13 mph (peak 13) / gust 20 / NNW | 50°F / 44°F | 1% none | BREEZY | MEDIUM | 44.5 → 40.5 | NWS + Open-Meteo | Wed 11/18 9:59 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873071-2026-11-19T11:55:35Z-0",
+   "created": "2026-11-19T11:55:35Z",
+   "game": "NO@CHI",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "NO@CHI: sustained wind 10 -> 15 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 15 mph (peak 15) / gust 21 / WNW | 52°F / 51°F | 34% rain | WINDY | MEDIUM | 46.5 → 48.5 | NWS + Open-Meteo | Thu 11/19 3:55 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873073-2026-11-19T11:55:35Z-1",
+   "created": "2026-11-19T11:55:35Z",
+   "game": "TEN@DAL",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "TEN@DAL: sustained wind 14 -> 15 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 15 mph (peak 15) / gust 26 / NNW | 64°F / 62°F | 0% none | WINDY GUSTY ROOF TBD | MEDIUM | 48.5 → 54.5 | NWS + Open-Meteo | Thu 11/19 3:55 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873073-2026-11-19T11:55:35Z-2",
+   "created": "2026-11-19T11:55:35Z",
+   "game": "TEN@DAL",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "TEN@DAL: gusts 17 -> 26 mph (crossed 25)",
+   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 15 mph (peak 15) / gust 26 / NNW | 64°F / 62°F | 0% none | WINDY GUSTY ROOF TBD | MEDIUM | 48.5 → 54.5 | NWS + Open-Meteo | Thu 11/19 3:55 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873078-2026-11-19T11:55:35Z-3",
+   "created": "2026-11-19T11:55:35Z",
+   "game": "CIN@WSH",
+   "kickoff_pt": "Mon 11/23 5:15 PM PT",
+   "text": "CIN@WSH: sustained wind 9 -> 10 mph (CALM -> BREEZY)",
+   "card": "Mon 11/23 5:15 PM PT | Northwest Stadium | OPEN-AIR | 10 mph (peak 12) / gust 21 / NW | 49°F / 41°F | 1% none | BREEZY | MEDIUM | 52.5 → 53.5 | NWS + Open-Meteo | Thu 11/19 3:55 AM PT",
+   "notified": false
   }
  ]
 }
