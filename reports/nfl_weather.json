@@ -1,12 +1,9 @@
 {
- "updated": "2026-11-19T05:59:21Z",
- "updated_pt": "Wed 11/18 9:59 PM PT",
+ "updated": "2026-11-19T07:10:29Z",
+ "updated_pt": "Wed 11/18 11:10 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
- "errors": [
-  "IND@HOU: Open-Meteo https://api.open-meteo.com/v1/forecast?latitude=29.6847&longitude=-95.4107&hourly=wind_speed_10m,wind_gusts_10m,wind_direction_10m,temperature_2m,apparent_temperature,precipitation_probability,precipitation,snowfall,weather_code&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=auto&forecast_days=10: <urlopen error _ssl.c:994: The handshake operation timed out>",
-  "MIA@BUF: Open-Meteo https://api.open-meteo.com/v1/forecast?latitude=42.7738&longitude=-78.7870&hourly=wind_speed_10m,wind_gusts_10m,wind_direction_10m,temperature_2m,apparent_temperature,precipitation_probability,precipitation,snowfall,weather_code&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=auto&forecast_days=10: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "games": [
   {
    "espn_event_id": "401873066",
@@ -646,14 +643,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Wed 11/18 9:59 PM PT",
-   "pulled_at_iso": "2026-11-19T05:59:21Z",
+   "pulled_at": "Wed 11/18 11:10 PM PT",
+   "pulled_at_iso": "2026-11-19T07:10:29Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 43.5 | — | Wed 11/18 9:59 PM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 43.5 | — | Wed 11/18 11:10 PM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -820,12 +817,8 @@
    "pulled_at_iso": "2026-11-19T05:59:21Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U 40.5",
-    "before": "O/U 41.5",
-    "changed": true
-   },
+   "edge_rerun_needed": false,
+   "odds_display": null,
    "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 13 mph (peak 13) / gust 20 / NNW | 50°F / 44°F | 1% none | BREEZY | MEDIUM | 44.5 → 40.5 | NWS + Open-Meteo | Wed 11/18 9:59 PM PT"
   },
   {
@@ -1210,14 +1203,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Wed 11/18 9:59 PM PT",
-   "pulled_at_iso": "2026-11-19T05:59:21Z",
+   "pulled_at": "Wed 11/18 11:10 PM PT",
+   "pulled_at_iso": "2026-11-19T07:10:29Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Wed 11/18 9:59 PM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 41.5 → 41.5 | — | Wed 11/18 11:10 PM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1869,14 +1862,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Wed 11/18 9:59 PM PT",
-   "pulled_at_iso": "2026-11-19T05:59:21Z",
+   "pulled_at": "Wed 11/18 11:10 PM PT",
+   "pulled_at_iso": "2026-11-19T07:10:29Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 49.5 → 45.5 | — | Wed 11/18 9:59 PM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 49.5 → 45.5 | — | Wed 11/18 11:10 PM PT"
   }
  ]
 }
