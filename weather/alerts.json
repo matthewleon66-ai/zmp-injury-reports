@@ -107,6 +107,15 @@
    "text": "KC@BUF: sustained wind 2 -> 7 mph (CALM -> CALM)",
    "card": "Thu 11/26 5:20 PM PT | Highmark Stadium | OPEN-AIR | 7 mph (peak 7) / gust 18 / ENE | 40°F / 34°F | 35% rain 0.08\" | CALM | LOW | 49.5 → 50.5 | Open-Meteo | Thu 11/19 6:52 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873067-2026-11-20T07:10:48Z-0",
+   "created": "2026-11-20T07:10:48Z",
+   "game": "ARI@KC",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "ARI@KC: sustained wind 14 -> 15 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 15 mph (peak 15) / gust 24 / NNW | 49°F / 43°F | 1% none | WINDY PRICED IN | MEDIUM | 44.5 → 40.5 | NWS + Open-Meteo | Thu 11/19 11:10 PM PT",
+   "notified": false
   }
  ]
 }
