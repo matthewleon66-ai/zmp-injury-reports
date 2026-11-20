@@ -89,6 +89,15 @@
    "text": "IND@HOU: roof status ROOF TBD -> ROOF OPEN",
    "card": "Thu 11/19 5:15 PM PT | NRG Stadium | ROOF OPEN | 0 mph (peak 0) / gust 5 / — | 65°F / 63°F | 0% none | CALM | FINAL | 45.5 → 44.5 | NWS | Thu 11/19 11:45 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873078-2026-11-20T00:58:23Z-0",
+   "created": "2026-11-20T00:58:23Z",
+   "game": "CIN@WSH",
+   "kickoff_pt": "Mon 11/23 5:15 PM PT",
+   "text": "CIN@WSH: sustained wind 10 -> 9 mph (BREEZY -> CALM)",
+   "card": "Mon 11/23 5:15 PM PT | Northwest Stadium | OPEN-AIR | 9 mph (peak 10) / gust 14 / NW | 49°F / 43°F | 0% none | CALM | MEDIUM | 52.5 → 53.5 | NWS + Open-Meteo | Thu 11/19 4:58 PM PT",
+   "notified": false
   }
  ]
 }
