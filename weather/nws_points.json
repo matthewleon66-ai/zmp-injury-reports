@@ -78,5 +78,13 @@
   "km_from_nws_ref": 0.5,
   "verified": true,
   "checked": "2026-11-17T05:39:21Z"
+ },
+ "40.4468,-80.0158": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/PBZ/77,66/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/PBZ/77,66",
+  "nws_city": "Pittsburgh, PA",
+  "km_from_nws_ref": 3.5,
+  "verified": true,
+  "checked": "2026-11-20T08:58:56Z"
  }
 }
