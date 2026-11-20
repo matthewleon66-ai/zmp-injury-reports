@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:46:31Z",
- "updated_pt": "Fri 11/20 1:46 PM PT",
+ "updated": "2026-11-20T22:45:00Z",
+ "updated_pt": "Fri 11/20 2:45 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -620,14 +620,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/20 1:46 PM PT",
-   "pulled_at_iso": "2026-11-20T21:46:31Z",
+   "pulled_at": "Fri 11/20 2:45 PM PT",
+   "pulled_at_iso": "2026-11-20T22:45:00Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 45.5 | — | Fri 11/20 1:46 PM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 45.5 | — | Fri 11/20 2:45 PM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -1195,14 +1195,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/20 1:46 PM PT",
-   "pulled_at_iso": "2026-11-20T21:46:31Z",
+   "pulled_at": "Fri 11/20 2:45 PM PT",
+   "pulled_at_iso": "2026-11-20T22:45:00Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 41.5 → 41.5 | — | Fri 11/20 1:46 PM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 41.5 → 41.5 | — | Fri 11/20 2:45 PM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1222,7 +1222,7 @@
     "first_seen": 40.5,
     "prev": null,
     "now": 40.5,
-    "spread": "DEN -10",
+    "spread": "DEN -10.5",
     "book": "Draft Kings",
     "history": [
      {
@@ -1866,14 +1866,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/20 1:46 PM PT",
-   "pulled_at_iso": "2026-11-20T21:46:31Z",
+   "pulled_at": "Fri 11/20 2:45 PM PT",
+   "pulled_at_iso": "2026-11-20T22:45:00Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 49.5 → 45.5 | — | Fri 11/20 1:46 PM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 49.5 → 45.5 | — | Fri 11/20 2:45 PM PT"
   },
   {
    "espn_event_id": "401873081",
@@ -1911,14 +1911,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/20 1:46 PM PT",
-   "pulled_at_iso": "2026-11-20T21:46:31Z",
+   "pulled_at": "Fri 11/20 2:45 PM PT",
+   "pulled_at_iso": "2026-11-20T22:45:00Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 51.5 → 55.5 | — | Fri 11/20 1:46 PM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 51.5 → 55.5 | — | Fri 11/20 2:45 PM PT"
   },
   {
    "espn_event_id": "401873080",
