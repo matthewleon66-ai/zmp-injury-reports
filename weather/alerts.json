@@ -161,6 +161,15 @@
    "text": "JAX@NYG: sustained wind 6 -> 10 mph (CALM -> BREEZY)",
    "card": "Sun 11/22 1:25 PM PT | MetLife Stadium | OPEN-AIR | 10 mph (peak 12) / gust 16 / NE | 60°F / 60°F | 94% rain 0.29\" | BREEZY WET | HIGH | 46.5 → 46.5 | NWS + Open-Meteo | Fri 11/20 5:02 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873069-2026-11-21T13:56:23Z-0",
+   "created": "2026-11-21T13:56:23Z",
+   "game": "JAX@NYG",
+   "kickoff_pt": "Sun 11/22 1:25 PM PT",
+   "text": "JAX@NYG: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
+   "card": "Sun 11/22 1:25 PM PT | MetLife Stadium | OPEN-AIR | 8 mph (peak 9) / gust 18 / E | 61°F / 60°F | 89% rain 0.34\" | CALM WET | HIGH | 46.5 → 46.5 | NWS + Open-Meteo | Sat 11/21 5:56 AM PT",
+   "notified": false
   }
  ]
 }
