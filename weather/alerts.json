@@ -143,6 +143,24 @@
    "text": "BAL@CAR: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
    "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 8 mph (peak 8) / gust 21 / N | 65°F / 64°F | 24% rain | CALM | HIGH | 46.5 → 43.5 | NWS + Open-Meteo | Fri 11/20 10:56 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873076-2026-11-21T01:02:07Z-0",
+   "created": "2026-11-21T01:02:07Z",
+   "game": "PIT@PHI",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "PIT@PHI: sustained wind 5 -> 10 mph (CALM -> BREEZY)",
+   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 10 mph (peak 10) / gust 16 / NE | 62°F / 62°F | 84% rain 0.25\" | BREEZY WET PRICED IN | HIGH | 42.5 → 37.5 | NWS + Open-Meteo | Fri 11/20 5:02 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873069-2026-11-21T01:02:07Z-1",
+   "created": "2026-11-21T01:02:07Z",
+   "game": "JAX@NYG",
+   "kickoff_pt": "Sun 11/22 1:25 PM PT",
+   "text": "JAX@NYG: sustained wind 6 -> 10 mph (CALM -> BREEZY)",
+   "card": "Sun 11/22 1:25 PM PT | MetLife Stadium | OPEN-AIR | 10 mph (peak 12) / gust 16 / NE | 60°F / 60°F | 94% rain 0.29\" | BREEZY WET | HIGH | 46.5 → 46.5 | NWS + Open-Meteo | Fri 11/20 5:02 PM PT",
+   "notified": false
   }
  ]
 }
