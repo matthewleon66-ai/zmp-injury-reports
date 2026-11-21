@@ -170,6 +170,24 @@
    "text": "JAX@NYG: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
    "card": "Sun 11/22 1:25 PM PT | MetLife Stadium | OPEN-AIR | 8 mph (peak 9) / gust 18 / E | 61°F / 60°F | 89% rain 0.34\" | CALM WET | HIGH | 46.5 → 46.5 | NWS + Open-Meteo | Sat 11/21 5:56 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873071-2026-11-21T20:39:11Z-0",
+   "created": "2026-11-21T20:39:11Z",
+   "game": "NO@CHI",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "NO@CHI: gusts 23 -> 28 mph (crossed 25)",
+   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 15 mph (peak 15) / gust 28 / NW | 53°F / 44°F | 84% rain 0.01\" | WINDY GUSTY | HIGH | 46.5 → 48.5 | NWS + Open-Meteo | Sat 11/21 12:39 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873067-2026-11-21T20:39:11Z-1",
+   "created": "2026-11-21T20:39:11Z",
+   "game": "ARI@KC",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "ARI@KC: gusts 25 -> 24 mph (crossed 25)",
+   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 14 mph (peak 15) / gust 24 / N | 50°F / 43°F | 0% none | BREEZY | HIGH | 44.5 → 40.5 | NWS + Open-Meteo | Sat 11/21 12:39 PM PT",
+   "notified": false
   }
  ]
 }
