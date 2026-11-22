@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:49:17+00:00",
+  "updated": "2026-11-22T02:55:00Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -7,8 +7,8 @@
       "home": "BUF",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status",
         "miamidolphins.com 'Injury Report: Week 11 Dolphins at Bills' (Fri 11/20 3:24 PM)",
@@ -19,7 +19,8 @@
         "Yahoo 'Christian Benford and Dorian Williams ruled out, Dalton Kincaid doubtful' (Fri 11/20)",
         "Banged Up Bills 'Bills vs Dolphins Week 11 Injury Preview' (Fri 11/20 ~6:03 PM ET; projections)",
         "FOX Sports MIA-BUF game page odds (page created 11/20)",
-        "SI Betting Dolphins-Bills (DraftKings, 11/17) for reference"
+        "SI Betting Dolphins-Bills (DraftKings, 11/17) for reference",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); buffalobills.com Bills Roster Moves Nov. 21"
       ],
       "sources_unreachable": [
         "buffalobills.com/team/injury-report/week/REG-11 (fetch permission not granted)",
@@ -119,12 +120,12 @@
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Practice-squad elevations (MIA: P Browning, K Daniel Carlson / DT Matthew Butler per SI; BUF: Shaq Thompson / Tre'Davious White projected) and Baker Jr. PUP activation",
-          "known_by": "Sat 11/21 ~1:00 PM PT (roster moves)"
-        },
-        {
           "what": "Whether Kincaid (Doubtful) is formally downgraded",
           "known_by": "Sat 11/21 roster moves / Sun inactives"
+        },
+        {
+          "what": "Sat elevations done: MIA P Jack Browning + K Daniel Carlson; BUF LB Shaq Thompson + CB Tre'Davious White. Final actives",
+          "known_by": "Sun 11/22 8:30 AM PT"
         }
       ],
       "players": [
@@ -291,11 +292,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Knee; FP all week but listed Questionable - Banged Up Bills says he's on PUP and needs activation; SI says he may need a roster spot for special teams.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + miamidolphins.com Week 11 report (Fri 11/20 3:24 PM) + Yahoo/Roundtable Dolphins final report (Fri 11/20) + Banged Up Bills (Fri 11/20)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Activated from PUP Sat 11/21 - eligible. | Knee; FP all week but listed Questionable - Banged Up Bills says he's on PUP and needs activation; SI says he may need a roster spot for special teams.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + miamidolphins.com Week 11 report (Fri 11/20 3:24 PM) + Yahoo/Roundtable Dolphins final report (Fri 11/20) + Banged Up Bills (Fri 11/20)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "BUF",
@@ -565,14 +566,15 @@
       "home": "CAR",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status",
         "panthers.com/team/injury-report/week/REG-11 (Wed/Thu/Fri + game status, both teams)",
         "panthers.com 'Week 11 Friday Injury Report: Two ruled out for Ravens game' (Fri 11/20 12:24 PM)",
         "baltimoreravens.com 'Three Ravens Defensive Starters Ruled Out vs. Panthers' (Fri 11/20 1:01 PM)",
-        "ESPN game page gameId 401873068 (DraftKings line)"
+        "ESPN game page gameId 401873068 (DraftKings line)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
       ],
       "sources_unreachable": [
         "russellstreetreport.com Friday game-status report (fetch error)",
@@ -644,10 +646,6 @@
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Whether CAR activates Mike Jackson / Jonathon Brooks / Brady Christensen from IR (all Q, FP all week)",
-          "known_by": "Sat 11/21 ~1:00 PM PT (roster moves)"
-        },
-        {
           "what": "Who replaces S Jaylinn Hawkins",
           "known_by": "Sun 11/22 (first snaps)"
         },
@@ -656,8 +654,12 @@
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "BAL practice-squad elevations",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
+          "what": "Brooks/Christensen not seen activated - confirm they are not on active roster",
+          "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Sat elevations done: BAL DT David Olajiga + TE Nick Vannett; CAR LB Nick Hampton + LB Ja'Markis Weston",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -810,12 +812,12 @@
           "pos": "LB",
           "practice": "Wed DNP · Thu DNP · Fri DNP",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "Knee; core special teamer, ruled out.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat 11/21. | Knee; core special teamer, ruled out.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CAR",
@@ -876,11 +878,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Groin; on IR in practice window, FP all week - needs activation to play.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM) + baltimoreravens.com (Fri)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Activated from IR Sat 11/21 - eligible. | Groin; on IR in practice window, FP all week - needs activation to play.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM) + baltimoreravens.com (Fri)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CAR",
@@ -889,11 +891,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 10,
           "type": "injury",
-          "note": "Hamstring; on IR in practice window, FP all week - needs activation.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "NOT on Saturday transaction list - if not activated by Sat 4 PM ET deadline he cannot play; confirm at inactives. | Hamstring; on IR in practice window, FP all week - needs activation.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CAR",
@@ -902,11 +904,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 65,
+          "play_pct": 10,
           "type": "injury",
-          "note": "Groin; on IR in practice window, FP all week - needs activation.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "NOT on Saturday transaction list - if not activated by Sat 4 PM ET deadline he cannot play; confirm at inactives. | Groin; on IR in practice window, FP all week - needs activation.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CAR",
@@ -972,6 +974,19 @@
           "note": "New Fri - shoulder, limited, no designation.",
           "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
+        },
+        {
+          "practice": "",
+          "estimated": false,
+          "status": "Released",
+          "play_pct": 0,
+          "type": "injury",
+          "note": "Released with injury settlement Fri 11/20 (PFR, not team-confirmed).",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "CAR",
+          "player": "Ihmir Smith-Marsette",
+          "pos": "WR",
+          "source": "ProFootballRumors (Fri 11/20)"
         }
       ]
     },
@@ -981,14 +996,15 @@
       "home": "CHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status (Bears Fri report included)",
         "neworleanssaints.com 'Saints Friday Injury Report: 2026 Week 11 vs. Chicago Bears' (Fri 11/20 1:21 PM, both teams)",
         "WWL/Audacy 'Saints rule out 4 players for Week 11 vs Bears; Justin Reid waived' (Fri 11/20 4:34 PM CT)",
         "ESPN odds page gameId 401873071 (DraftKings)",
-        "SI Betting Saints-Bears (DraftKings, 11/17) for reference"
+        "SI Betting Saints-Bears (DraftKings, 11/17) for reference",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Saints Wire (Yahoo) Sat roster moves"
       ],
       "sources_unreachable": [
         "windycitygridiron.com (robots blocked; not retried)",
@@ -1074,8 +1090,8 @@
           "known_by": "Sun 11/22 kickoff"
         },
         {
-          "what": "Saints roster move to fill Reid's spot / practice-squad elevations",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
+          "what": "Done Sat: NO signed K Charlie Smyth to 53, elevated DB T.J. Hall + T Colby Sorsdal (OL depth with McCoy/Fuaga/Richards out); CHI elevated RB Salvon Ahmed",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -1140,9 +1156,9 @@
           "status": "Waived",
           "play_pct": 0,
           "type": "personal",
-          "note": "Waived Fri by mutual agreement (subject to waivers); listed Out (personal) on final report. Jordan Howden starts.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20 4:34 PM CT)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Waived with non-football injury settlement. | Waived Fri by mutual agreement (subject to waivers); listed Out (personal) on final report. Jordan Howden starts.",
+          "source": "Yahoo/Saints Wire Sat 11/21 + PFR + nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20 4:34 PM CT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "NO",
@@ -1347,8 +1363,8 @@
       "home": "DAL",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT; TEN Fri column + game status, DAL Fri column blank)",
         "Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20 ~12:47 PM PT)",
@@ -1356,7 +1372,8 @@
         "nfl.com/injuries/league/2026/REG11 (practice column only, no game statuses yet)",
         "ESPN game page gameId 401873073 (DraftKings odds)",
         "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)"
+        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Heavy.com Cowboys roster moves (Yarrish)"
       ],
       "sources_unreachable": [
         "dallascowboys.com official Friday report (not found in search)",
@@ -1373,21 +1390,21 @@
           "why": "Starting TE ruled Out; backup Schoonmaker Questionable after DNP Thu+Fri (illness) - DAL could be down to depth TEs."
         },
         {
-          "player": "DaRon Bland + P.J. Locke",
+          "player": "DaRon Bland + P.J. Locke + Jalen Thompson",
           "team": "DAL",
-          "why": "Starting CB and S ruled Out; S Jalen Thompson (Q, IR return) and CB Devin Moore (Q per CBS) need activation to help."
+          "why": "Bland to IR, Locke Out, and IR returners Thompson/Moore NOT activated (out). DAL elevated CB Derion Kendrick - thin secondary."
         },
         {
-          "player": "Tyjae Spears / Carnell Tate",
+          "player": "Tyjae Spears",
           "team": "TEN",
-          "why": "Both Questionable but FP Friday - TEN looks close to full strength (only Carmona Out)."
+          "why": "Surprise IR placement Sat after FP Friday; RB Michael Carter elevated. Reduces TEN backfield depth/passing-down back."
         }
       ],
       "clusters": [
-        "DAL CB: DaRon Bland Out; Shavon Revel Jr. back (no designation); Devin Moore Questionable (IR window)",
-        "DAL S: P.J. Locke Out; Jalen Thompson Questionable (IR return); Hooker/Thomas good to go",
         "DAL TE: Jake Ferguson Out, Luke Schoonmaker Questionable (illness, DNP Thu+Fri)",
-        "DAL out list: Ferguson, Bland, Booker, Locke, Mingo (5 Out)"
+        "DAL out list: Ferguson, Bland, Booker, Locke, Mingo (5 Out)",
+        "DAL CB: Bland (IR), Devin Moore out (not activated); Derion Kendrick elevated",
+        "DAL S: P.J. Locke Out, Jalen Thompson out (not activated)"
       ],
       "replacements": [
         {
@@ -1419,13 +1436,10 @@
       "conflicts": [
         "Devin Moore: CBS (Fri 5:42 PM ET) lists Questionable; Yahoo Fri article omits him; official DAL Fri table not reachable. Kept Questionable (CBS newer).",
         "Shavon Revel Jr.: Yahoo says practiced Fri with no designation; CBS omits him from DAL list - consistent with no designation.",
-        "ESPN game page shows '6:00 PM ET' in one spot and 1:00 in ticket widget; kickoff kept 18:00Z (10 AM PT) per schedule."
+        "ESPN game page shows '6:00 PM ET' in one spot and 1:00 in ticket widget; kickoff kept 18:00Z (10 AM PT) per schedule.",
+        "Spears: Friday official report Questionable after FP; Saturday transaction list (NFLTR) shows IR - newer roster move wins."
       ],
       "unknowns": [
-        {
-          "what": "Jalen Thompson / Devin Moore activation from IR (needed to play)",
-          "known_by": "Sat 11/21 ~1:00 PM PT (roster moves deadline 4 PM ET Sat)"
-        },
         {
           "what": "Luke Schoonmaker (illness) - plays or inactive",
           "known_by": "Sun 11/22 8:30 AM PT"
@@ -1435,12 +1449,16 @@
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "TEN questionables (Spears, Tate, Adams, Hill, M. Robinson) - all FP Fri, expected active",
+          "what": "Reason Spears went to IR (new injury?)",
+          "known_by": "Sun 11/22 morning"
+        },
+        {
+          "what": "TEN questionables (Tate, Adams, Hill, M. Robinson) - all FP Fri",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "DAL practice-squad elevations (TE/CB depth)",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
+          "what": "DAL also elevated RB Jashaun Corbin",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -1476,12 +1494,12 @@
           "pos": "RB",
           "practice": "Wed DNP · Thu LP · Fri FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 85,
+          "status": "IR",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knee; DNP -> LP -> FP Fri. Questionable but CBS notes all 5 TEN questionables practiced fully Fri.",
-          "source": "tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "PLACED ON IR Sat 11/21 - OUT (was Questionable after FP Fri; reason for move not yet reported). RB Michael Carter elevated from PS. | Knee; DNP -> LP -> FP Fri. Questionable but CBS notes all 5 TEN questionables practiced fully Fri.",
+          "source": "NFLTR Sat 11/21 + tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "TEN",
@@ -1593,12 +1611,12 @@
           "pos": "CB",
           "practice": "Wed DNP · Thu DNP · Fri - (not listed)",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "High ankle sprain; did not practice all week, ruled Out. Cobie Durant expected outside.",
-          "source": "Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat - out at least through Week 14. | High ankle sprain; did not practice all week, ruled Out. Cobie Durant expected outside.",
+          "source": "NFLTR + Heavy/Tommy Yarrish Sat 11/21 + Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "DAL",
@@ -1684,12 +1702,12 @@
           "pos": "S",
           "practice": "Wed LP · Thu FP · Fri n/r",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 65,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Hamstring; on IR in 21-day window, FP Thu (CBS: FP 2nd straight day Fri). Questionable to be activated - activation not yet official.",
-          "source": "Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Ruled OUT for Sunday; stays on IR/designated to return. | Hamstring; on IR in 21-day window, FP Thu (CBS: FP 2nd straight day Fri). Questionable to be activated - activation not yet official.",
+          "source": "Heavy (Tommy Yarrish tweet) Sat 11/21 + Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "DAL",
@@ -1723,12 +1741,12 @@
           "pos": "CB",
           "practice": "Wed FP · Thu FP · Fri n/r",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 55,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Hip; IR 21-day window. CBS lists Questionable; Yahoo Friday article does not mention him - needs activation to play.",
-          "source": "CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Out Sunday; stays on IR/designated to return. | Hip; IR 21-day window. CBS lists Questionable; Yahoo Friday article does not mention him - needs activation to play.",
+          "source": "Heavy (Tommy Yarrish tweet) Sat 11/21 + CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "DAL",
@@ -1829,8 +1847,8 @@
       "home": "DET",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "buccaneers.com 'Buccaneers-Lions Injury Report Nov.20: Winfield Jr. and Josh Hayes Ruled Out' (Fri 11/20 3:45 PM ET, both teams)",
         "nfl.com news roundup Fri 11/20 (Bowles on Mayfield)",
@@ -1838,7 +1856,8 @@
         "RotoWire game page TB@DET (Fri 11/20 news)",
         "ESPN game page gameId 401873072 (DraftKings odds)",
         "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "nfl.com/injuries/league/2026/REG11 (practice column only)"
+        "nfl.com/injuries/league/2026/REG11 (practice column only)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
       ],
       "sources_unreachable": [
         "detroitlions.com Friday report (not fetched; buccaneers.com report covers both teams)",
@@ -1911,6 +1930,10 @@
         {
           "what": "Final inactives",
           "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Done Sat: DET elevated LB Owen Pappoe, signed DB Nick Whiteside to 53; TB elevated S J.J. Roberts. No Saturday Mayfield update found",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -1998,12 +2021,12 @@
           "pos": "C",
           "practice": "Wed (est.) DNP · Thu DNP · Fri DNP",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "Ankle; DNP all week, ruled Out.",
-          "source": "buccaneers.com 'Buccaneers-Lions Injury Report Nov.20' (Fri 11/20 3:45 PM ET); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat 11/21. | Ankle; DNP all week, ruled Out.",
+          "source": "NFLTR Sat 11/21 + buccaneers.com 'Buccaneers-Lions Injury Report Nov.20' (Fri 11/20 3:45 PM ET); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "DET",
@@ -2169,8 +2192,8 @@
       "home": "KC",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "azcardinals.com team injury report Week 11 (Wed/Thu/Fri + game status, both teams)",
         "chiefs.com Week 11 Injury Report Cardinals vs Chiefs (pub Fri 11/20 2:02 PM)",
@@ -2178,7 +2201,8 @@
         "CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
         "RotoWire game page ARI@KC (Fri 11/20 news: Beck Q, Josh Johnson expected to start)",
         "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)"
+        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
       ],
       "sources_unreachable": [
         "No post-Beck-news (Fri afternoon) sportsbook total found; RotoWire odds widget did not load",
@@ -2254,6 +2278,10 @@
         {
           "what": "Final inactives",
           "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Done Sat: ARI elevated WR Zay Jones; KC elevated RB Nate Carter + C Pete Nygra",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -2641,11 +2669,11 @@
           "practice": "Wed - (not listed) · Thu LP · Fri DNP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 25,
+          "play_pct": 10,
           "type": "injury",
-          "note": "Back; added Thu (LP), DNP Fri, Questionable. LaFleur: won't practice Fri, may not play Sunday. RotoWire/CBS (Fri): veteran Josh Johnson expected to start; RotoWire lineup still shows Beck.",
-          "source": "azcardinals.com Week 11 injury report (both teams, Fri 11/20); chiefs.com Week 11 Injury Report (pub Fri 11/20 2:02 PM); nfl.com news roundup Fri 11/20; CBS Sports Fri 5:42 PM ET; RotoWire 11/20",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "PFR: LaFleur said Josh Johnson expected to start Sun; Beck may be available Wk 12. | Back; added Thu (LP), DNP Fri, Questionable. LaFleur: won't practice Fri, may not play Sunday. RotoWire/CBS (Fri): veteran Josh Johnson expected to start; RotoWire lineup still shows Beck.",
+          "source": "ProFootballRumors (Fri 11/20, summary) + azcardinals.com Week 11 injury report (both teams, Fri 11/20); chiefs.com Week 11 Injury Report (pub Fri 11/20 2:02 PM); nfl.com news roundup Fri 11/20; CBS Sports Fri 5:42 PM ET; RotoWire 11/20",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         }
       ]
     },
@@ -2655,8 +2683,8 @@
       "home": "PHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries (Week 11 - Fri statuses posted)",
         "philadelphiaeagles.com/team/injury-report (Week 11, Wed-Fri + game status)",
@@ -2666,7 +2694,8 @@
         "RotoWire betting game page (Nov 20 news items)",
         "ESPN game page gameId 401873076 (injury designations)",
         "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (upd. 11/20)"
+        "VegasInsider Week 11 odds (upd. 11/20)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); steelers.com Steelers make roster moves ahead of Eagles game (Sat 11/21 3:00 PM)"
       ],
       "sources_unreachable": [
         "steelers.com Friday report not yet posted at check (Fri column blank); PIT Friday data taken from philadelphiaeagles.com + nfl.com",
@@ -2687,16 +2716,17 @@
           "why": "Baun OUT (back), Mondon DOUBTFUL (ankle). Jihaad Campbell + Jeremiah Trotter Jr. at LB."
         },
         {
-          "player": "Nick Herbig",
+          "player": "Nick Herbig + Michael Pittman Jr.",
           "team": "PIT",
-          "why": "Questionable (hip/ribs) but DNP all week - leans out. Watt, Heyward, Ramsey all no designation."
+          "why": "Herbig downgraded to OUT Sat; Pittman (and G Dunker) not activated from IR in Saturday moves - PIT WR room leans on Wilson (activated) + elevated Max Hurleman."
         }
       ],
       "clusters": [
         "PHI LB: Zack Baun (OUT, back), Smael Mondon Jr. (DOUBTFUL, ankle) - both starters/rotation LBs likely missing",
         "PHI WR: Dontayvion Wicks OUT (ankle/foot); DeVonta Smith good to go; Covey LP all week, no designation",
         "PIT IR returns: Pittman, Dunker, R. Wilson all questionable and need activation by Sat 4 PM ET",
-        "PIT OL: Mason McCormick on IR (dislocated ankle)"
+        "PIT OL: Mason McCormick on IR (dislocated ankle)",
+        "PIT: Herbig OUT; Pittman/Dunker not activated (only R. Wilson activated)"
       ],
       "replacements": [
         {
@@ -2729,16 +2759,16 @@
       ],
       "unknowns": [
         {
-          "what": "IR activations: Pittman, Dunker, R. Wilson (PIT) and Shipley (PHI)",
-          "known_by": "Sat 11/21 ~1:00 PM PT (4 PM ET deadline)"
-        },
-        {
-          "what": "Nick Herbig (Q, DNP all week) - plays or inactive",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
           "what": "Inactives (Mondon doubtful, Herbig, Elliott, Queen, Shipley)",
           "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Confirm Pittman/Dunker inactive (not activated by Sat deadline)",
+          "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Done Sat: PIT signed LB K.J. Henry, elevated WR Max Hurleman + OL Doug Nester; PHI elevated DT Gabe Hall + LB Anfernee Orji",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -2761,12 +2791,12 @@
           "pos": "LB",
           "practice": "Wed DNP · Thu DNP · Fri DNP",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "Back. Ruled OUT Fri. Jihaad Campbell starts alongside Jeremiah Trotter Jr.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat 11/21. | Back. Ruled OUT Fri. Jihaad Campbell starts alongside Jeremiah Trotter Jr.",
+          "source": "NFLTR Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PHI",
@@ -2787,12 +2817,12 @@
           "pos": "WR",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "Ankle/foot (foot added Fri). Ruled OUT - 4th straight missed game.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat 11/21. | Ankle/foot (foot added Fri). Ruled OUT - 4th straight missed game.",
+          "source": "NFLTR Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PHI",
@@ -2853,11 +2883,11 @@
           "practice": "Wed LP · Thu LP · Fri DNP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 25,
+          "play_pct": 55,
           "type": "injury",
-          "note": "Foot/illness; on IR (designated to return). DNP Fri with illness. Must be activated by 4 PM Sat to play.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Activated from IR Sat 11/21 - eligible (illness Fri). | Foot/illness; on IR (designated to return). DNP Fri with illness. Must be activated by 4 PM Sat to play.",
+          "source": "NFLTR Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PHI",
@@ -2956,12 +2986,12 @@
           "pos": "OLB",
           "practice": "Wed DNP · Thu DNP · Fri DNP (est.)",
           "estimated": true,
-          "status": "Questionable",
-          "play_pct": 25,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Hip/ribs. Questionable despite not practicing all week (Fri was a walkthrough, estimated). Leans out.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "DOWNGRADED TO OUT Sat. | Hip/ribs. Questionable despite not practicing all week (Fri was a walkthrough, estimated). Leans out.",
+          "source": "steelers.com Steelers make roster moves (Sat 11/21 3:00 PM) + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PIT",
@@ -3035,11 +3065,11 @@
           "practice": "Wed LP · Thu FP · Fri FP (est.)",
           "estimated": true,
           "status": "Questionable",
-          "play_pct": 75,
+          "play_pct": 10,
           "type": "injury",
-          "note": "Foot; on IR (designated to return). Questionable; needs activation by 4 PM ET Sat to play.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "NOT activated in Steelers Saturday moves (only Wilson) - unless activated elsewhere, ineligible; confirm at inactives. | Foot; on IR (designated to return). Questionable; needs activation by 4 PM ET Sat to play.",
+          "source": "steelers.com Steelers make roster moves (Sat 11/21 3:00 PM) + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PIT",
@@ -3061,11 +3091,11 @@
           "practice": "Wed FP · Thu FP · Fri FP (est.)",
           "estimated": true,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 10,
           "type": "injury",
-          "note": "Knee; on IR since 9/26 (designated to return). Needs activation by Sat 4 PM ET.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "NOT activated in Steelers Saturday moves (only Wilson) - unless activated elsewhere, ineligible; confirm at inactives. | Knee; on IR since 9/26 (designated to return). Needs activation by Sat 4 PM ET.",
+          "source": "steelers.com Steelers make roster moves (Sat 11/21 3:00 PM) + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PIT",
@@ -3074,11 +3104,11 @@
           "practice": "Wed FP · Thu FP · Fri FP (est.)",
           "estimated": true,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Hand/finger; on IR (designated to return). Needs activation by Sat 4 PM ET.",
-          "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Activated from IR Sat - eligible. | Hand/finger; on IR (designated to return). Needs activation by Sat 4 PM ET.",
+          "source": "steelers.com Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "PIT",
@@ -3101,8 +3131,8 @@
       "home": "LAC",
       "kickoff": "2026-11-22T21:05:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries (Week 11 - Fri statuses posted)",
         "RotoWire betting game page (Nov 20 news items)",
@@ -3111,7 +3141,8 @@
         "TSN/AP Geno Smith 'intends to play' (11/18)",
         "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
         "VegasInsider Week 11 odds (upd. 11/20)",
-        "newyorkjets.com / chargers.com / SI 'final injury report' Jets-Chargers search hits (all Nov 2020 - stale, ignored)"
+        "newyorkjets.com / chargers.com / SI 'final injury report' Jets-Chargers search hits (all Nov 2020 - stale, ignored)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
       ],
       "sources_unreachable": [
         "chargers.com/team/injury-report (fetch permission timed out)",
@@ -3175,16 +3206,20 @@
       ],
       "unknowns": [
         {
-          "what": "Pipkins activation from IR",
-          "known_by": "Sat 11/21 ~1:00 PM PT (4 PM ET deadline)"
-        },
-        {
           "what": "Kolar concussion clearance; McConkey, Still, Waxter game-time status",
           "known_by": "Sun 11/22 11:35 AM PT inactives"
         },
         {
           "what": "Inactives (Thompson doubtful; NYJ Phillips, Ossai, Parham, Wallace Q)",
           "known_by": "Sun 11/22 11:35 AM PT"
+        },
+        {
+          "what": "Bud Dupree release request - active Sunday?",
+          "known_by": "Sun 11/22 11:35 AM PT inactives"
+        },
+        {
+          "what": "Done Sat: LAC elevated DB Jalyn Armour-Davis; NYJ elevated WR Sterling Shepard",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -3337,12 +3372,12 @@
           "pos": "CB",
           "practice": "Wed DNP · Thu DNP · Fri DNP",
           "estimated": false,
-          "status": "Out",
+          "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "Ankle. Ruled OUT.",
-          "source": "nfl.com/injuries (Week 11, Fri 11/20 statuses); RotoWire 11/20; ESPN gameId 401873074",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR Sat 11/21. | Ankle. Ruled OUT.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries (Week 11, Fri 11/20 statuses); RotoWire 11/20; ESPN gameId 401873074",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "LAC",
@@ -3416,11 +3451,11 @@
           "practice": "Wed LP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Knee; on IR (designated to return). Questionable - needs activation by Sat 4 PM ET.",
-          "source": "nfl.com/injuries (Week 11, Fri 11/20 statuses)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Activated from IR Sat 11/21 - eligible. | Knee; on IR (designated to return). Questionable - needs activation by Sat 4 PM ET.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries (Week 11, Fri 11/20 statuses)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "LAC",
@@ -3473,6 +3508,19 @@
           "note": "Ankle. NEW - added to report Fri as limited; RotoWire calls late addition a negative sign. Deane Leonard / Genesis Smith next up.",
           "source": "nfl.com/injuries (Fri 11/20); RotoWire 11/20; ESPN gameId 401873074",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
+        },
+        {
+          "practice": "",
+          "estimated": false,
+          "status": "none",
+          "play_pct": null,
+          "type": "personal",
+          "note": "Requested release (ESPN Fowler, Fri 11/20); Chargers had not granted it. Availability unclear.",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "LAC",
+          "player": "Bud Dupree",
+          "pos": "OLB",
+          "source": "ProFootballRumors citing ESPN Jeremy Fowler (Fri 11/20)"
         }
       ]
     },
@@ -3482,8 +3530,8 @@
       "home": "NYG",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~7:00 PM PT",
-      "pulled_iso": "2026-11-21T03:00:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM, Wed-Fri + game status)",
         "nfl.com/injuries (Week 11 - Fri statuses posted)",
@@ -3491,7 +3539,8 @@
         "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
         "Dimers JAX-NYG odds (upd. Fri 11/20 1:39 AM ET)",
         "SI betting preview (FanDuel, 11/17)",
-        "VegasInsider Week 11 odds (upd. 11/20)"
+        "VegasInsider Week 11 odds (upd. 11/20)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
       ],
       "sources_unreachable": [
         "jaguars.com Friday report not separately confirmed (giants.com + nfl.com used)",
@@ -3555,6 +3604,10 @@
         {
           "what": "ESPN event ID for JAX@NYG",
           "known_by": "Not found this run"
+        },
+        {
+          "what": "Done Sat: JAX elevated C Eli Cox; NYG elevated RB Phil Mafah + DE Dawuane Smoot",
+          "known_by": "done"
         }
       ],
       "players": [
@@ -3865,8 +3918,8 @@
       "home": "DEN",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~6:50 PM PT",
-      "pulled_iso": "2026-11-21T02:50:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries Week 11 2026 (Fri eve; game statuses posted)",
         "raiders.com 'Raiders-Broncos Week 11 Injury Report' (Fri 11/20 1:45 PM; includes DEN)",
@@ -3874,7 +3927,8 @@
         "PrizePicks Bowers update citing Rapoport/Florio (11/16)",
         "Fox Sports game page odds (modified Fri 11/20 ~3:36 AM PT)",
         "VegasInsider Week 11 odds consensus (updated Thu 11/19 late)",
-        "SportsbookReview Week 11 odds via bet365 (Fri 11/20 8:14 AM ET)"
+        "SportsbookReview Week 11 odds via bet365 (Fri 11/20 8:14 AM ET)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
       ],
       "sources_unreachable": [
         "denverbroncos.com Friday injury-report article not found -- DEN Fri statuses from raiders.com + nfl.com",
@@ -3933,6 +3987,10 @@
         {
           "what": "Pregame reports on Bowers game-time decision (Schefter/Rapoport/Pelissero)",
           "known_by": "Sun 11/22 ~10:00-11:30 AM PT"
+        },
+        {
+          "what": "LV Sat elevations were TE Carter Runyon + DT Chris Williams - no kicker added (hint Gay expected to kick, unconfirmed). DEN elevated G Gavin Ortega + RB Cody Schrader, signed S Taylor Rapp",
+          "known_by": "Sun 11/22 11:55 AM PT inactives"
         }
       ],
       "players": [
@@ -4152,8 +4210,8 @@
       "home": "SF",
       "kickoff": "2026-11-23T01:20:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~6:50 PM PT",
-      "pulled_iso": "2026-11-21T02:50:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
         "nfl.com/injuries Week 11 2026 (Fri eve; game statuses posted)",
         "vikings.com 'Vikings at 49ers Injury Report Week 11 2026' (Fri 11/20 1:15 PM)",
@@ -4162,7 +4220,8 @@
         "NBC Sports Bay Area Evans article (11/18)",
         "Fox Sports odds page (modified Fri 11/20 3:43 PM PT)",
         "ESPN game page 401873077 (DraftKings odds)",
-        "VegasInsider Week 11 consensus; SportsbookReview/bet365 (Fri 8 AM ET)"
+        "VegasInsider Week 11 consensus; SportsbookReview/bet365 (Fri 8 AM ET)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
       ],
       "sources_unreachable": [
         "49ers.com/team/injury-report/week/REG-11 (permission timed out) -- SF Friday participation taken from nfl.com latest-day column; vikings.com SF Friday column blank",
@@ -4221,12 +4280,12 @@
           "known_by": "Sat 11/21 (49ers presser/practice ~midday PT)"
         },
         {
-          "what": "Hobbs / C.J. West activation from IR (required to play)",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
-        },
-        {
           "what": "Inactives: Evans, Greenlaw, Stout, Gifford, Kareem, James (SF); Rodgers, Ward (MIN)",
           "known_by": "Sun 11/22 3:50 PM PT"
+        },
+        {
+          "what": "Nate Hobbs activation (not seen Sat)",
+          "known_by": "Sun 11/22 3:50 PM PT inactives"
         }
       ],
       "players": [
@@ -4536,11 +4595,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 15,
           "type": "injury",
-          "note": "Groin/adductor; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "NOT on Saturday transaction list - must be activated to play; confirm (SNF roster deadline Sat 4 PM ET). | Groin/adductor; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "SF",
@@ -4562,11 +4621,11 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Knee; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Activated from IR Sat 11/21 - eligible. | Knee; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
+          "source": "NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "SF",
@@ -4658,6 +4717,19 @@
           "source": "ESPN 49ers injuries / RotoWire (11/19)",
           "estimated": false,
           "pulled_at": "Fri 11/20 ~6:50 PM PT"
+        },
+        {
+          "practice": "",
+          "estimated": false,
+          "status": "Waived",
+          "play_pct": 0,
+          "type": "personal",
+          "note": "Waived Sat 11/21.",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "SF",
+          "player": "Brandin Cooks",
+          "pos": "WR",
+          "source": "NFLTR Sat 11/21"
         }
       ]
     },
@@ -4667,79 +4739,82 @@
       "home": "WSH",
       "kickoff": "2026-11-24T01:15:00Z",
       "week": 11,
-      "pulled_at": "Fri 11/20 ~6:50 PM PT",
-      "pulled_iso": "2026-11-21T02:50:00Z",
+      "pulled_at": "Sat 11/21 ~6:55 PM PT",
+      "pulled_iso": "2026-11-22T02:55:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 2026 (Fri eve; Friday practice, no game statuses yet for MNF)",
-        "RotoWire game page CIN@WSH (notes 11/19-11/20)",
-        "bengals.com / commanders.com Week 11 injury reports (Thu 11/19)",
-        "Fox Sports game page odds (modified Fri 11/20 8:06 AM PT)",
-        "SportsbookReview/bet365 Week 11 odds (Fri 8:14 AM ET); VegasInsider consensus (Thu late)"
+        "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+        "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+        "Yahoo/SI Bengals On SI - Burks to IR (Sat 11/21 10:15 AM PT)",
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
+        "Fox Sports odds tab (Sat 11/21)",
+        "SI betting (Thu 11/19)"
       ],
       "sources_unreachable": [
-        "bengals.com and commanders.com Friday injury-report articles not found in search -- Friday participation from nfl.com + RotoWire",
-        "Reason for Friday DNPs of B.J. Hill, Jonathan Allen, Stefon Diggs not listed anywhere found"
+        "cincyjungle.com and hogshaven.com injury reports (robots-blocked)",
+        "nfl.com/injuries Saturday page not fetched directly - team site + atozsports used"
       ],
-      "line_before": "CIN -6.5 / O/U 54.5 (Fox Sports, Thu 11/19; VegasInsider shows CIN -6 / 53.5)",
-      "line_now": "CIN -6.5 / O/U 54.5 (Fox Sports + bet365 via SBR, Fri 11/20; VegasInsider consensus CIN -6 / 53.5)",
-      "line_moved_on_news": "No move (CIN -6.5 / 54.5 unchanged since Thursday).",
+      "line_before": "CIN -3.5 / O/U 51.5 (opener per SI); CIN -6.5 / 54.5 Fri 11/20 (Fox)",
+      "line_now": "CIN -6.5 / O/U 54.5, ML CIN -294 / WSH +238 (Fox Sports, Sat 11/21 8:07 AM PT)",
+      "line_moved_on_news": "No move on Saturday injury news (Risner Out was expected); spread/total unchanged from Friday.",
       "top3": [
         {
           "player": "Dalton Risner",
           "team": "CIN",
-          "why": "Starting G DNP Thu-Fri (knees); trending toward missing -- Jalen Rivers next up, Fairchild (oblique) still LP."
+          "why": "Starting G ruled OUT; Jalen Rivers starts, Fairchild (Q) upgraded to FP Sat - CIN interior OL weakened vs WSH front missing Payne/Kinlaw."
         },
         {
           "player": "Dax Hill",
           "team": "CIN",
-          "why": "Starting CB DNP Thu-Fri (illness) vs full-go Daniels; Jalen Davis (designated to return) possible fill."
+          "why": "Starting CB DNP all week (illness), Questionable - leans out; DJ Ivey would start vs Daniels/Diggs."
         },
         {
-          "player": "Treylon Burks / Rachaad White",
+          "player": "Amik Robertson / Rachaad White / Croskey-Merritt",
           "team": "WSH",
-          "why": "Burks downgraded to DNP (foot) Friday; RB White added LP (heel) while Croskey-Merritt (FP) awaits IR activation."
+          "why": "Slot CB Robertson new ankle injury (Q); RB White DNP Sat (Q); Croskey-Merritt Q pending IR activation - WSH backfield and nickel uncertain."
         }
       ],
       "clusters": [
-        "WSH DL: Daron Payne and Javon Kinlaw both on IR",
-        "CIN guards: Risner DNP-DNP, Fairchild LP-LP",
-        "CIN defense: Dax Hill, Oren Burks, B.J. Hill all DNP Friday (Jonathan Allen too, reason unlisted)",
-        "WSH RB: Rachaad White LP (heel), Croskey-Merritt on IR (FP) needs activation"
+        "WSH DL: Daron Payne and Javon Kinlaw on IR",
+        "CIN OL: Risner OUT, Fairchild Q (FP Sat)",
+        "CIN defense: Oren Burks IR, Dax Hill Q (DNP all week); Allen/B.J. Hill/Lawrence rest days only",
+        "WSH RB: White Q (DNP Sat), Croskey-Merritt Q (IR, needs activation)",
+        "WSH secondary: Robertson Q (ankle)"
       ],
       "replacements": [
         {
-          "out": "Dalton Risner (CIN G, knees) -- if out",
+          "out": "Dalton Risner (CIN G)",
           "replacement": "Jalen Rivers",
           "dropoff": "Small-moderate."
         },
         {
-          "out": "Dax Hill (CIN CB, illness) -- if out",
-          "replacement": "Jalen Davis (designated to return, FP) / depth CB",
+          "out": "Dax Hill (CIN CB) - if out",
+          "replacement": "DJ Ivey",
           "dropoff": "Moderate in coverage."
         },
         {
-          "out": "Oren Burks (CIN LB, groin) -- if out",
+          "out": "Oren Burks (CIN LB, IR)",
           "replacement": "Swayze Bozeman (if activated) / depth LB",
           "dropoff": "Small."
+        },
+        {
+          "out": "Amik Robertson (WSH CB) - if out",
+          "replacement": "Rasul Douglas / Mike Sainristil / Fabian Moreau",
+          "dropoff": "Small-moderate."
         }
       ],
       "conflicts": [
-        "Treylon Burks: stale nfl.com /injuries/league/2026/reg11 cache shows FP (Thursday); fresh nfl.com/injuries + RotoWire (11/20) show Friday DNP (foot) -- newer used.",
-        "Line: Fox/bet365 CIN -6.5 / 54.5 vs VegasInsider consensus CIN -6 / 53.5 (Thu).",
-        "commanders.com labeled its first column 'Wednesday'; MNF teams' first practice was Thursday."
+        "Amik Robertson Sat practice: commanders.com LP vs atozsports DNP - team site (more authoritative) used.",
+        "Deatrich Wise Jr. Sat: commanders.com DNP (rest) vs atozsports LP - team site used.",
+        "Total: Fox Sports 54.5 (Sat 11/21) vs SI/DraftKings 53.5 (Thu 11/19) - newer used."
       ],
       "unknowns": [
         {
-          "what": "Official game statuses (Out/Doubtful/Questionable) for MNF -- none issued yet; all statuses here are projections",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
+          "what": "IR activations: Croskey-Merritt (WSH); Bozeman, Parker, Davis, Iosivas (CIN)",
+          "known_by": "Mon 11/23 ~1:00 PM PT (4 PM ET deadline)"
         },
         {
-          "what": "Reasons for Friday DNPs: B.J. Hill, Jonathan Allen, Stefon Diggs",
-          "known_by": "Sat 11/21 ~1:00 PM PT"
-        },
-        {
-          "what": "Croskey-Merritt and CIN designated-to-return players (Bozeman, Davis, Iosivas, Parker) activation",
-          "known_by": "Mon 11/23 ~1:00 PM PT"
+          "what": "Dax Hill (illness), Robertson (ankle), White (heel) - play or sit",
+          "known_by": "Mon 11/23 3:45 PM PT inactives"
         },
         {
           "what": "Inactives",
@@ -4751,209 +4826,209 @@
           "team": "CIN",
           "player": "Dalton Risner",
           "pos": "G",
-          "practice": "Thu DNP · Fri DNP",
+          "practice": "Thu DNP · Fri DNP · Sat DNP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 20,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knees; DNP Thu-Fri. Day-to-day (Taylor); Jalen Rivers next up. Projection -- no official status until Sat.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Knee; ruled OUT. Jalen Rivers starts at G.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Dax Hill",
           "pos": "CB",
-          "practice": "Thu DNP · Fri DNP",
+          "practice": "Thu DNP · Fri DNP · Sat DNP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 35,
+          "status": "Questionable",
+          "play_pct": 25,
           "type": "illness",
-          "note": "Illness; DNP Thu-Fri. Projection -- no official status until Sat.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Illness; DNP all week, Questionable. DJ Ivey likely starts if out.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Oren Burks",
           "pos": "LB",
-          "practice": "Thu DNP · Fri DNP",
+          "practice": "Thu DNP · Fri DNP · Sat DNP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 25,
+          "status": "IR",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Groin; DNP Thu-Fri.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Groin; ruled Out and placed on IR Sat.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT) + NFLTR Sat 11/21",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Jonathan Allen",
           "pos": "DT",
-          "practice": "Thu DNP · Fri DNP",
+          "practice": "Thu DNP · Fri DNP · Sat LP",
           "estimated": false,
           "status": "none",
-          "play_pct": 85,
+          "play_pct": 92,
           "type": "rest",
-          "note": "DNP Thu (rest) and Fri; Friday reason not listed on nfl.com -- confirm Sat.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Rest; no designation - expected to play.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Dylan Fairchild",
           "pos": "G",
-          "practice": "Thu LP · Fri LP",
+          "practice": "Thu LP · Fri LP · Sat FP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 70,
+          "status": "Questionable",
+          "play_pct": 80,
           "type": "injury",
-          "note": "Oblique; LP Thu-Fri.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Oblique; upgraded to FP Sat - trending to play.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Kyle Dugger",
           "pos": "S",
-          "practice": "Thu LP · Fri FP",
+          "practice": "Thu LP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 90,
+          "status": "Questionable",
+          "play_pct": 85,
           "type": "injury",
-          "note": "Quad; upgraded to full Friday (RotoWire 11/20).",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Quad; FP Fri-Sat but Questionable.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Joe Burrow",
           "pos": "QB",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 98,
+          "play_pct": 99,
           "type": "illness",
-          "note": "Illness; full both days, 'improving', optimistic for full strength Monday (RotoWire 11/20).",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Illness; full all week, no designation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Tee Higgins",
           "pos": "WR",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
           "play_pct": 97,
           "type": "injury",
-          "note": "Knee.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Myles Hinton",
           "pos": "T",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
           "play_pct": 97,
           "type": "illness",
-          "note": "Illness.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "PJ Jules",
           "pos": "S",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
           "play_pct": 97,
           "type": "injury",
-          "note": "Ankle.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Swayze Bozeman",
           "pos": "LB",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "IR",
-          "play_pct": null,
+          "status": "Questionable",
+          "play_pct": 60,
           "type": "injury",
-          "note": "Forearm; designated to return from IR, needs activation.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Forearm; on IR, Questionable - needs activation by Mon 1 PM PT.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Jalen Davis",
           "pos": "CB",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "IR",
-          "play_pct": null,
+          "status": "Doubtful",
+          "play_pct": 20,
           "type": "injury",
-          "note": "Hamstring; designated to return, needs activation.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Hamstring; on IR, Doubtful - awaiting activation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Andrei Iosivas",
           "pos": "WR",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "IR",
-          "play_pct": null,
+          "status": "Doubtful",
+          "play_pct": 20,
           "type": "injury",
-          "note": "Thumb; designated to return, needs activation.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Thumb; on IR, Doubtful - awaiting activation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "CIN",
           "player": "Brian Parker II",
           "pos": "G",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "IR",
-          "play_pct": null,
+          "status": "Questionable",
+          "play_pct": 60,
           "type": "injury",
-          "note": "Knee; designated to return, needs activation.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + bengals.com Week 11 Injury Report (Thu 11/19 4:15 PM) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Knee; on IR, Questionable - needs activation.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Lucas Patrick",
           "pos": "C",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "none",
-          "play_pct": 97,
+          "status": "Questionable",
+          "play_pct": 90,
           "type": "injury",
-          "note": "Concussion; cleared protocol, 'good to go' (Quinn).",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Concussion; cleared protocol, Quinn says he will start.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Jacory Croskey-Merritt",
           "pos": "RB",
-          "practice": "IR - window open · Thu FP · Fri FP",
+          "practice": "IR window · Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "IR",
-          "play_pct": 80,
+          "status": "Questionable",
+          "play_pct": 75,
           "type": "injury",
-          "note": "Groin; IR since 10/19, FP Thu-Fri; says goal is to play Monday, 'day by day' (RotoWire 11/20). Must be activated.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Groin; Questionable, still needs IR activation. Quinn: \"finish up the last part of the process tonight and tomorrow.\"",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
@@ -4962,128 +5037,128 @@
           "practice": "Thu DNP · Fri DNP",
           "estimated": false,
           "status": "none",
-          "play_pct": 85,
+          "play_pct": 92,
           "type": "rest",
-          "note": "DNP Thu (rest) and Fri; Friday reason not listed on nfl.com -- confirm Sat.",
+          "note": "Not on Saturday final report (commanders.com) - no designation, expected to play. DNP Thu (rest) and Fri; Friday reason not listed on nfl.com -- confirm Sat.",
           "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Quan Martin",
           "pos": "S",
-          "practice": "Thu LP · Fri LP",
+          "practice": "Thu LP · Fri LP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 65,
+          "play_pct": 92,
           "type": "injury",
-          "note": "Shoulder; LP Thu-Fri.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Shoulder; FP Sat, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Jayden Daniels",
           "pos": "QB",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Left elbow.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Nick Allegretti",
           "pos": "C/G",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Chest.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "John Bates",
           "pos": "TE",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Shoulder.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Treylon Burks",
           "pos": "WR",
-          "practice": "Thu FP · Fri DNP",
+          "practice": "Thu FP · Fri DNP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 45,
+          "play_pct": 90,
           "type": "injury",
-          "note": "Foot; DOWNGRADED FP -> DNP Friday (nfl.com + RotoWire 11/20).",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Foot; back to FP Sat, no designation - expected to play.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Chig Okonkwo",
           "pos": "TE",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Back.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Tyler Owens",
           "pos": "S",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Ankle.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Andrew Wylie",
           "pos": "T/G",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Hip.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Colson Yankoff",
           "pos": "TE",
-          "practice": "Thu FP · Fri FP",
+          "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 97,
+          "play_pct": 98,
           "type": "injury",
-          "note": "Knee.",
-          "source": "nfl.com/injuries Wk 11 (Fri practice) + commanders.com Week 11 report (Thu 11/19) + RotoWire (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Full all week, no designation.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
@@ -5141,27 +5216,66 @@
           "team": "CIN",
           "player": "B.J. Hill",
           "pos": "DT",
-          "practice": "Fri DNP",
+          "practice": "Fri DNP · Sat DNP",
           "status": "none",
-          "play_pct": null,
-          "type": "injury",
-          "note": "NEW to report Friday (DNP); injury/reason not listed on nfl.com -- confirm Sat.",
-          "source": "nfl.com/injuries Wk 11 (Fri)",
+          "play_pct": 90,
+          "type": "rest",
+          "note": "Rest (veteran); no designation - expected to play.",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
           "estimated": false,
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
         {
           "team": "WSH",
           "player": "Rachaad White",
           "pos": "RB",
-          "practice": "Fri LP",
-          "status": "none",
-          "play_pct": 70,
+          "practice": "Fri LP · Sat DNP",
+          "status": "Questionable",
+          "play_pct": 55,
           "type": "injury",
-          "note": "Heel; NEW to report Friday (LP).",
-          "source": "nfl.com/injuries Wk 11 (Fri) + RotoWire (11/20)",
+          "note": "Heel; held Sat to reduce soreness - Quinn says he has a shot to play.",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
           "estimated": false,
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+        },
+        {
+          "practice": "Sat DNP",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 92,
+          "type": "rest",
+          "note": "Rest; no designation.",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "CIN",
+          "player": "Dexter Lawrence II",
+          "pos": "DT",
+          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)"
+        },
+        {
+          "practice": "Sat LP (commanders.com) / DNP (atoz)",
+          "estimated": false,
+          "status": "Questionable",
+          "play_pct": 40,
+          "type": "injury",
+          "note": "Ankle; hurt on last play Fri practice. Monitored 48 hrs; if out, Rasul Douglas / Mike Sainristil / Fabian Moreau.",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "WSH",
+          "player": "Amik Robertson",
+          "pos": "CB",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)"
+        },
+        {
+          "practice": "Sat DNP (rest)",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 92,
+          "type": "rest",
+          "note": "Rest (NIR); no designation.",
+          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "team": "WSH",
+          "player": "Deatrich Wise Jr.",
+          "pos": "DE",
+          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)"
         }
       ]
     }
