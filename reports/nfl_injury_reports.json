@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T03:20:00Z",
+  "updated": "2026-11-22T16:36:27Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -7,31 +7,29 @@
       "home": "BUF",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status",
-        "miamidolphins.com 'Injury Report: Week 11 Dolphins at Bills' (Fri 11/20 3:24 PM)",
-        "buffalobills.com 'Buffalo Bills injury report vs. Dolphins' (Fri 11/20 1:36 PM)",
-        "ESPN 'TE Kincaid, Bills' leading receiver, doubtful to play vs. Dolphins' (Fri 11/20 3:51 PM ET)",
-        "Yahoo/Roundtable 'Dolphins Final Week 11 Injury Report: Aaron Brewer Questionable' (Fri 11/20 ~5:08 PM ET)",
-        "SI All Dolphins 'Dolphins Final Week 11 Injury Report: Brewer Trending Up, Trader Trending Down' (Fri 11/20 ~5:01 PM ET)",
-        "Yahoo 'Christian Benford and Dorian Williams ruled out, Dalton Kincaid doubtful' (Fri 11/20)",
-        "Banged Up Bills 'Bills vs Dolphins Week 11 Injury Preview' (Fri 11/20 ~6:03 PM ET; projections)",
-        "FOX Sports MIA-BUF game page odds (page created 11/20)",
-        "SI Betting Dolphins-Bills (DraftKings, 11/17) for reference",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); buffalobills.com Bills Roster Moves Nov. 21",
-        "nfl.com Saturday 11/21 news roundup"
+        "ESPN NFL odds page (DraftKings) - Sun 11/22 ~8:10 AM PT",
+        "Heavy.com 'Dolphins Get Major Ed Oliver Update Hours Before Bills Game' (updated Sun 11/22 7:18 AM PT; cites Schefter Sat + Matt Parrino/NYUp)",
+        "Yahoo/Democrat & Chronicle 'Is Dalton Kincaid playing today?' (Sun 11/22 4:47 AM PT)",
+        "Yahoo 'Bills news: What to know ahead of Week 11 vs. Dolphins' (Sun 11/22) - statuses + elevations",
+        "Yahoo 'Bills vs Dolphins updates, weather, how to watch' (Sun 11/22, updated 7:10 AM PT; last entry 8:05 AM PT)",
+        "Athlon Brewer update (Thu 11/19) - no newer Brewer news found",
+        "SI All Dolphins 'Breaking Down the Dolphins Saturday Updates' (Sat 11/21 10:57 AM PT)",
+        "Web searches for Sunday inactives / insider reports (Schefter, Rapoport, Pelissero) - Sun 11/22 8:10-8:35 AM PT",
+        "Inactives check Sun 11/22 8:30-8:32 AM PT: team sites, nfl.com game center, live blogs - official lists NOT yet posted/indexed (FantasyPros inactives page showed only players already ruled Out Fri - not treated as official)",
+        "Carried: nfl.com/injuries Week 11 (Fri 11/20 final) + team sites + Sat 11/21 transactions/roundup (see prior run)"
       ],
       "sources_unreachable": [
-        "buffalobills.com/team/injury-report/week/REG-11 (fetch permission not granted)",
-        "buffalorumblings.com (robots blocked)",
+        "site.api.espn.com scoreboard API (proxy 403) - ESPN event id still not found",
         "actionnetwork.com MIA-BUF odds page (fetch error)",
-        "ESPN game ID not found quickly"
+        "rotowire Week 11 line-moves article (server error)",
+        "Official inactives not available by 8:32 AM PT (due 8:30 AM PT) - re-check"
       ],
-      "line_before": "BUF -16.5 / O/U 44.5 (VegasInsider consensus, Thu 11/19 6:56 PM); bet365 via FOX BUF -16.5 / 45.5",
-      "line_now": "BUF -16.5 / O/U 44.5 (FOX Sports game page, Fri 11/20; ML BUF -1587 / MIA +900; book not named)",
-      "line_moved_on_news": "No - BUF -16.5 / 44.5 unchanged from Thu consensus despite Benford/Williams Out and Kincaid Doubtful (news largely expected after DNPs all week).",
+      "line_before": "BUF -16.5 / O/U 44.5 (FOX Sports game page, Fri 11/20; ML BUF -1587 / MIA +900; book not named) [earlier: Thu VegasInsider consensus BUF -16.5 / 44.5]",
+      "line_now": "BUF -16.5 (-111) / O/U 44.5 (o-114/u-105) (DraftKings via ESPN odds page, Sun 11/22 ~8:10 AM PT; ML BUF -1560 / MIA +890; DK open BUF -11.5 / 47.5)",
+      "line_moved_on_news": "No - spread/total unchanged since Thu (BUF -16.5 / 44.5); Sat Ed Oliver (Q) add and Hamlin/Kincaid uncertainty did not move it. Big move was earlier in the week (open -11.5 -> -16.5, total 47.5 -> 44.5).",
       "top3": [
         {
           "player": "Malik Willis (IR) -> Kyle McCord",
@@ -53,7 +51,7 @@
         "BUF secondary: Christian Benford (groin) OUT, Damar Hamlin (toe) Q (LP Fri), Dee Alford cleared (FP Fri), Amani Hooker FP Fri",
         "BUF TE: Dalton Kincaid (thumb/ankle) DOUBTFUL, Jackson Hawes (shoulder) Q (LP x3) - Dawson Knox/Keleki Latu remain",
         "MIA secondary: Dante Trader Jr. DOUBTFUL, Jaylin Simpson DOUBTFUL, Darrell Baker Jr. Q, Marcellas Dial Jr. Q",
-        "MIA DL: Zach Sieler, Zeek Biggers, Jordan Phillips all season-ending; Kenneth Grant and Keith Cooper Jr. expected to start"
+        "MIA DL: Zach Sieler, Zeek Biggers, Jordan Phillips all on IR; only 3 DTs (Kenneth Grant, Keith Cooper Jr., Jordan Jefferson - signed from PS); Malik Herring/Eric Watts may kick inside (SI All Dolphins Sat)"
       ],
       "replacements": [
         {
@@ -105,32 +103,26 @@
         "Chris Bell: official FP Fri, no designation; Banged Up Bills notes Hafley called him day-to-day after a practice knee knock - official used.",
         "Punter name spelled 'Jack Browning' (Yahoo/SI) vs 'Jake Browning' (Banged Up Bills).",
         "Jared Wayne spelled 'Warne' in miamidolphins.com injury list (text says Wayne).",
-        "Malik Willis return: prior note said possible Wk 13; Democrat & Chronicle says earliest Week 14."
+        "Malik Willis return: prior note said possible Wk 13; Democrat & Chronicle says earliest Week 14.",
+        "Darrell Baker Jr.: Fri report Questionable; SI All Dolphins Sat says activated off PUP and removed from injury report - newer used (no designation).",
+        "Ed Oliver: Sat 'Bad News' headlines (Yahoo/WGRZ) vs Parrino 'optimism he'll play' - Parrino (beat, newer) used, Q stands."
       ],
       "unknowns": [
         {
-          "what": "Final inactives - esp. Hamlin, Hawes, Sanders (BUF Q) and Brewer, Baker, Dial (MIA Q)",
+          "what": "Final inactives - Kincaid (D), Hamlin, Hawes, Sanders, Oliver (BUF Q); Brewer, Dial, Trader/Simpson (MIA); BUF may be cautious with KC on Thanksgiving (SI)",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Aaron Brewer must report no concussion symptoms Saturday; Hafley 'hopeful' - game-time decision",
-          "known_by": "Sat 11/21 / Sun 8:30 AM PT"
-        },
-        {
-          "what": "Terrel Bernard (BUF LB) newly listed DNP Fri with no injury/reason and no designation",
+          "what": "Aaron Brewer concussion clearance - no Sat/Sun confirmation found",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Whether Kincaid (Doubtful) is formally downgraded",
-          "known_by": "Sat 11/21 roster moves / Sun inactives"
-        },
-        {
-          "what": "Sat elevations done: MIA P Jack Browning + K Daniel Carlson; BUF LB Shaq Thompson + CB Tre'Davious White. Final actives",
+          "what": "Terrel Bernard (BUF LB) Fri DNP with no reason - nothing new found",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Ed Oliver (BUF DT, oblique) - added Sat as Questionable",
-          "known_by": "Sun 11/22 8:30 AM PT"
+          "what": "ESPN event id",
+          "known_by": "n/a (API blocked)"
         }
       ],
       "players": [
@@ -296,12 +288,12 @@
           "pos": "CB",
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 85,
+          "status": "none",
+          "play_pct": 95,
           "type": "injury",
-          "note": "Activated from PUP Sat 11/21 - eligible. | Knee; FP all week but listed Questionable - Banged Up Bills says he's on PUP and needs activation; SI says he may need a roster spot for special teams.",
-          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + miamidolphins.com Week 11 report (Fri 11/20 3:24 PM) + Yahoo/Roundtable Dolphins final report (Fri 11/20) + Banged Up Bills (Fri 11/20)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Activated from PUP Sat 11/21 and removed from injury report (SI All Dolphins) - in line for Dolphins debut. Knee; FP all week.",
+          "source": "SI All Dolphins 'Saturday updates' (Sat 11/21 10:57 AM PT) + NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + miamidolphins.com Week 11 report (Fri 11/20 3:24 PM) + Yahoo/Roundtable Dolphins final report (Fri 11/20) + Banged Up Bills (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "BUF",
@@ -312,9 +304,9 @@
           "status": "Doubtful",
           "play_pct": 10,
           "type": "injury",
-          "note": "Thumb + ankle; DNP all week. Leads BUF in receiving yards (487). Dawson Knox top TE option.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + buffalobills.com injury report vs Dolphins (Fri 11/20 1:36 PM) + ESPN (Fri 11/20 3:51 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Sun AM: still Doubtful, not ruled out; Joe Brady said Fri he 'still has a chance' (D&C, Sun 4:47 AM PT). No game-day report found. | Thumb + ankle; DNP all week. Leads BUF in receiving yards (487). Dawson Knox top TE option.",
+          "source": "Yahoo/Democrat & Chronicle (Sun 11/22 4:47 AM PT) + nfl.com/injuries Week 11 (Fri 11/20 final report) + buffalobills.com injury report vs Dolphins (Fri 11/20 1:36 PM) + ESPN (Fri 11/20 3:51 PM ET)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "BUF",
@@ -543,12 +535,12 @@
           "pos": "DT",
           "practice": "n/a",
           "estimated": false,
-          "status": "Out",
-          "play_pct": 0,
+          "status": "IR",
+          "play_pct": null,
           "type": "injury",
-          "note": "Season-ending injury in last two weeks per Yahoo/Roundtable (resolves Thu unknown). Kenneth Grant / Keith Cooper Jr. expected to start.",
-          "source": "Yahoo/Roundtable Dolphins final Week 11 report (Fri 11/20)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR (SI All Dolphins Sat) - Miami down to 3 true DTs: Kenneth Grant, Keith Cooper Jr., Jordan Jefferson (signed from PS) | Season-ending injury in last two weeks per Yahoo/Roundtable (resolves Thu unknown). Kenneth Grant / Keith Cooper Jr. expected to start.",
+          "source": "SI All Dolphins (Sat 11/21 10:57 AM PT) + Yahoo/Roundtable Dolphins final Week 11 report (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "MIA",
@@ -556,12 +548,12 @@
           "pos": "DT",
           "practice": "n/a",
           "estimated": false,
-          "status": "Out",
-          "play_pct": 0,
+          "status": "IR",
+          "play_pct": null,
           "type": "injury",
-          "note": "Season-ending injury in last two weeks per Yahoo/Roundtable.",
-          "source": "Yahoo/Roundtable Dolphins final Week 11 report (Fri 11/20)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Placed on IR (SI All Dolphins Sat) - Miami down to 3 true DTs: Kenneth Grant, Keith Cooper Jr., Jordan Jefferson (signed from PS) | Season-ending injury in last two weeks per Yahoo/Roundtable.",
+          "source": "SI All Dolphins (Sat 11/21 10:57 AM PT) + Yahoo/Roundtable Dolphins final Week 11 report (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "BUF",
@@ -570,11 +562,11 @@
           "practice": "Added to report Sat",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 50,
+          "play_pct": 70,
           "type": "injury",
-          "note": "Oblique; ADDED Saturday as Questionable. Practice detail not found.",
-          "source": "nfl.com Saturday 11/21 news roundup",
-          "pulled_at": "Sat 11/21 ~7:20 PM PT"
+          "note": "Oblique; told trainers of pain Sat morning, added Sat as Questionable (Schefter). Matt Parrino (NYUp): 'optimism that he'll play.' Has missed 3 games this season.",
+          "source": "Heavy.com (Sun 11/22 7:18 AM PT) citing Schefter (X, Sat 11/21) + Matt Parrino/NYUp (Sat) + nfl.com Sat 11/21 roundup",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         }
       ]
     },
@@ -584,24 +576,27 @@
       "home": "CAR",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status",
-        "panthers.com/team/injury-report/week/REG-11 (Wed/Thu/Fri + game status, both teams)",
-        "panthers.com 'Week 11 Friday Injury Report: Two ruled out for Ravens game' (Fri 11/20 12:24 PM)",
-        "baltimoreravens.com 'Three Ravens Defensive Starters Ruled Out vs. Panthers' (Fri 11/20 1:01 PM)",
-        "ESPN game page gameId 401873068 (DraftKings line)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
+        "ESPN NFL odds page (DraftKings) - Sun 11/22 ~8:10 AM PT",
+        "SI Betting 'Is Darren Waller Playing Today?' (Sun 11/22 3:33 AM PT; cites Joe Person)",
+        "FantasyGuru 'Canales very hopeful Waller, Tremble will play' (Fri 11/20)",
+        "SI Betting 'Is Jonathon Brooks Playing Today?' (Sun 11/22 3:43 AM PT)",
+        "Sporting News/Yahoo 'Panthers don't make roster move with RB Jonathon Brooks' (Sat 11/21 1:28 PM PT; cites Schefter)",
+        "CBS/RotoWire 'Panthers' Brady Christensen: Out for Week 11' (Sat 11/21 4:59 PM PT)",
+        "Web searches for Sunday inactives / insider reports - Sun 11/22 8:10-8:35 AM PT",
+        "Inactives check Sun 11/22 8:30-8:32 AM PT: team sites, nfl.com game center, live blogs - official lists NOT yet posted/indexed (FantasyPros inactives page showed only players already ruled Out Fri - not treated as official)",
+        "Carried: nfl.com/injuries + panthers.com + baltimoreravens.com Fri 11/20 reports, NFLTR Sat 11/21 (see prior run)"
       ],
       "sources_unreachable": [
-        "russellstreetreport.com Friday game-status report (fetch error)",
-        "baltimorepositive.com 'Ravens rule out Madubuike, Hawkins' (robots blocked)",
-        "baltimoresun.com Friday report (robots blocked previously; not retried)"
+        "site.api.espn.com scoreboard API (proxy 403)",
+        "russellstreetreport.com / baltimorepositive.com / baltimoresun.com (not retried)",
+        "Official inactives not available by 8:32 AM PT (due 8:30 AM PT) - re-check"
       ],
-      "line_before": "CAR -3 / O/U 43.5 (VegasInsider consensus, Thu 11/19 6:56 PM; CAR ML -146); bet365 via FOX still CAR -2.5",
-      "line_now": "CAR -3 (-105) / O/U 43.5 (DraftKings via ESPN, Fri 11/20 evening; ML CAR -150 / BAL +127). ESPN shows open BAL -4.5 / 46.5 (lookahead).",
-      "line_moved_on_news": "No - CAR -3 / 43.5 unchanged from Thu consensus after Madubuike/Hawkins ruled out (Thursday's -2.5 to -3 tick came with the Humphrey news).",
+      "line_before": "CAR -3 (-105) / O/U 43.5 (DraftKings via ESPN, Fri 11/20 evening; ML CAR -150 / BAL +127). ESPN shows open BAL -4.5 / 46.5 (lookahead). [earlier: Thu consensus CAR -3 / 43.5]",
+      "line_now": "CAR -2.5 (-114) / O/U 44.5 (o-104/u-115) (DraftKings via ESPN odds page, Sun 11/22 ~8:10 AM PT; ML CAR -140 / BAL +119; DK open BAL -4.5 / 46.5)",
+      "line_moved_on_news": "Small - CAR -3 -> -2.5 (juice -114 on CAR, so near 3) and total 43.5 -> 44.5 since Fri night; ML CAR -150 -> -140. No single injury news tied to it (Brooks/Christensen Out moves were expected - neither had been activated).",
       "top3": [
         {
           "player": "Lamar Jackson (IR) -> Jacoby Brissett",
@@ -621,9 +616,9 @@
       ],
       "clusters": [
         "BAL defense: Humphrey (CB) OUT, Hawkins (S) OUT, Madubuike (DT) OUT - three defensive starters",
-        "CAR TE: Darren Waller and Tommy Tremble both Q (knee, DNP-LP-LP)",
+        "CAR TE: Darren Waller and Tommy Tremble both Q (knee, DNP-LP-LP) - both trending to play (Waller told Joe Person he'll play; Canales 'very hopeful')",
         "CAR LB/ST: Bobby Okereke (foot) OUT, Isaiah Simmons (knee) OUT",
-        "CAR IR returns: Mike Jackson (CB), Jonathon Brooks (RB), Brady Christensen (OL) all Q, FP all week, need activation"
+        "CAR IR returns: Mike Jackson (CB) activated Sat - eligible; Jonathon Brooks (RB) and Brady Christensen (OL) downgraded to OUT Sat (not activated)"
       ],
       "replacements": [
         {
@@ -650,34 +645,28 @@
           "out": "LB Bobby Okereke (CAR, Out)",
           "replacement": "Depth LBs (Jackson Kuwatch et al.) - 3rd straight missed game",
           "dropoff": "Small - already missed two games."
+        },
+        {
+          "out": "RB Jonathon Brooks (CAR, Out/IR)",
+          "replacement": "Chuba Hubbard lead (81% snaps), Trevor Etienne backup",
+          "dropoff": "None vs. current usage - Brooks had played 2 games."
         }
       ],
       "conflicts": [
         "Isaiah Simmons position: nfl.com/panthers.com table list S, panthers.com article calls him special teamer; prior run had LB - official S used.",
         "baltimoreravens.com headline says 'Three Defensive Starters Ruled Out' but body lists Madubuike + Hawkins out and Humphrey deactivated (counts as the third).",
         "ESPN game page shows kickoff '6:00 PM' (UTC) vs ticket section 1:00 PM ET - same time, 1 PM ET / 10 AM PT.",
-        "ESPN opening line BAL -4.5 / 46.5 (lookahead) vs BetMGM open CAR -2 / 44.5 used previously."
+        "ESPN opening line BAL -4.5 / 46.5 (lookahead) vs BetMGM open CAR -2 / 44.5 used previously.",
+        "Brooks/Christensen: prior run listed Q (Fri report); Sat downgrades to Out (Schefter / RotoWire) used."
       ],
       "unknowns": [
         {
-          "what": "Final inactives - esp. Waller and Tremble (both Q, LP Thu/Fri)",
+          "what": "Final inactives - Waller and Tremble (Q, trending to play), Adam Randall (BAL RB) active?",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
           "what": "Who replaces S Jaylinn Hawkins",
           "known_by": "Sun 11/22 (first snaps)"
-        },
-        {
-          "what": "Whether rookie RB Adam Randall (now on 53) is active",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Brooks/Christensen not seen activated - confirm they are not on active roster",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Sat elevations done: BAL DT David Olajiga + TE Nick Vannett; CAR LB Nick Hampton + LB Ja'Markis Weston",
-          "known_by": "done"
         }
       ],
       "players": [
@@ -805,11 +794,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 60,
+          "play_pct": 75,
           "type": "injury",
-          "note": "Knee; DNP Wed, LP Thu/Fri.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Knee; DNP Wed, LP Thu/Fri. Canales 'very hopeful' he plays (Fri).",
+          "source": "FantasyGuru (Fri 11/20, Canales) + SI Betting (Sun 11/22 3:33 AM PT) + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "CAR",
@@ -818,11 +807,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 60,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Knee; DNP Wed, LP Thu/Fri.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Knee; DNP Wed, LP Thu/Fri. Told Joe Person (The Athletic) he plans to play; Canales 'very hopeful' Fri.",
+          "source": "SI Betting (Sun 11/22 3:33 AM PT, citing Joe Person) + FantasyGuru (Fri 11/20, Canales) + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "CAR",
@@ -906,27 +895,27 @@
           "team": "CAR",
           "player": "Brady Christensen",
           "pos": "OL",
-          "practice": "Wed FP · Thu FP · Fri FP",
+          "practice": "Wed FP · Thu FP · Fri FP (IR - not activated)",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 10,
+          "status": "Out",
+          "play_pct": null,
           "type": "injury",
-          "note": "NOT on Saturday transaction list - if not activated by Sat 4 PM ET deadline he cannot play; confirm at inactives. | Hamstring; on IR in practice window, FP all week - needs activation.",
-          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Downgraded to OUT Sat 11/21; not activated from IR (window opened 18 days ago - must decide next week).",
+          "source": "CBS Sports/RotoWire (Sat 11/21 4:59 PM PT)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "CAR",
           "player": "Jonathon Brooks",
           "pos": "RB",
-          "practice": "Wed FP · Thu FP · Fri FP",
+          "practice": "Wed FP · Thu FP · Fri FP (IR - not activated)",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 10,
+          "status": "Out",
+          "play_pct": null,
           "type": "injury",
-          "note": "NOT on Saturday transaction list - if not activated by Sat 4 PM ET deadline he cannot play; confirm at inactives. | Groin; on IR in practice window, FP all week - needs activation.",
-          "source": "NFLTR Sat 11/21 + nfl.com/injuries Week 11 (Fri 11/20 final report) + panthers.com injury report REG-11 + panthers.com Week 11 Friday Injury Report (Fri 11/20 12:24 PM)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Downgraded to OUT Sat 11/21 (Schefter); not activated from IR - remains on IR. Hubbard leads; Trevor Etienne backup, Tyus/AJ Dillon depth. Week 12 (MNF vs TB) return speculated.",
+          "source": "Sporting News/Yahoo (Sat 11/21 1:28 PM PT, citing Schefter) + SI Betting (Sun 11/22 3:43 AM PT)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "CAR",
@@ -1014,23 +1003,27 @@
       "home": "CHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 (Fri 11/20 final report) - both teams, practice + game status (Bears Fri report included)",
-        "neworleanssaints.com 'Saints Friday Injury Report: 2026 Week 11 vs. Chicago Bears' (Fri 11/20 1:21 PM, both teams)",
-        "WWL/Audacy 'Saints rule out 4 players for Week 11 vs Bears; Justin Reid waived' (Fri 11/20 4:34 PM CT)",
-        "ESPN odds page gameId 401873071 (DraftKings)",
-        "SI Betting Saints-Bears (DraftKings, 11/17) for reference",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Saints Wire (Yahoo) Sat roster moves"
+        "ESPN NFL odds page (DraftKings) - Sun 11/22 ~8:10 AM PT",
+        "WWL/Audacy '3 things to watch in Saints-Bears' (Sat 11/21 1:46 PM PT)",
+        "Yahoo 'Saints Burning Questions Answered in Pregame Update' (Sat 11/21 11:56 AM PT) - no injury news",
+        "Athlon 'Bears Week 11 Final Injury Report' (Fri 11/20 12:00 PM PT)",
+        "Chicago Sun-Times 'Bears report: CB Kyler Gordon out Sunday vs. Saints' (Fri 11/20, updated 12:17 PM PT)",
+        "RotoWire Bears-Saints odds page (odds not loaded; news through 11/21)",
+        "Web searches for Sunday inactives / insider reports - Sun 11/22 8:10-8:35 AM PT",
+        "Inactives check Sun 11/22 8:30-8:32 AM PT: team sites, nfl.com game center, live blogs - official lists NOT yet posted/indexed (FantasyPros inactives page showed only players already ruled Out Fri - not treated as official)",
+        "Carried: nfl.com/injuries + neworleanssaints.com + WWL Fri 11/20, NFLTR/Saints Wire Sat 11/21 (see prior run)"
       ],
       "sources_unreachable": [
-        "windycitygridiron.com (robots blocked; not retried)",
-        "chicagobears.com injury report page (not reached)"
+        "site.api.espn.com scoreboard API (proxy 403)",
+        "windycitygridiron.com / chicagobears.com injury page (not retried)",
+        "Official inactives not available by 8:32 AM PT (due 8:30 AM PT) - re-check"
       ],
-      "line_before": "CHI -11.5 / O/U 48.5 (VegasInsider consensus Thu 11/19 6:56 PM; DraftKings via ESPN same)",
-      "line_now": "CHI -11.5 (-107) / O/U 48.5 (DraftKings via ESPN, Fri 11/20 evening; ML CHI -600 / NO +447)",
-      "line_moved_on_news": "No - CHI -11.5 / 48.5 unchanged from Thu; Saints OL outs and Reid waiver were already expected/priced.",
+      "line_before": "CHI -11.5 (-107) / O/U 48.5 (DraftKings via ESPN, Fri 11/20 evening; ML CHI -600 / NO +447) [earlier: Thu VegasInsider consensus CHI -11.5 / 48.5]",
+      "line_now": "CHI -11.5 (-112) / O/U 47.5 (o-113/u-106) (DraftKings via ESPN odds page, Sun 11/22 ~8:10 AM PT; ML CHI -650 / NO +476; DK open CHI -6.5 / 46.5)",
+      "line_moved_on_news": "Total only - O/U 48.5 -> 47.5 since Fri night; spread steady CHI -11.5, ML CHI -600 -> -650. No new injury news found to explain it (likely Saints OL outs / market).",
       "top3": [
         {
           "player": "Erik McCoy + Taliese Fuaga + Asim Richards (all Out)",
@@ -1075,12 +1068,12 @@
         },
         {
           "out": "LB Pete Werner (NO, if out)",
-          "replacement": "Danny Stutsman (per Crescent City Sports, Thu)",
+          "replacement": "Danny Stutsman starts; Jaylan Ford bigger role (WWL Sat)",
           "dropoff": "Small-moderate."
         },
         {
           "out": "CB Kyler Gordon (CHI, Out)",
-          "replacement": "Not named by any source checked",
+          "replacement": "Rookie Malik Muhammad (no designation, back from toe) likely in slot; alt: S Cam Lewis in slot with Elijah Hicks at S (Chicago Sun-Times, Fri 11/20 12:17 PM PT)",
           "dropoff": "Small-moderate - nickel CB."
         }
       ],
@@ -1092,24 +1085,20 @@
       ],
       "unknowns": [
         {
-          "what": "Final inactives - esp. Pete Werner (Q, no practice all week; Moore said he could play without practice) and Decamerion Richardson (Q)",
+          "what": "Final inactives - Pete Werner (Q, no practice), Decamerion Richardson (Q), CHI WR/KR Zavion Thomas (Q, ankle)",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Zavion Thomas (CHI WR, ankle) - new Fri DNP, Questionable",
+          "what": "Isaiah Stalbird (NO LB) Fri DNP personal",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Isaiah Stalbird (NO LB) DNP Fri personal, no designation",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Saints OL alignment (Ruiz at C vs RG; Will Sherman)",
+          "what": "Saints OL alignment (Ruiz C vs RG; Will Sherman G or C; Mason Murphy RT)",
           "known_by": "Sun 11/22 kickoff"
         },
         {
-          "what": "Done Sat: NO signed K Charlie Smyth to 53, elevated DB T.J. Hall + T Colby Sorsdal (OL depth with McCoy/Fuaga/Richards out); CHI elevated RB Salvon Ahmed",
-          "known_by": "done"
+          "what": "Gordon nickel replacement - Malik Muhammad expected (Sun-Times), Cam Lewis alt",
+          "known_by": "Sun 11/22 kickoff"
         }
       ],
       "players": [
@@ -1200,9 +1189,9 @@
           "status": "Questionable",
           "play_pct": 35,
           "type": "injury",
-          "note": "Hamstring; no practice all week but Moore said he could play without practice time.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20 4:34 PM CT)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Sat (WWL): has missed full practice weeks before and still played; if out, Danny Stutsman starts and Jaylan Ford's role grows. No Sun report found. | Hamstring; no practice all week but Moore said he could play without practice time.",
+          "source": "WWL/Audacy (Sat 11/21 1:46 PM PT) + nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20 4:34 PM CT)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "NO",
@@ -1369,9 +1358,9 @@
           "status": "Questionable",
           "play_pct": 40,
           "type": "injury",
-          "note": "Ankle; new to report Fri (DNP), Questionable.",
-          "source": "nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Ankle; new to report Fri (DNP), Questionable. Bears' lead kick returner (Athlon).",
+          "source": "Athlon (Fri 11/20 12:00 PM PT) + nfl.com/injuries Week 11 (Fri 11/20 final report) + neworleanssaints.com Saints Friday Injury Report Week 11 (Fri 11/20 1:21 PM) + WWL/Audacy (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         }
       ]
     },
@@ -1381,27 +1370,35 @@
       "home": "DAL",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 8:37 AM PT",
+      "pulled_iso": "2026-11-22T16:37:00Z",
       "sources_checked": [
-        "tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT; TEN Fri column + game status, DAL Fri column blank)",
-        "Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20 ~12:47 PM PT)",
-        "CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
-        "nfl.com/injuries/league/2026/REG11 (practice column only, no game statuses yet)",
-        "ESPN game page gameId 401873073 (DraftKings odds)",
-        "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Heavy.com Cowboys roster moves (Yarrish)",
-        "nfl.com Saturday 11/21 news roundup"
+        "Inactives check Sun 11/22 8:30-8:36 AM PT: CBS Week 11 inactives live tracker, ESPN FF inactives page (last upd Sat 3:32 PM ET), Yahoo Week 11 live blog (2:07 PM UTC), FantasyPros inactives (shows Out designations only), nfl-depth-charts.com - NO official inactives posted yet for this game",
+        "RotoWire game page TEN@DAL (Sun 11/22 ~8:20 AM PT): news thru Sun AM, inactives 'none reported yet'",
+        "NFL Network Ian Rapoport via RotoWire (Sun 11/22 AM): Carnell Tate expected to play",
+        "SportsbookReview line history TEN@DAL (spread only; latest entries stamped 11/22, tz unlabeled), fetched ~8:20 AM PT",
+        "VegasInsider NFL odds page (per-book table; page stamp 'Nov 17 1:26 PM' unreliable), fetched ~8:20 AM PT",
+        "WebSearch for TEN/DAL inactives + Sunday insider news (~8:15-8:40 AM PT)",
+        "(Sat run) tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT; TEN Fri column + game status, DAL Fri column blank)",
+        "(Sat run) Yahoo Sports 'Cowboys injuries: Multiple starters ruled out vs. Titans' (Fri 11/20 ~12:47 PM PT)",
+        "(Sat run) CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
+        "(Sat run) nfl.com/injuries/league/2026/REG11 (practice column only, no game statuses yet)",
+        "(Sat run) ESPN game page gameId 401873073 (DraftKings odds)",
+        "(Sat run) SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
+        "(Sat run) VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
+        "(Sat run) NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Heavy.com Cowboys roster moves (Yarrish)",
+        "(Sat run) nfl.com Saturday 11/21 news roundup"
       ],
       "sources_unreachable": [
-        "dallascowboys.com official Friday report (not found in search)",
-        "ESPN Cowboys team injuries page (empty response)",
-        "bloggingtheboys.com (robots blocked, not retried)"
+        "ESPN odds page gameId 401873073 (permission request timed out Sun AM)",
+        "dallascowboys.com / tennesseetitans.com inactives article not yet found at fetch time",
+        "(Sat run) dallascowboys.com official Friday report (not found in search)",
+        "(Sat run) ESPN Cowboys team injuries page (empty response)",
+        "(Sat run) bloggingtheboys.com (robots blocked, not retried)"
       ],
-      "line_before": "DAL -8.5 / O/U 55.5 (VegasInsider summary table, Thu 11/19 ~6:56 PM ET; book not named)",
-      "line_now": "DAL -8.5 / O/U 54.5 (DraftKings via ESPN game page, Fri 11/20 evening; CBS Fri 5:42 PM ET also DAL -8.5; bet365 Fri AM -7.5 / 54.5)",
-      "line_moved_on_news": "Spread steady at DAL -8.5 despite DAL ruling out 5 (Ferguson, Bland, Booker, Locke, Mingo) - all were expected. Total down ~1 (55.5 -> 54.5); no source ties it to injury news.",
+      "line_before": "DAL -8.5 / O/U 54.5 (DraftKings via ESPN game page, Fri 11/20 evening). Earlier: DAL -8.5 / 55.5 VegasInsider Thu 11/19.",
+      "line_now": "DAL -7.5 / O/U 54.5 (spread: SportsbookReview line history, latest entries 11/22 Sun, -7.5 -108/-112; total: VegasInsider per-book table, DK/FD/bet365/MGM all 54.5, Hard Rock 55; fetched Sun 11/22 ~8:20 AM PT)",
+      "line_moved_on_news": "Spread 8.5 -> 7.5 toward TEN (SBR shows it at 7.5 through Sunday morning; bet365 was already -7.5 Fri AM, so partly book difference). No source ties it to news; possibly market reaction to DAL's thin secondary/TE room. Total steady 54.5.",
       "top3": [
         {
           "player": "Jake Ferguson",
@@ -1416,7 +1413,7 @@
         {
           "player": "Tyjae Spears",
           "team": "TEN",
-          "why": "Surprise IR placement Sat after FP Friday; RB Michael Carter elevated. Reduces TEN backfield depth/passing-down back."
+          "why": "On IR (knee) since Sat after FP Friday; RB Michael Carter elevated. Pollard lead back. Tate (Q) expected to play per Rapoport Sun AM."
         }
       ],
       "clusters": [
@@ -1438,46 +1435,40 @@
         },
         {
           "out": "S P.J. Locke (DAL, Out)",
-          "replacement": "Juanyeh Thomas / Jalen Thompson (if activated)",
+          "replacement": "Juanyeh Thomas / Malik Hooker (Jalen Thompson ruled out)",
           "dropoff": "Small-moderate."
         },
         {
           "out": "WR Wan'Dale Robinson (TEN, IR)",
-          "replacement": "Xavier Restrepo promoted; Carnell Tate returning (Q, FP Fri)",
+          "replacement": "Xavier Restrepo; Carnell Tate returning (expected to play per Rapoport Sun)",
           "dropoff": "Moderate."
         },
         {
           "out": "TE Jake Ferguson (DAL, Out)",
           "replacement": "Luke Schoonmaker (Q, illness) / depth TE",
           "dropoff": "Moderate-large if Schoonmaker also sits."
+        },
+        {
+          "out": "RB Tyjae Spears (TEN, IR)",
+          "replacement": "Tony Pollard lead; Michael Carter (elevated) / Julius Chestnut depth",
+          "dropoff": "Small-moderate (passing-down role)"
         }
       ],
       "conflicts": [
-        "Devin Moore: CBS (Fri 5:42 PM ET) lists Questionable; Yahoo Fri article omits him; official DAL Fri table not reachable. Kept Questionable (CBS newer).",
         "Shavon Revel Jr.: Yahoo says practiced Fri with no designation; CBS omits him from DAL list - consistent with no designation.",
         "ESPN game page shows '6:00 PM ET' in one spot and 1:00 in ticket widget; kickoff kept 18:00Z (10 AM PT) per schedule.",
-        "Spears: Friday official report Questionable after FP; Saturday transaction list (NFLTR) shows IR - newer roster move wins."
+        "Spears: Friday official report Questionable after FP; Saturday transaction list (NFLTR) shows IR - newer roster move wins.",
+        "Spread: SBR line history shows DAL -7.5 Sunday; ESPN/DK showed -8.5 Fri night - ESPN not re-checkable Sunday; using SBR (newer).",
+        "Tony Adams: Friday report Questionable; RotoWire Sat says designation removed after clearing concussion protocol - newer wins (no designation)."
       ],
       "unknowns": [
         {
-          "what": "Luke Schoonmaker (illness) - plays or inactive",
+          "what": "Official inactives both teams (incl. Luke Schoonmaker illness, Jaishawn Barham hip/groin)",
+          "known_by": "Sun 11/22 ~8:30-8:40 AM PT (not posted as of 8:36 AM PT check)"
+        },
+        {
+          "what": "TEN questionables Anthony Hill Jr., Micah Robinson (both FP Fri) - expected active",
           "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Jaishawn Barham (hip/groin, added Fri) status",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Reason Spears went to IR (new injury?)",
-          "known_by": "Sun 11/22 morning"
-        },
-        {
-          "what": "TEN questionables (Tate, Adams, Hill, M. Robinson) - all FP Fri",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "DAL also elevated RB Jashaun Corbin",
-          "known_by": "done"
         }
       ],
       "players": [
@@ -1500,12 +1491,12 @@
           "pos": "S",
           "practice": "Wed DNP · Thu LP · Fri FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 95,
+          "status": "none",
+          "play_pct": 97,
           "type": "injury",
-          "note": "SAT: cleared concussion protocol. Concussion; DNP -> LP -> FP, listed Questionable (presumably cleared to practice fully; must be out of protocol).",
-          "source": "nfl.com Saturday 11/21 news roundup + tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Sat 11/21 ~7:20 PM PT"
+          "note": "Cleared concussion protocol Sat; injury designation removed (RotoWire Sat 11/21). Concussion; DNP -> LP -> FP.",
+          "source": "RotoWire TEN@DAL news (Sat 11/21) + nfl.com Sat 11/21 roundup; tennesseetitans.com Week 11 report (Fri 11/20)",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         },
         {
           "team": "TEN",
@@ -1516,9 +1507,9 @@
           "status": "IR",
           "play_pct": 0,
           "type": "injury",
-          "note": "PLACED ON IR Sat 11/21 - OUT (was Questionable after FP Fri; reason for move not yet reported). RB Michael Carter elevated from PS. | Knee; DNP -> LP -> FP Fri. Questionable but CBS notes all 5 TEN questionables practiced fully Fri.",
-          "source": "NFLTR Sat 11/21 + tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "PLACED ON IR Sat 11/21 (knee) - OUT; RotoWire lists knee as reason, no further detail. RB Michael Carter elevated from PS. Was Questionable after DNP-LP-FP.",
+          "source": "RotoWire TEN@DAL news (Sat 11/21) + NFLTR Sat 11/21; tennesseetitans.com Week 11 report (Fri 11/20)",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         },
         {
           "team": "TEN",
@@ -1566,11 +1557,11 @@
           "practice": "Wed LP · Thu LP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 85,
+          "play_pct": 93,
           "type": "injury",
-          "note": "Shoulder; LP-LP-FP, Questionable; missed last 2 games, trending to return.",
-          "source": "tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Shoulder; LP-LP-FP, Questionable. SUN: expected to play per Ian Rapoport (NFL Network). Missed last 2 games.",
+          "source": "Ian Rapoport via RotoWire (Sun 11/22 AM); tennesseetitans.com Week 11 report (Fri 11/20)",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         },
         {
           "team": "TEN",
@@ -1866,30 +1857,40 @@
       "home": "DET",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 8:37 AM PT",
+      "pulled_iso": "2026-11-22T16:37:00Z",
       "sources_checked": [
-        "buccaneers.com 'Buccaneers-Lions Injury Report Nov.20: Winfield Jr. and Josh Hayes Ruled Out' (Fri 11/20 3:45 PM ET, both teams)",
-        "nfl.com news roundup Fri 11/20 (Bowles on Mayfield)",
-        "CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
-        "RotoWire game page TB@DET (Fri 11/20 news)",
-        "ESPN game page gameId 401873072 (DraftKings odds)",
-        "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "nfl.com/injuries/league/2026/REG11 (practice column only)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
+        "Inactives check Sun 11/22 8:30-8:36 AM PT: CBS Week 11 inactives live tracker, ESPN FF inactives page (last upd Sat 3:32 PM ET), Yahoo Week 11 live blog (2:07 PM UTC), FantasyPros inactives (shows Out designations only), nfl-depth-charts.com - NO official inactives posted yet for this game",
+        "NBC Sports/Rotoworld 'Rapoport: Mayfield (foot) will play vs. the Lions' (Sun 11/22 13:10 UTC = 5:10 AM PT)",
+        "Yahoo/Lions Wire 'Is Baker Mayfield playing today?' (Sun 11/22 7:28 AM PT) - cites Pelissero Sat 'give it a go' + Rapoport Sun confirm",
+        "theScore 'Report: Bucs' Mayfield to start vs. Lions despite plantar fasciitis' (Sun AM)",
+        "Heavy.com D.J. Reed article (Wed 11/19 8:42 AM ET) - Reed does not expect to play Week 11",
+        "SportsbookReview Week 11 odds (bet365, last updated Fri 11/20 8:14 AM ET)",
+        "VegasInsider NFL odds page (per-book table; page stamp 'Nov 17' unreliable), fetched ~8:20 AM PT",
+        "WebSearch for TB/DET inactives + Sunday insider news (~8:15-8:40 AM PT)",
+        "(Sat run) buccaneers.com 'Buccaneers-Lions Injury Report Nov.20: Winfield Jr. and Josh Hayes Ruled Out' (Fri 11/20 3:45 PM ET, both teams)",
+        "(Sat run) nfl.com news roundup Fri 11/20 (Bowles on Mayfield)",
+        "(Sat run) CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
+        "(Sat run) RotoWire game page TB@DET (Fri 11/20 news)",
+        "(Sat run) ESPN game page gameId 401873072 (DraftKings odds)",
+        "(Sat run) SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
+        "(Sat run) nfl.com/injuries/league/2026/REG11 (practice column only)",
+        "(Sat run) NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
       ],
       "sources_unreachable": [
-        "detroitlions.com Friday report (not fetched; buccaneers.com report covers both teams)",
-        "No Friday insider (Schefter/Rapoport/Pelissero) Mayfield update found"
+        "ESPN odds page gameId 401873072 (permission request timed out Sun AM)",
+        "No Sunday-timestamped TB@DET line found with a named book",
+        "(Sat run) detroitlions.com Friday report (not fetched; buccaneers.com report covers both teams)",
+        "(Sat run) No Friday insider (Schefter/Rapoport/Pelissero) Mayfield update found"
       ],
-      "line_before": "DET -7 / O/U 44 (Hard Rock Bet via VegasInsider, latest note Wed 5 PM ET; VegasInsider consensus column shows DET -6)",
-      "line_now": "DET -6 / O/U 45.5 (DraftKings via ESPN game page, Fri 11/20 evening); CBS Fri 5:42 PM ET DET -5.5; bet365 Fri AM DET -6.5 / 45.5",
-      "line_moved_on_news": "Yes (inferred): DET -7/44 -> -6 (-5.5 some books)/45.5 since Wed as Mayfield upgraded to LP and Bowles called him 'trending in the right direction'. SI had tied earlier moves (-5.5 -> -7) to Mayfield uncertainty; reverse move fits his upgrade.",
+      "line_before": "DET -6 / O/U 45.5 (DraftKings via ESPN, Fri 11/20 evening). Earlier: DET -7 / 44 midweek (Hard Rock via VegasInsider Wed); open DET -5.5 (DK).",
+      "line_now": "UNCONFIRMED Sun: VegasInsider per-book table fetched Sun ~8:20 AM PT shows DET -3.5 / O/U 48.5 at DK/FD/MGM/bet365/Caesars (open -4.5/49.5) - inconsistent with all prior Week 11 quotes (DET -5.5 to -7) and page stamp says Nov 17, so may be stale/wrong. Last verified: DET -6 / 45.5 (DK via ESPN, Fri 11/20 evening); bet365 -6.5/45.5 Fri AM.",
+      "line_moved_on_news": "Mayfield confirmed playing (Pelissero Sat, Rapoport Sun AM). Expect line at or below Fri's DET -6; a move to ~-3.5/48.5 would fit Mayfield news but is NOT verified - recheck DK/ESPN before betting.",
       "top3": [
         {
           "player": "Baker Mayfield",
           "team": "TB",
-          "why": "Questionable (LP Thu+Fri, foot/thumb); Bowles 'trending in the right direction'. If he sits, UDFA rookie Jalon Daniels starts - line would jump back toward DET -7+."
+          "why": "WILL PLAY per Rapoport (Sun AM) after Pelissero (Sat) said he'd 'give it a go'. Plantar fascia (foot) - wearing special orthotic + new cleats; injury expected to linger. Jalon Daniels backup."
         },
         {
           "player": "Antoine Winfield Jr. + Josh Hayes",
@@ -1909,9 +1910,9 @@
       ],
       "replacements": [
         {
-          "out": "Baker Mayfield (if out)",
+          "out": "Baker Mayfield (if late scratch - not expected)",
           "replacement": "Jalon Daniels (rookie); Easton Stick backup",
-          "dropoff": "Large - Pro Bowl-level starter to rookie"
+          "dropoff": "Large"
         },
         {
           "out": "S Antoine Winfield Jr. (Out)",
@@ -1927,32 +1928,31 @@
           "out": "C Cade Mays (DET, Out)",
           "replacement": "DET backup C (not named in sources)",
           "dropoff": "Moderate"
+        },
+        {
+          "out": "CB D.J. Reed (DET, Q - likely out)",
+          "replacement": "Khalil Dorsey / Rock Ya-Sin outside, Roger McCreary slot",
+          "dropoff": "Moderate"
         }
       ],
       "conflicts": [
         "Josh Hayes: FP Wed/Thu/Fri on official report but ruled Out - no explanation found; trust official Out.",
-        "Line sources differ: DK (ESPN) DET -6, CBS DET -5.5, bet365 (Fri AM) -6.5."
+        "Line sources differ: DK (ESPN) DET -6, CBS DET -5.5, bet365 (Fri AM) -6.5.",
+        "Line: VegasInsider table (Sun fetch) DET -3.5/48.5 vs ESPN DK Fri DET -6/45.5 and bet365 Fri -6.5/45.5 - VI page stamp Nov 17 and numbers out of line with every other source; not adopted.",
+        "theScore attributes Rapoport to 'ESPN' - Rapoport is NFL Network (NBC/Rotoworld + Yahoo agree)."
       ],
       "unknowns": [
         {
-          "what": "Mayfield final decision / TB starting QB (re-evaluated Fri + Sat)",
-          "known_by": "Sat 11/21 (possible team/insider report); confirmed Sun 11/22 8:30 AM PT inactives"
+          "what": "Official inactives (confirms Mayfield active; DET CB questionables Reed/Rakestraw/Dorsey, Bachie, Lacy, Vaki)",
+          "known_by": "Sun 11/22 ~8:30-8:40 AM PT (not posted as of 8:36 AM PT check)"
         },
         {
-          "what": "D.J. Reed and DET CB questionables - active or inactive",
-          "known_by": "Sun 11/22 8:30 AM PT"
+          "what": "Verified Sunday spread/total with named book",
+          "known_by": "before kickoff 10:00 AM PT"
         },
         {
           "what": "Why Josh Hayes was ruled Out despite FP all week",
-          "known_by": "Unknown - may surface Sat"
-        },
-        {
-          "what": "Final inactives",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Done Sat: DET elevated LB Owen Pappoe, signed DB Nick Whiteside to 53; TB elevated S J.J. Roberts. No Saturday Mayfield update found",
-          "known_by": "done"
+          "known_by": "Unknown"
         }
       ],
       "players": [
@@ -1963,11 +1963,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 95,
           "type": "injury",
-          "note": "Foot sprain + right thumb; DNP-LP-LP, Questionable. Bowles Fri: 'trending in the right direction', 'had a good day'; re-evaluated Fri/Sat. Jalon Daniels (UDFA rookie) starts if he can't.",
-          "source": "buccaneers.com 'Buccaneers-Lions Injury Report Nov.20' (Fri 11/20 3:45 PM ET); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET); nfl.com news roundup Fri 11/20",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "SUN: WILL PLAY per Ian Rapoport (NFL Network); Tom Pelissero Sat said expected to 'give it a go'. Plantar fascia/foot (+ thumb), DNP-LP-LP, officially Questionable. Wearing special orthotic + new cleats; expected to linger. Jalon Daniels (UDFA) backup.",
+          "source": "NBC/Rotoworld Rapoport (Sun 11/22 5:10 AM PT); Yahoo/Lions Wire (Sun 7:28 AM PT); theScore; buccaneers.com Fri report",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         },
         {
           "team": "TB",
@@ -2054,11 +2054,11 @@
           "practice": "Wed (est.) LP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 40,
+          "play_pct": 20,
           "type": "injury",
-          "note": "Hip; LP all week, Questionable. Yahoo (Thu) called him unlikely to play.",
-          "source": "buccaneers.com 'Buccaneers-Lions Injury Report Nov.20' (Fri 11/20 3:45 PM ET); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Hip; LP all week, Questionable. Reed himself (Wed) said he doesn't expect to play vs TB, targeting Week 12. Dorsey + Rock Ya-Sin outside, Roger McCreary slot if out.",
+          "source": "Heavy.com (Wed 11/19 8:42 AM ET) Reed comments; buccaneers.com Fri report; CBS Fri 5:42 PM ET",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         },
         {
           "team": "DET",
@@ -2206,37 +2206,43 @@
       ]
     },
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873067",
       "away": "ARI",
       "home": "KC",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 8:37 AM PT",
+      "pulled_iso": "2026-11-22T16:37:00Z",
       "sources_checked": [
-        "azcardinals.com team injury report Week 11 (Wed/Thu/Fri + game status, both teams)",
-        "chiefs.com Week 11 Injury Report Cardinals vs Chiefs (pub Fri 11/20 2:02 PM)",
-        "nfl.com news roundup Fri 11/20 (LaFleur on Beck)",
-        "CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
-        "RotoWire game page ARI@KC (Fri 11/20 news: Beck Q, Josh Johnson expected to start)",
-        "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors",
-        "azcardinals.com \"Josh Johnson Start Confirmed After Carson Beck Downgraded\" (Sat 11/21, upd 2:00 PM)"
+        "Inactives check Sun 11/22 8:30-8:36 AM PT: CBS Week 11 inactives live tracker, ESPN FF inactives page (last upd Sat 3:32 PM ET), Yahoo Week 11 live blog (2:07 PM UTC), FantasyPros inactives (shows Out designations only), nfl-depth-charts.com - NO official inactives posted yet for this game",
+        "ESPN odds page gameId 401873067 (DraftKings), fetched Sun 11/22 ~8:20 AM PT",
+        "ESPN 'Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson' (Sat 11/21 3:25 PM ET)",
+        "RotoWire game page ARI@KC (Sun 11/22 ~8:20 AM PT): Johnson start confirmed Sun by team site; inactives none yet",
+        "VegasInsider NFL odds page (per-book table; page stamp unreliable), fetched ~8:20 AM PT",
+        "WebSearch for ARI/KC inactives + Sunday news (~8:15-8:40 AM PT)",
+        "(Sat run) azcardinals.com team injury report Week 11 (Wed/Thu/Fri + game status, both teams)",
+        "(Sat run) chiefs.com Week 11 Injury Report Cardinals vs Chiefs (pub Fri 11/20 2:02 PM)",
+        "(Sat run) nfl.com news roundup Fri 11/20 (LaFleur on Beck)",
+        "(Sat run) CBS Sports NFL Week 11 injury report (updated Fri 11/20 5:42 PM ET)",
+        "(Sat run) RotoWire game page ARI@KC (Fri 11/20 news: Beck Q, Josh Johnson expected to start)",
+        "(Sat run) SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
+        "(Sat run) VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
+        "(Sat run) NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors",
+        "(Sat run) azcardinals.com \"Josh Johnson Start Confirmed After Carson Beck Downgraded\" (Sat 11/21, upd 2:00 PM)"
       ],
       "sources_unreachable": [
-        "No post-Beck-news (Fri afternoon) sportsbook total found; RotoWire odds widget did not load",
-        "ESPN event ID for ARI@KC not found in search",
-        "arizonasports.com Josh Johnson 'expected start' article (headline only seen, body not found)"
+        "No Sunday Peter Woods / Norman-Lott update found",
+        "(Sat run) No post-Beck-news (Fri afternoon) sportsbook total found; RotoWire odds widget did not load",
+        "(Sat run) arizonasports.com Josh Johnson 'expected start' article (headline only seen, body not found)"
       ],
-      "line_before": "KC -16.5 / O/U 40.5 (VegasInsider summary table, Thu 11/19 ~6:56 PM ET; book not named)",
-      "line_now": "KC -16.5 (CBS Sports Fri 11/20 5:42 PM ET, after Beck news); O/U 40.5 (bet365 via SportsbookReview, Fri 8:14 AM ET - pre-news)",
-      "line_moved_on_news": "No confirmed spread move: KC -16.5 both Thu night and Fri 5:42 PM ET after Beck (back) DNP/Josh Johnson news. Post-news total not found - watch for total dip if Johnson starts.",
+      "line_before": "KC -16.5 (CBS Fri 11/20 5:42 PM ET) / O/U 40.5 (bet365 Fri AM). Open KC -11.5 / 44.5.",
+      "line_now": "KC -16.5 (-109) / O/U 40.5 (O -114) / ML KC -1640 (DraftKings via ESPN odds page, fetched Sun 11/22 ~8:20 AM PT). VegasInsider table: most books KC -15.5 / 40.5, Kalshi -14.5.",
+      "line_moved_on_news": "No move since Fri: KC -16.5 / 40.5 at DK. The big move came earlier in the week (open -11.5/44.5 -> -16.5/40.5) on Minshew/Beck QB news; Beck's official Out Sat was already priced.",
       "top3": [
         {
-          "player": "Carson Beck",
+          "player": "Carson Beck / Josh Johnson",
           "team": "ARI",
-          "why": "Rookie QB Questionable (back), DNP Fri; LaFleur says may not play - veteran Josh Johnson expected to start (RotoWire/CBS)."
+          "why": "Beck (back spasms) OUT; 40-year-old Josh Johnson (2-9 career starts, <2 weeks in system) starts - confirmed by azcardinals.com Sat and again Sun. Rookie Joey Aguilar backup."
         },
         {
           "player": "Kenneth Walker III",
@@ -2251,13 +2257,13 @@
       ],
       "clusters": [
         "KC OL: Trey Smith Out, Jaylon Moore Out",
-        "ARI QB: Minshew IR, Beck Questionable (DNP Fri) - Josh Johnson likely starter",
+        "ARI QB: Minshew IR, Beck OUT - Josh Johnson starts, Joey Aguilar backup",
         "KC DL: Omarr Norman-Lott Q (not expected), Peter Woods Q (downgraded to LP Fri)"
       ],
       "replacements": [
         {
-          "out": "Gardner Minshew (season-ending) + Carson Beck (Q, likely out)",
-          "replacement": "Josh Johnson (veteran journeyman, signed ~11/9 off CIN practice squad)",
+          "out": "Gardner Minshew (IR) + Carson Beck (Out)",
+          "replacement": "Josh Johnson (40, 2-9 career as starter; first start since Wk 18 2025)",
           "dropoff": "Large; Beck had one NFL start, Johnson a late signing"
         },
         {
@@ -2278,31 +2284,15 @@
       ],
       "conflicts": [
         "Resolved: official azcardinals.com table shows Jayden Williams and Max Melton FP Thu (A to Z was right; Cards Wire LP was wrong).",
-        "Beck starter question: RotoWire/CBS say Josh Johnson expected to start, but RotoWire projected lineup still lists Beck; official status Questionable.",
         "KC backfield: prior run had Jaydn Ott as replacement; CBS Fri names rookie Emmett Johnson as primary starter.",
         "Darius Robinson injury knee (SI) vs wrist (team report) - wrist used.",
-        "Carson Beck: earlier Questionable vs azcardinals.com Sat downgrade to OUT -- team site (newer) wins."
+        "Carson Beck: earlier Questionable vs azcardinals.com Sat downgrade to OUT -- team site (newer) wins.",
+        "Spread: DK (ESPN) KC -16.5 vs VegasInsider table KC -15.5 at most books - book difference."
       ],
       "unknowns": [
         {
-          "what": "ARI starting QB: Beck (back) vs Josh Johnson; Johnson's roster status (53 vs PS elevation)",
-          "known_by": "Sat 11/21 ~1:00 PM PT (elevations) / Sun 11/22 8:30 AM PT inactives"
-        },
-        {
-          "what": "Peter Woods (neck, LP Fri) and Norman-Lott - active or inactive",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Post-news total / any late line move",
-          "known_by": "Sat-Sun before kickoff"
-        },
-        {
-          "what": "Final inactives",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Done Sat: ARI elevated WR Zay Jones; KC elevated RB Nate Carter + C Pete Nygra",
-          "known_by": "done"
+          "what": "Official inactives (Peter Woods neck, Omarr Norman-Lott knee)",
+          "known_by": "Sun 11/22 ~8:30-8:40 AM PT (not posted as of 8:36 AM PT check)"
         }
       ],
       "players": [
@@ -2692,9 +2682,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "SAT: OFFICIALLY DOWNGRADED TO OUT (back); Josh Johnson starts, rookie Joey Aguilar backup. PFR: LaFleur said Josh Johnson expected to start Sun; Beck may be available Wk 12. | Back; added Thu (LP), DNP Fri, Questionable. LaFleur: won't practice Fri, may not play Sunday. RotoWire/CBS (Fri): veteran Josh Johnson expected to start; RotoWire lineup still shows Beck.",
-          "source": "azcardinals.com \"Josh Johnson Start Confirmed After Carson Beck Downgraded\" (Sat 11/21, upd 2:00 PM) + ProFootballRumors (Fri 11/20, summary) + azcardinals.com Week 11 injury report (both teams, Fri 11/20); chiefs.com Week 11 Injury Report (pub Fri 11/20 2:02 PM); nfl.com news roundup Fri 11/20; CBS Sports Fri 5:42 PM ET; RotoWire 11/20",
-          "pulled_at": "Sat 11/21 ~7:20 PM PT"
+          "note": "OUT (back spasms) - downgraded Sat; LP Wed, DNP Thu/Fri. Josh Johnson (40, 15th team) starts, confirmed again Sun per RotoWire/azcardinals.com. Rookie Joey Aguilar backup.",
+          "source": "ESPN (Sat 11/21 3:25 PM ET); azcardinals.com (Sat 11/21 + Sun 11/22 via RotoWire)",
+          "pulled_at": "Sun 11/22 8:37 AM PT"
         }
       ]
     },
@@ -2704,50 +2694,49 @@
       "home": "PHI",
       "kickoff": "2026-11-22T18:00:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "nfl.com/injuries (Week 11 - Fri statuses posted)",
-        "philadelphiaeagles.com/team/injury-report (Week 11, Wed-Fri + game status)",
-        "philadelphiaeagles.com 'Steelers vs. Eagles injury report 2026 Week 11' (Fri 11/20 4:30 PM)",
-        "steelers.com Week 11 injury report article (Thu 11/19 4:00 PM - Thu only)",
-        "steelers.com/team/injury-report (Fri column still blank at check)",
-        "RotoWire betting game page (Nov 20 news items)",
-        "ESPN game page gameId 401873076 (injury designations)",
-        "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (upd. 11/20)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); steelers.com Steelers make roster moves ahead of Eagles game (Sat 11/21 3:00 PM)"
+        "philadelphiaeagles.com/team/injury-report (Week 11 game statuses; Sun ~8:20 AM PT) - shows Jalen Carter added Questionable (quad)",
+        "RotoWire betting game page id 2978795 (news through Sun 11/22; inactives 'none reported yet' at ~8:15 AM PT)",
+        "ESPN odds page gameId 401873076 (DraftKings, fetched Sun ~8:14 AM PT)",
+        "FanDuel Research Week 11 odds page (embedded FanDuel odds, fetched Sun ~8:17 AM PT)",
+        "abc7/ESPN Week 11 odds article (upd. Fri 11/20 8:26 PM)",
+        "SportsbookReview Week 11 odds (still bet365 Fri 11/20 8:14 AM ET - not updated)",
+        "CBS Sports/RotoWire Jalen Carter item (Sun 11/22 11:06 AM ET, citing Tim McManus ESPN)",
+        "WebSearch: Steelers/Eagles inactives, Jalen Hurts status, Jalen Carter quad, insider game-day reports (Sun ~8:10-8:25 AM PT)"
       ],
       "sources_unreachable": [
-        "steelers.com Friday report not yet posted at check (Fri column blank); PIT Friday data taken from philadelphiaeagles.com + nfl.com",
-        "No odds source updated after Friday's ~1 PM PT injury reports found"
+        "legionreport.com Steelers vs Eagles inactives page (robots-blocked)",
+        "site.api.espn.com scoreboard API (proxy 403)",
+        "Official inactives not yet posted at last check (due 8:30 AM PT)",
+        "bleedinggreennation.com Carter article (robots-blocked)"
       ],
-      "line_before": "PIT -4.5 / O/U 38.5 (VegasInsider, Thu 11/19 6:56 PM; ML PIT -206 / PHI +172)",
-      "line_now": "PIT -4.5 / O/U 38.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML PIT -210 / PHI +175). DraftKings PIT -4.5 (-105), 38.5 per VegasInsider 11/20.",
-      "line_moved_on_news": "No move. Spread PIT -4.5 unchanged all week; total 38.5 (opened 39). Under getting 91% of money per VegasInsider.",
+      "line_before": "PIT -4.5 / O/U 38.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML PIT -210 / PHI +175; DK also -4.5 per VegasInsider 11/20). Earlier: VegasInsider Thu 11/19 PIT -4.5 / 38.5.",
+      "line_now": "PIT -3.5 (-111) / O/U 37.5 (DraftKings via ESPN odds page, Sun 11/22 ~8:14 AM PT; ML PIT -190 / PHI +160). FanDuel (Research page, Sun ~8:17 AM PT): 3.5 (-112/-108), 37.5, ML -198/+166. ESPN shows open PHI -5.5 / 42.5 (pre-Hurts injury).",
+      "line_moved_on_news": "YES - 1 point toward PHI (PIT -4.5 -> -3.5) and total down 1 (38.5 -> 37.5) since Fri. Timing fits Saturday news: Herbig downgraded OUT + Pittman/Dunker not activated (PIT) vs. Baun/Wicks to IR (PHI already ruled out). Jalen Carter's late Q tag would push the other way. Not attributable with certainty.",
       "top3": [
         {
           "player": "Jalen Hurts",
           "team": "PHI",
-          "why": "IR (calf blood clots), out for season; Joe Milton III makes 2nd straight start."
+          "why": "Still on IR (calf blood clots) - no Sunday change found; Joe Milton III starts (RotoWire lists Milton as starter Sun)."
         },
         {
-          "player": "Zack Baun / Smael Mondon Jr.",
+          "player": "Jalen Carter",
           "team": "PHI",
-          "why": "Baun OUT (back), Mondon DOUBTFUL (ankle). Jihaad Campbell + Jeremiah Trotter Jr. at LB."
+          "why": "NEW Sun AM: added QUESTIONABLE (quad) - told team it was bothering him on the way to the stadium (McManus, ESPN). Not on Fri report. Watch inactives."
         },
         {
           "player": "Nick Herbig + Michael Pittman Jr.",
           "team": "PIT",
-          "why": "Herbig downgraded to OUT Sat; Pittman (and G Dunker) not activated from IR in Saturday moves - PIT WR room leans on Wilson (activated) + elevated Max Hurleman."
+          "why": "Herbig OUT (downgraded Sat); Pittman not expected to be activated from IR (RotoWire 11/21). WR room: Wilson (activated) + elevated Max Hurleman."
         }
       ],
       "clusters": [
-        "PHI LB: Zack Baun (OUT, back), Smael Mondon Jr. (DOUBTFUL, ankle) - both starters/rotation LBs likely missing",
-        "PHI WR: Dontayvion Wicks OUT (ankle/foot); DeVonta Smith good to go; Covey LP all week, no designation",
-        "PIT IR returns: Pittman, Dunker, R. Wilson all questionable and need activation by Sat 4 PM ET",
-        "PIT OL: Mason McCormick on IR (dislocated ankle)",
-        "PIT: Herbig OUT; Pittman/Dunker not activated (only R. Wilson activated)"
+        "PHI LB: Zack Baun (IR Sat), Smael Mondon Jr. (DOUBTFUL, ankle) - Campbell + Trotter Jr. start",
+        "PHI DL: Jalen Carter newly Questionable (quad) - if out, big interior pass-rush hit",
+        "PHI WR: Dontayvion Wicks IR (Sat); DeVonta Smith good to go",
+        "PIT: Herbig OUT; Pittman/Dunker not activated (only R. Wilson); McCormick IR"
       ],
       "replacements": [
         {
@@ -2756,39 +2745,43 @@
           "dropoff": "Large"
         },
         {
-          "out": "Zack Baun (LB, Out)",
+          "out": "Zack Baun (LB, IR)",
           "replacement": "Jihaad Campbell (starts with Jeremiah Trotter Jr.)",
           "dropoff": "Moderate"
         },
         {
+          "out": "Jalen Carter (DT, if inactive/limited)",
+          "replacement": "Ty Robinson + Gabe Hall (elevated Sat) per RotoWire",
+          "dropoff": "Large"
+        },
+        {
           "out": "Mason McCormick (G, IR)",
-          "replacement": "Not confirmed (Gennings Dunker possible if activated from IR)",
+          "replacement": "Not confirmed (Dunker not activated)",
           "dropoff": "Moderate"
         },
         {
-          "out": "Nick Herbig (OLB, if out)",
-          "replacement": "Not confirmed",
+          "out": "Nick Herbig (OLB, Out)",
+          "replacement": "Not confirmed (LB K.J. Henry signed Sat)",
           "dropoff": "Moderate (pass-rush depth)"
         }
       ],
       "conflicts": [
-        "PIT held a walkthrough Fri - Steelers' Friday participation is ESTIMATED (philadelphiaeagles.com article).",
-        "steelers.com team injury-report page still blank for Fri at check; nfl.com + philadelphiaeagles.com both show Fri statuses - used them.",
-        "Greenard DNP Fri listed as 'ankle/rest' with no game status; Eagles article says rest of roster good to go - treated as rest day.",
-        "VegasInsider consensus column shows PIT -3.5 / 37.5 while its DraftKings note and bet365 (SBR) show -4.5 / 38.5 - used the book-specific numbers.",
-        "Prior run had McCormick status 'Out' (not on report); steelers.com confirms he was placed on IR Wed 11/18 - now 'IR'."
+        "Jalen Carter: NOT on Eagles' Fri 11/20 final report (philadelphiaeagles.com article, prior run) but current philadelphiaeagles.com injury-report page lists him Questionable (quad) - late Sunday-morning add per Tim McManus (ESPN) via CBS/RotoWire 11:06 AM ET. Newest official source wins -> Questionable.",
+        "PIT held a walkthrough Fri - Steelers' Friday participation is ESTIMATED.",
+        "Greenard DNP Fri ('ankle/rest') with no game status - treated as rest day.",
+        "FanDuel Research page labels PIT-PHI spread ambiguously (shows 'Eagles -3.5'); DraftKings/ESPN clearly PIT -3.5 and ML favors PIT - used PIT -3.5."
       ],
       "unknowns": [
         {
-          "what": "Inactives (Mondon doubtful, Herbig, Elliott, Queen, Shipley)",
+          "what": "Jalen Carter (Q, quad) active or not",
+          "known_by": "Sun 11/22 8:30 AM PT inactives"
+        },
+        {
+          "what": "Inactives (Mondon doubtful; Shipley, Elliott, Queen Q; confirm Pittman/Dunker not active)",
           "known_by": "Sun 11/22 8:30 AM PT"
         },
         {
-          "what": "Confirm Pittman/Dunker inactive (not activated by Sat deadline)",
-          "known_by": "Sun 11/22 8:30 AM PT"
-        },
-        {
-          "what": "Done Sat: PIT signed LB K.J. Henry, elevated WR Max Hurleman + OL Doug Nester; PHI elevated DT Gabe Hall + LB Anfernee Orji",
+          "what": "Done Sat: PIT signed LB K.J. Henry, elevated WR Max Hurleman + OL Doug Nester, activated R. Wilson; PHI IR Baun + Wicks, activated Shipley, elevated DT Gabe Hall + LB Anfernee Orji",
           "known_by": "done"
         }
       ],
@@ -2800,11 +2793,11 @@
           "practice": "Not on report (IR)",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
-          "note": "Blood clots in calf; out since Week 5, expected out for season. Joe Milton starts.",
-          "source": "Fox Sports; NBC Sports 11/18",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Blood clots in calf; on IR, expected out for season. No change Sun 11/22 - Joe Milton III starts (RotoWire lists Milton as starter).",
+          "source": "Fox Sports; NBC Sports 11/18; RotoWire game page (Sun 11/22)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "PHI",
@@ -2813,7 +2806,7 @@
           "practice": "Wed DNP · Thu DNP · Fri DNP",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Placed on IR Sat 11/21. | Back. Ruled OUT Fri. Jihaad Campbell starts alongside Jeremiah Trotter Jr.",
           "source": "NFLTR Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
@@ -2839,7 +2832,7 @@
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Placed on IR Sat 11/21. | Ankle/foot (foot added Fri). Ruled OUT - 4th straight missed game.",
           "source": "NFLTR Sat 11/21 + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
@@ -2961,6 +2954,19 @@
           "note": "Ankle/rest. DNP Fri listed as ankle/rest; no game designation (team article: rest of roster good to go).",
           "source": "philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); philadelphiaeagles.com final injury report article (Fri 11/20 4:30 PM)",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
+        },
+        {
+          "team": "PHI",
+          "player": "Jalen Carter",
+          "pos": "DT",
+          "practice": "Not on Fri 11/20 report; added Sun morning",
+          "estimated": false,
+          "status": "Questionable",
+          "play_pct": 40,
+          "type": "injury",
+          "note": "Quad. NEW - late Sunday-morning add: told the team his quad was bothering him while traveling to Lincoln Financial Field (Tim McManus, ESPN). RotoWire: late add 'isn't a great sign'; Ty Robinson / Gabe Hall get more snaps if he sits or is limited. Watch inactives.",
+          "source": "Tim McManus (ESPN) via CBS/RotoWire (Sun 11/22 11:06 AM ET); philadelphiaeagles.com/team/injury-report (checked Sun 11/22)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "PHI",
@@ -3086,11 +3092,11 @@
           "practice": "Wed LP · Thu FP · Fri FP (est.)",
           "estimated": true,
           "status": "Questionable",
-          "play_pct": 10,
+          "play_pct": 5,
           "type": "injury",
-          "note": "NOT activated in Steelers Saturday moves (only Wilson) - unless activated elsewhere, ineligible; confirm at inactives. | Foot; on IR (designated to return). Questionable; needs activation by 4 PM ET Sat to play.",
-          "source": "steelers.com Steelers make roster moves (Sat 11/21 3:00 PM) + philadelphiaeagles.com/team/injury-report (Week 11, Fri 11/20); nfl.com/injuries (Fri 11/20); philadelphiaeagles.com article (Fri 11/20 4:30 PM: PIT held walkthrough, Fri estimated)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Not expected to be activated from IR for this game (RotoWire 11/21); not in Steelers Sat moves (only Wilson). Effectively out; confirm at inactives. | Foot; on IR (designated to return).",
+          "source": "RotoWire 11/21 + steelers.com Steelers make roster moves (Sat 11/21 3:00 PM); nfl.com/injuries (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "PIT",
@@ -3138,7 +3144,7 @@
           "practice": "Not on report (IR)",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Dislocated ankle Week 10; placed on IR Wed 11/18 (steelers.com). Could return for postseason (Rapoport).",
           "source": "steelers.com Week 11 injury report article (Thu 11/19); RotoWire 11/18",
@@ -3152,55 +3158,53 @@
       "home": "LAC",
       "kickoff": "2026-11-22T21:05:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "nfl.com/injuries (Week 11 - Fri statuses posted)",
-        "RotoWire betting game page (Nov 20 news items)",
-        "RotoWire Tarheeb Still note (11/20)",
-        "ESPN game page gameId 401873074 (injury designations)",
-        "TSN/AP Geno Smith 'intends to play' (11/18)",
-        "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
-        "VegasInsider Week 11 odds (upd. 11/20)",
-        "newyorkjets.com / chargers.com / SI 'final injury report' Jets-Chargers search hits (all Nov 2020 - stale, ignored)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
+        "RotoWire betting game page id 2978788 (news through Sun 11/22; inactives 'none reported yet' at ~8:15 AM PT)",
+        "FanDuel Research Week 11 odds page (embedded FanDuel odds, fetched Sun ~8:17 AM PT)",
+        "abc7/ESPN Week 11 odds article (upd. Fri 11/20 8:26 PM)",
+        "SportsbookReview Week 11 odds (still bet365 Fri 11/20 8:14 AM ET - not updated)",
+        "CBS Sports Week 11 odds article (11/17)",
+        "WebSearch: McConkey/Kolar/Still/Dupree Sunday news, Rapoport (Sun ~8:10-8:25 AM PT)",
+        "FanDuel Research Kolar item (11/19 - stale)"
       ],
       "sources_unreachable": [
-        "chargers.com/team/injury-report (fetch permission timed out)",
-        "newyorkjets.com/team/injury-report (fetch permission timed out)",
-        "No 2026 Friday team-site article found for either team; Fri participation taken from nfl.com single-day column",
-        "No odds source updated after Friday's ~1 PM PT injury reports found"
+        "ESPN odds page gameId 401873074 (fetch permission timed out)",
+        "site.api.espn.com scoreboard API (proxy 403)",
+        "chargers.com / newyorkjets.com team injury-report pages (not re-fetched; earlier permission timeouts)",
+        "No Sunday update found on Kolar, Still, Waxter, Thompson or Dupree"
       ],
-      "line_before": "LAC -3 / O/U 41.5 (VegasInsider, Thu 11/19 6:56 PM; ML LAC -170 / NYJ +143)",
-      "line_now": "LAC -3.5 / O/U 41.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML LAC -170 / NYJ +145). DraftKings LAC -3 (-115), 41.5 per VegasInsider 11/20.",
-      "line_moved_on_news": "No real move: books split LAC -3 / -3.5 (prior run had -3 at VegasInsider). Total steady 41.5 (opened 40.5). Geno Smith's no-designation news came after these quotes.",
+      "line_before": "LAC -3.5 / O/U 41.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML LAC -170 / NYJ +145); DK LAC -3 (-115) per VegasInsider 11/20.",
+      "line_now": "LAC -3 (-116) / O/U 41.5 (O -120 / U +100) (FanDuel via FanDuel Research odds page, Sun 11/22 ~8:17 AM PT; ML LAC -180 / NYJ +152). abc7/ESPN Fri 8:26 PM: ML LAC -172 / NYJ +144, total 41.5.",
+      "line_moved_on_news": "No meaningful move: spread sits on LAC -3 (juiced -116) vs bet365 -3.5 Fri; ML drifted slightly to LAC (-170 -> -180). Total 41.5 steady, juice on the over. McConkey 'expected to play' (Rapoport, Sun) is consistent with LAC drift.",
       "top3": [
         {
-          "player": "Geno Smith",
-          "team": "NYJ",
-          "why": "Full practice Fri, NO designation - starts. Removes the Klubnik risk."
+          "player": "Ladd McConkey",
+          "team": "LAC",
+          "why": "Questionable (back) but EXPECTED TO PLAY per Ian Rapoport (Sun 11/22, via RotoWire)."
         },
         {
           "player": "LAC secondary: Shelley / Williamson / Waxter / Still",
           "team": "LAC",
-          "why": "Shelley and Williamson OUT; Waxter and newly added Tarheeb Still (ankle) questionable - thin vs. NYJ passing game."
+          "why": "Shelley (IR Sat) and Williamson OUT; Waxter and Tarheeb Still (late-added ankle) questionable - no Sunday news."
         },
         {
-          "player": "Ladd McConkey / Brenen Thompson / Charlie Kolar",
-          "team": "LAC",
-          "why": "McConkey Q (back, LP all week), Thompson DOUBTFUL, Kolar Q (concussion). LB Henley OUT."
+          "player": "Geno Smith",
+          "team": "NYJ",
+          "why": "No designation - starts. NYJ WRs Cooper + I. Williams OUT; Sterling Shepard elevated Sat."
         }
       ],
       "clusters": [
-        "LAC secondary: Rodney Shelley (OUT), Kendall Williamson (OUT), Isas Waxter (Q), Tarheeb Still (Q, new Fri)",
-        "LAC pass catchers: McConkey (Q), Brenen Thompson (D), Kolar (Q, concussion)",
-        "NYJ WR room: Omar Cooper Jr. (OUT), Isaiah Williams (OUT)",
+        "LAC secondary: Rodney Shelley (IR), Kendall Williamson (OUT), Isas Waxter (Q), Tarheeb Still (Q)",
+        "LAC pass catchers: McConkey (Q, expected to play), Brenen Thompson (D), Kolar (Q, concussion)",
+        "NYJ WR room: Omar Cooper Jr. (OUT), Isaiah Williams (OUT); Sterling Shepard elevated",
         "NYJ DL: David Onyemata (OUT, stays on IR), Harrison Phillips (Q)"
       ],
       "replacements": [
         {
           "out": "Omar Cooper Jr. + Isaiah Williams (NYJ WRs, Out)",
-          "replacement": "Not confirmed",
+          "replacement": "Sterling Shepard (elevated Sat) + depth; Breece Hall may see more touches (Glenn, 11/21)",
           "dropoff": "Moderate"
         },
         {
@@ -3210,7 +3214,7 @@
         },
         {
           "out": "Rodney Shelley / Kendall Williamson (LAC DBs, Out)",
-          "replacement": "Deane Leonard / Genesis Smith more snaps (per RotoWire, esp. if Still sits)",
+          "replacement": "Deane Leonard / Genesis Smith; DB Jalyn Armour-Davis elevated Sat",
           "dropoff": "Moderate"
         },
         {
@@ -3220,18 +3224,17 @@
         }
       ],
       "conflicts": [
-        "nfl.com/injuries?team=nyj view still showed older (Wed) data; main nfl.com/injuries page had Fri statuses - used main page.",
-        "Search results titled 'Jets final injury report Week 11 vs Chargers' (SI, newyorkjets.com, chargers.com) are Nov 2020 (Darnold/Bosa) - stale, ignored.",
-        "Spread: bet365 (SBR) LAC -3.5 vs DraftKings (VegasInsider) LAC -3 - book split, both 11/20.",
-        "SI 11/17 preview listed Geno Smith / Cooper / Brownlee as questionable - pre-report placeholder; Friday official report supersedes (Brownlee not on report)."
+        "Spread book split: FanDuel LAC -3 (-116) Sun vs bet365 LAC -3.5 (Fri, not updated). Used newest (FanDuel).",
+        "Search results titled 'Jets final injury report Week 11 vs Chargers' (SI etc.) are Nov 2020 - stale, ignored.",
+        "Bud Dupree: listed no-designation (rest) on Fri report but requested release (ESPN Fowler 11/20); no resolution found Sun."
       ],
       "unknowns": [
         {
-          "what": "Kolar concussion clearance; McConkey, Still, Waxter game-time status",
+          "what": "Kolar concussion clearance; Still, Waxter game-time status (no Sunday news)",
           "known_by": "Sun 11/22 11:35 AM PT inactives"
         },
         {
-          "what": "Inactives (Thompson doubtful; NYJ Phillips, Ossai, Parham, Wallace Q)",
+          "what": "Inactives (Thompson doubtful; NYJ Phillips, Ossai, Parham, Wallace Q; McConkey confirm)",
           "known_by": "Sun 11/22 11:35 AM PT"
         },
         {
@@ -3239,7 +3242,7 @@
           "known_by": "Sun 11/22 11:35 AM PT inactives"
         },
         {
-          "what": "Done Sat: LAC elevated DB Jalyn Armour-Davis; NYJ elevated WR Sterling Shepard",
+          "what": "Done Sat: LAC Shelley to IR, Pipkins activated, DB Jalyn Armour-Davis elevated; NYJ elevated WR Sterling Shepard",
           "known_by": "done"
         }
       ],
@@ -3394,7 +3397,7 @@
           "practice": "Wed DNP · Thu DNP · Fri DNP",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Placed on IR Sat 11/21. | Ankle. Ruled OUT.",
           "source": "NFLTR Sat 11/21 + nfl.com/injuries (Week 11, Fri 11/20 statuses); RotoWire 11/20; ESPN gameId 401873074",
@@ -3433,11 +3436,11 @@
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 70,
+          "play_pct": 90,
           "type": "injury",
-          "note": "Back. LP all week; questionable.",
-          "source": "nfl.com/injuries (Week 11, Fri 11/20 statuses); RotoWire 11/20; ESPN gameId 401873074",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Back. LP all week; questionable. EXPECTED TO PLAY per Ian Rapoport (Sun 11/22).",
+          "source": "Ian Rapoport (NFL Network) via RotoWire 11/22; nfl.com/injuries (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "LAC",
@@ -3498,11 +3501,11 @@
           "practice": "Thu DNP · Fri FP",
           "estimated": false,
           "status": "none",
-          "play_pct": 98,
-          "type": "rest",
-          "note": "Rest. No designation.",
-          "source": "nfl.com/injuries (Week 11, Fri 11/20 statuses)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "play_pct": 70,
+          "type": "personal",
+          "note": "Rest DNP Thu, FP Fri, no designation. Requested release (ESPN Fowler, Fri 11/20); Chargers had not granted it - no update found Sun 11/22. Availability unclear until inactives.",
+          "source": "nfl.com/injuries (Fri 11/20); ProFootballRumors citing ESPN Jeremy Fowler (Fri 11/20)",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         },
         {
           "team": "LAC",
@@ -3529,69 +3532,56 @@
           "note": "Ankle. NEW - added to report Fri as limited; RotoWire calls late addition a negative sign. Deane Leonard / Genesis Smith next up.",
           "source": "nfl.com/injuries (Fri 11/20); RotoWire 11/20; ESPN gameId 401873074",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
-        },
-        {
-          "practice": "",
-          "estimated": false,
-          "status": "none",
-          "play_pct": null,
-          "type": "personal",
-          "note": "Requested release (ESPN Fowler, Fri 11/20); Chargers had not granted it. Availability unclear.",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT",
-          "team": "LAC",
-          "player": "Bud Dupree",
-          "pos": "OLB",
-          "source": "ProFootballRumors citing ESPN Jeremy Fowler (Fri 11/20)"
         }
       ]
     },
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873069",
       "away": "JAX",
       "home": "NYG",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:32 AM PT",
+      "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
-        "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM, Wed-Fri + game status)",
-        "nfl.com/injuries (Week 11 - Fri statuses posted)",
-        "RotoWire betting game page (Nov 19-20 news items)",
-        "SportsbookReview Week 11 odds (bet365, upd. Fri 11/20 8:14 AM ET)",
-        "Dimers JAX-NYG odds (upd. Fri 11/20 1:39 AM ET)",
-        "SI betting preview (FanDuel, 11/17)",
-        "VegasInsider Week 11 odds (upd. 11/20)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
-        "nfl.com Saturday 11/21 news roundup"
+        "RotoWire betting game page id 2978785 (news through Sun 11/22; inactives 'none reported yet' at ~8:15 AM PT)",
+        "RotoWire Jordan Davis player page (Schefter 11/22)",
+        "jaguars.com 'Quick thoughts before Week 11 vs Giants' (Thu 11/19 2:40 PM)",
+        "FanDuel Research Week 11 odds page (embedded FanDuel odds, fetched Sun ~8:17 AM PT)",
+        "abc7/ESPN Week 11 odds article (upd. Fri 11/20 8:26 PM)",
+        "SportsbookReview Week 11 odds (still bet365 Fri 11/20 8:14 AM ET - not updated)",
+        "theScore event 140733 (confirms JAX @ NYG Sun 11/22, MetLife)",
+        "WebSearch for ESPN event id (surprisesports.com live-score URL jaguars-vs-giants-401873069)"
       ],
       "sources_unreachable": [
-        "jaguars.com Friday report not separately confirmed (giants.com + nfl.com used)",
-        "ESPN event ID: espn.com/nfl/game/_/gameId/401873075 guess blocked (permission not answered) - ID still unknown",
-        "No odds source updated after Friday's ~1 PM PT injury reports found"
+        "ESPN odds page gameId 401873069 (fetch permission timed out) - id not verified on espn.com",
+        "surprisesports.com page (client error; id taken from its URL only)",
+        "site.api.espn.com scoreboard API (proxy 403)",
+        "jaguars.com / giants.com Sunday inactives not yet posted (due 11:55 AM PT)"
       ],
-      "line_before": "JAX -6 / O/U 46.5 (VegasInsider, Thu 11/19 6:56 PM; ML JAX -263 / NYG +217)",
-      "line_now": "JAX -5.5 / O/U 46.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML JAX -270 / NYG +220). Dimers Fri 1:39 AM ET: JAX -5.5, 46.5.",
-      "line_moved_on_news": "Half-point toward NYG (JAX -6 -> -5.5), but not clearly injury-driven: Hainsey being out was already reported Thu and FanDuel had -5.5 back on 11/17 - likely book difference. Total unchanged 46.5.",
+      "line_before": "JAX -5.5 / O/U 46.5 (bet365 via SportsbookReview, Fri 11/20 8:14 AM ET; ML JAX -270 / NYG +220). Earlier VegasInsider Thu: JAX -6.",
+      "line_now": "JAX -5.5 (-120) / O/U 46.5 (O +100 / U -120) (FanDuel via FanDuel Research odds page, Sun 11/22 ~8:17 AM PT; ML JAX -260 / NYG +215). abc7/ESPN Fri 8:26 PM: ML JAX -266 / NYG +219, total 46.5.",
+      "line_moved_on_news": "Number unchanged at JAX -5.5 but juice now -120 (leaning toward -6); total 46.5 unchanged, under juiced. Schefter's Sun report that Jordan Davis + Jessie Bates III debut is JAX-positive; Striggow OUT already known Sat.",
       "top3": [
+        {
+          "player": "Jordan Davis + Jessie Bates III",
+          "team": "JAX",
+          "why": "NEW: trade-deadline adds (DT from PHI, S from ATL) slated to make Jaguars debut Sunday per Adam Schefter (11/22). Big run-D/secondary boost."
+        },
         {
           "player": "Robert Hainsey",
           "team": "JAX",
-          "why": "Starting C officially OUT (knee). Monheim (LP all week, ankle, no designation) starts."
-        },
-        {
-          "player": "Bhayshul Tuten",
-          "team": "JAX",
-          "why": "Back to LP Fri, no designation - cleared. JAX RB room (Allen, Rodriguez) all available."
+          "why": "Starting C OUT (knee). Jonah Monheim (LP all week, ankle) makes first start; C Eli Cox elevated."
         },
         {
           "player": "Isaiah Likely",
           "team": "NYG",
-          "why": "TE added Fri as DNP (groin strain) yet no designation - watch inactives."
+          "why": "TE added Fri as DNP (groin strain), no designation - no Sunday update; watch inactives."
         }
       ],
       "clusters": [
-        "JAX OL: Robert Hainsey OUT (knee), Jonah Monheim LP-LP-LP (ankle) starting at C, Cole Van Lanen LP Fri (nfl.com only)",
-        "JAX DL: Dickerson (Q, neck), Striggow (Q, concussion), B.J. Green II (OUT, IR)"
+        "JAX OL: Robert Hainsey OUT (knee), Jonah Monheim (ankle) starting at C, Cole Van Lanen LP Fri, LT Anton Harrison out for season",
+        "JAX DL: Striggow OUT (concussion), Dickerson (Q, neck), B.J. Green II (IR) - offset by Jordan Davis debut"
       ],
       "replacements": [
         {
@@ -3601,14 +3591,19 @@
         },
         {
           "out": "Robert Hainsey (JAX C, Out)",
-          "replacement": "Jonah Monheim (LP all week, ankle; no designation)",
-          "dropoff": "Small-moderate; Monheim played the 2nd half vs TEN."
+          "replacement": "Jonah Monheim (first start of season, per jaguars.com)",
+          "dropoff": "Small-moderate"
+        },
+        {
+          "out": "Danny Striggow (JAX DE, Out)",
+          "replacement": "Not confirmed",
+          "dropoff": "Minimal"
         }
       ],
       "conflicts": [
         "Armstead and Cole Van Lanen appear on nfl.com's Fri list but not on giants.com's Fri report - included both with no designation.",
-        "Isaiah Likely DNP Fri (groin) with no game designation (giants.com, RotoWire) - unusual; treated as expected to play but flagged.",
-        "Spread: bet365/Dimers JAX -5.5 vs prior VegasInsider/Hard Rock -6 (Wed quote) - book split rather than confirmed move."
+        "Isaiah Likely DNP Fri (groin) with no game designation - unusual; treated as likely to play but flagged. No Sunday update.",
+        "ESPN event id 401873069 comes only from a third-party live-score URL (surprisesports.com) - fits Week 11 id range (PIT@PHI 401873076, NYJ@LAC 401873074) but not verified on espn.com."
       ],
       "unknowns": [
         {
@@ -3616,19 +3611,19 @@
           "known_by": "Sun 11/22 11:55 AM PT"
         },
         {
-          "what": "Dickerson, Striggow (Q) game-time status",
+          "what": "Dickerson (Q) game-time status",
           "known_by": "Sun 11/22 11:55 AM PT"
         },
         {
-          "what": "Inactives",
+          "what": "Inactives (confirm Davis/Bates active)",
           "known_by": "Sun 11/22 11:55 AM PT"
         },
         {
-          "what": "ESPN event ID for JAX@NYG",
-          "known_by": "Not found this run"
+          "what": "Verify ESPN event id 401873069 on espn.com",
+          "known_by": "Any time"
         },
         {
-          "what": "Done Sat: JAX elevated C Eli Cox; NYG elevated RB Phil Mafah + DE Dawuane Smoot",
+          "what": "Done Sat: JAX Striggow downgraded OUT, elevated C Eli Cox; NYG elevated RB Phil Mafah + DE Dawuane Smoot",
           "known_by": "done"
         }
       ],
@@ -3744,7 +3739,7 @@
           "practice": "IR",
           "estimated": false,
           "status": "IR",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Knee; season-ending surgery after Week 2 injury. Jameis Winston starting.",
           "source": "giants.com (9/24/2026)",
@@ -3876,7 +3871,7 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "SAT: DOWNGRADED TO OUT (concussion). Concussion. Questionable.",
+          "note": "Concussion. LP Wed-Fri, Questionable Fri; DOWNGRADED TO OUT Sat 11/21.",
           "source": "nfl.com Saturday 11/21 news roundup + giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM); nfl.com/injuries (Fri 11/20)",
           "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
@@ -3913,7 +3908,7 @@
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
           "status": "Out",
-          "play_pct": 0,
+          "play_pct": null,
           "type": "injury",
           "note": "Forearm; IR (designated to return). Ruled OUT - stays on IR at least one more week.",
           "source": "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM); nfl.com/injuries (Fri 11/20); RotoWire 11/20",
@@ -3931,88 +3926,130 @@
           "note": "Injury not stated. Appears only on nfl.com Fri list (LP, no designation); not on giants.com report.",
           "source": "nfl.com/injuries (Fri 11/20)",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Jordan Davis",
+          "pos": "DT",
+          "practice": "Full week of practice (per RotoWire)",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "unknown",
+          "note": "Trade-deadline acquisition from PHI; sat out Week 10 to acclimate. Slated to make Jaguars debut Sunday and should start at DT (Adam Schefter, 11/22).",
+          "source": "Adam Schefter (ESPN) via RotoWire 11/22; jaguars.com 11/19",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
+        },
+        {
+          "team": "JAX",
+          "player": "Jessie Bates III",
+          "pos": "S",
+          "practice": "Not on injury report",
+          "estimated": false,
+          "status": "none",
+          "play_pct": 95,
+          "type": "unknown",
+          "note": "Trade-deadline acquisition from ATL; sat out Week 10. Slated to make Jaguars debut Sunday (Adam Schefter, 11/22).",
+          "source": "Adam Schefter (ESPN) via RotoWire game page 11/22; jaguars.com 11/19",
+          "pulled_at": "Sun 11/22 ~8:32 AM PT"
         }
       ]
     },
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873075",
       "away": "LV",
       "home": "DEN",
       "kickoff": "2026-11-22T21:25:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:12 AM PT",
+      "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 2026 (Fri eve; game statuses posted)",
-        "raiders.com 'Raiders-Broncos Week 11 Injury Report' (Fri 11/20 1:45 PM; includes DEN)",
-        "denverbroncos.com Lohner IR-window article (Wed 11/18 3:44 PM MT) + Wed injury report (11/18)",
-        "PrizePicks Bowers update citing Rapoport/Florio (11/16)",
-        "Fox Sports game page odds (modified Fri 11/20 ~3:36 AM PT)",
-        "VegasInsider Week 11 odds consensus (updated Thu 11/19 late)",
-        "SportsbookReview Week 11 odds via bet365 (Fri 11/20 8:14 AM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
+        "CBS Sports/RotoWire 'Raiders' Brock Bowers: Trending in wrong direction' citing Adam Schefter on ESPN NFL Countdown (Sun 11/22 10:54 AM ET)",
+        "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
+        "SI 'Is Brock Bowers Playing Today?' (Sun 11/22 10:23 UTC)",
+        "Yahoo/Athlon 'Raiders Make 2 Telling Roster Moves Before Broncos Clash' (Sun 11/22 02:27 UTC)",
+        "Yahoo Week 11 live blog (updated Sun 11/22 14:07 UTC) -- no inactives yet",
+        "PFT 'Brock Bowers, Matt Gay questionable' (Fri 11/20 21:08 UTC)",
+        "RotoWire Matt Gay note (Fri 11/20 8:40 PM) citing Sam Warren/The Athletic",
+        "atozsports + Yahoo/Athlon kicker tryouts article (Thu 11/19)",
+        "Fox Sports game page odds (modified Sun 11/22 12:33 UTC = 4:33 AM PT)",
+        "Search result URL surprisesports.com/.../raiders-vs-broncos-401873075 (ESPN event id)",
+        "Carried from Sat run: nfl.com/injuries Wk 11, raiders.com Fri injury report (11/20), NFLTR Sat 11/21 transactions"
       ],
       "sources_unreachable": [
-        "denverbroncos.com Friday injury-report article not found -- DEN Fri statuses from raiders.com + nfl.com",
-        "espn.com/nfl/team/injuries/_/name/lv (permission timed out)",
-        "No Friday Kubiak presser quotes found on Bowers/Gay; ESPN event ID not found (left blank)"
+        "Official inactives not yet posted (due Sun 11/22 11:55 AM PT)",
+        "reviewjournal.com elevation article (fetch failed)",
+        "site.api.espn.com scoreboard (proxy 403) -- ESPN id 401873075 taken from a third-party score URL; consistent with ESPN Wk 11 numbering (MIN@SF 401873077, CIN@WSH 401873078) but not verified on espn.com",
+        "surprisesports.com page itself (fetch failed)"
       ],
-      "line_before": "DEN -10 / O/U 40.5 (Fox Sports + VegasInsider consensus DEN -10 (-112), Thu 11/19)",
-      "line_now": "DEN -10.5 / O/U 40.5 (Fox Sports Fri 11/20; VegasInsider consensus DEN -10.5 (-105); bet365 via SBR DEN -10.5, Fri 8 AM ET)",
-      "line_moved_on_news": "Spread ticked DEN -10 -> -10.5 (total flat 40.5). Not clearly injury-driven -- book notes say it has toggled -10/-10.5 all week; LV DT Hemingway ruled out and Bowers/Gay questionable are consistent with it.",
+      "line_before": "DEN -10.5 / O/U 40.5 (Fox Sports + VegasInsider + bet365, Fri 11/20; was DEN -10 Thu 11/19)",
+      "line_now": "DEN -10.5 / O/U 40.5, ML DEN -602 / LV +450 (Fox Sports, Sun 11/22 4:33 AM PT)",
+      "line_moved_on_news": "No move since Fri: spread -10.5, total 40.5 flat as of 4:33 AM PT, before Schefter's 7:54 AM PT pessimistic Bowers report. Watch for a tick toward DEN -11 / total down if Bowers is inactive.",
       "top3": [
         {
           "player": "Brock Bowers",
           "team": "LV",
-          "why": "Questionable after DNP-LP-LP (ankle/quad). LV's top target; insiders earlier said 'should be good to go'. Inactives decide it."
+          "why": "Questionable; Schefter Sun AM: 'not a lot of optimism' he plays -- leans OUT. LV's top target; Mayer/Runyon would absorb TE work. Decided after warmups."
         },
         {
           "player": "Matt Gay",
           "team": "LV",
-          "why": "Kicker Questionable (right hip), LP-DNP-LP. Watch for a Saturday practice-squad K elevation as a tell."
+          "why": "K Questionable (hip). No K signed/elevated after Thu tryouts -- leans plays; Matsuzawa (PS) not elevated."
         },
         {
           "player": "Tonka Hemingway",
           "team": "LV",
-          "why": "DT ruled OUT (stinger); Fatukasi (toe) questionable but full Friday -- LV DT depth thinned vs DEN run game."
+          "why": "DT ruled OUT (stinger); Fatukasi (toe) Q, DT Chris Williams elevated -- LV DT depth thin vs DEN run game."
         }
       ],
       "clusters": [
-        "LV DT: Tonka Hemingway OUT (stinger); Folorunso Fatukasi Questionable (toe, FP Fri); Thomas Booker FP, no status"
+        "LV DT: Tonka Hemingway OUT; Folorunso Fatukasi Q (toe); DT Chris Williams elevated Sat",
+        "LV TE: Bowers Q (leaning out per Schefter); TE Carter Runyon elevated; Michael Mayer the main fill-in"
       ],
       "replacements": [
         {
+          "out": "Brock Bowers (LV TE) -- if out",
+          "replacement": "Michael Mayer (+ elevated Carter Runyon, Ian Thomas)",
+          "dropoff": "Large -- Bowers is LV's top receiver (50-676-6 in 8 games)."
+        },
+        {
           "out": "Tonka Hemingway (LV DT, stinger)",
-          "replacement": "Thomas Booker / Folorunso Fatukasi (if active)",
+          "replacement": "Thomas Booker / Chris Williams (elevated) / Fatukasi (if active)",
           "dropoff": "Small-moderate in run defense."
+        },
+        {
+          "out": "Matt Gay (LV K) -- if out",
+          "replacement": "Kansei Matsuzawa (PS; would need elevation) -- none elevated as of Sat",
+          "dropoff": "Moderate (Gay 21/23 FG)."
         },
         {
           "out": "Caleb Lohner (DEN TE, IR -- not activated)",
           "replacement": "Existing DEN TE room (no change)",
-          "dropoff": "None vs prior weeks -- he hasn't played."
+          "dropoff": "None vs prior weeks."
         }
       ],
       "conflicts": [
-        "Caleb Lohner listed OUT despite FP all week -- explained: still on IR in 21-day window, not activated (denverbroncos.com 11/18).",
-        "nfl.com lists Zuhn as C, raiders.com as G; Fatukasi as 'Foley' on nfl.com. Official reports otherwise agree.",
-        "nfl.com page header shows kickoff 4:25 PM ET (1:25 PM PT) -- matches."
+        "Bowers: earlier Florio source (11/16) 'should be good to go' vs Schefter Sun 11/22 AM 'not a lot of optimism' -- newer Schefter report wins.",
+        "Caleb Lohner listed OUT despite FP all week -- still on IR in 21-day window, not activated (denverbroncos.com 11/18).",
+        "nfl.com lists Zuhn as C, raiders.com as G; Fatukasi as 'Foley' on nfl.com.",
+        "Kickoff: nfl.com 4:25 PM ET; Fox Sports 'Today 9:25PM' (UTC) -- both = 1:25 PM PT."
       ],
       "unknowns": [
         {
-          "what": "Whether LV elevates/signs a kicker (Gay hip) -- tell for Gay's availability",
-          "known_by": "Sat 11/21 ~1:00 PM PT (practice-squad elevations)"
-        },
-        {
-          "what": "Inactives: Bowers, Gay, Fatukasi (LV); Brandon Jones (DEN)",
+          "what": "Inactives: Bowers (leaning out), Gay, Fatukasi (LV); Brandon Jones (DEN)",
           "known_by": "Sun 11/22 11:55 AM PT"
         },
         {
-          "what": "Pregame reports on Bowers game-time decision (Schefter/Rapoport/Pelissero)",
-          "known_by": "Sun 11/22 ~10:00-11:30 AM PT"
+          "what": "Bowers final call after pregame warmups / any insider update",
+          "known_by": "Sun 11/22 ~11:00-11:55 AM PT"
         },
         {
-          "what": "LV Sat elevations were TE Carter Runyon + DT Chris Williams - no kicker added (hint Gay expected to kick, unconfirmed). DEN elevated G Gavin Ortega + RB Cody Schrader, signed S Taylor Rapp",
-          "known_by": "Sun 11/22 11:55 AM PT inactives"
+          "what": "Any game-day kicker elevation (would signal Gay out) -- none as of Sat",
+          "known_by": "Sun 11/22 11:55 AM PT"
+        },
+        {
+          "what": "Line reaction to Schefter Bowers report",
+          "known_by": "Sun 11/22 before 1:25 PM PT kickoff"
         }
       ],
       "players": [
@@ -4023,11 +4060,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 60,
+          "play_pct": 30,
           "type": "injury",
-          "note": "Ankle/quadriceps; hurt Week 10. DNP-LP-LP, QUESTIONABLE. Rapoport (11/16): not major, day-to-day; Florio source (11/16): 'should be good to go'.",
-          "source": "raiders.com 'Raiders-Broncos Week 11 Injury Report' (Fri 11/20 1:45 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "SUN: Schefter (ESPN NFL Countdown, ~7:54 AM PT) -- 'not a lot of optimism' Bowers plays, though he is 'pushing to play'; decision after pregame warmups (~90 min before kick). LV elevated TE Carter Runyon Sat (hedge). Michael Mayer bigger role if out. Earlier: ankle/quad, hurt Week 10 (11 snaps); DNP-LP-LP, QUESTIONABLE; Rapoport (11/16) day-to-day.",
+          "source": "CBS Sports/RotoWire citing Adam Schefter/ESPN (Sun 11/22 10:54 AM ET) + Footballguys (Sun 10:55 AM ET) + raiders.com Fri injury report (11/20) + nfl.com/injuries Wk 11",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "LV",
@@ -4049,11 +4086,11 @@
           "practice": "Wed LP · Thu DNP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 85,
+          "play_pct": 75,
           "type": "injury",
-          "note": "Toe; LP-DNP-FP, Questionable but finished week full.",
-          "source": "raiders.com 'Raiders-Broncos Week 11 Injury Report' (Fri 11/20 1:45 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Toe; LP-DNP-FP, Questionable but finished week full. Athlon (Sat night) notes DT Chris Williams elevation may hint Fatukasi is not 100%.",
+          "source": "raiders.com Fri report (11/20) + nfl.com/injuries Wk 11 + Yahoo/Athlon (Sun 11/22 02:27 UTC)",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "LV",
@@ -4062,11 +4099,11 @@
           "practice": "Wed LP · Thu DNP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 60,
+          "play_pct": 70,
           "type": "injury",
-          "note": "Right hip; LP-DNP-LP, QUESTIONABLE. No kicker signing/elevation found yet.",
-          "source": "raiders.com 'Raiders-Broncos Week 11 Injury Report' (Fri 11/20 1:45 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Right hip; LP-DNP-LP, QUESTIONABLE. LV worked out FA kickers Havrisik, Koo, Romo Thu 11/19 but signed none; Sat elevations were TE Runyon + DT Chris Williams, NOT PS K Kansei Matsuzawa -- read as Gay expected to kick (Athlon/Yahoo, RotoWire 'better than 50/50'). No Sunday insider report found.",
+          "source": "Yahoo/Athlon (Sun 11/22 02:27 UTC) + atozsports kicker tryouts (Thu 11/19) + RotoWire citing Sam Warren/The Athletic (Fri 11/20) + raiders.com Fri report",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "LV",
@@ -4232,33 +4269,33 @@
       "home": "SF",
       "kickoff": "2026-11-23T01:20:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:12 AM PT",
+      "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
-        "nfl.com/injuries Week 11 2026 (Fri eve; game statuses posted)",
-        "vikings.com 'Vikings at 49ers Injury Report Week 11 2026' (Fri 11/20 1:15 PM)",
-        "ESPN 49ers injuries page (RotoWire data, Evans note 11/20)",
-        "RotoWire game page MIN@SF (notes 11/18-11/20)",
-        "NBC Sports Bay Area Evans article (11/18)",
-        "Fox Sports odds page (modified Fri 11/20 3:43 PM PT)",
-        "ESPN game page 401873077 (DraftKings odds)",
-        "VegasInsider Week 11 consensus; SportsbookReview/bet365 (Fri 8 AM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
-        "The Spun citing Mike Garafolo/NFL Network (Sat 11/21 4:55 PM ET)",
-        "Yahoo/SB Nation \"49ers waive Brandin Cooks, activate C.J. West\" (Sat 11/21 21:37 UTC)"
+        "Yahoo 'Is Mike Evans playing tonight?' (Sun 11/22 12:52 UTC) citing Garafolo/NFL Network",
+        "NFL.com 'Niners WR Mike Evans (Achilles) expected to play Sunday vs. Vikings' (Sat 11/21, Garafolo)",
+        "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
+        "FSD Morning Brief Sun 11/22 (aggregator)",
+        "Yahoo Week 11 live blog (updated Sun 11/22 14:07 UTC)",
+        "ESPN 49ers injuries page (RotoWire notes through 11/20)",
+        "Fox Sports odds page (modified Sun 11/22 02:52 UTC = Sat 6:52 PM PT)",
+        "SI/FanDuel odds article (11/18)",
+        "Carried from Sat run: vikings.com Fri report, nfl.com/injuries Wk 11, NFLTR Sat 11/21, Yahoo/SB Nation Cooks waived/West activated"
       ],
       "sources_unreachable": [
-        "49ers.com/team/injury-report/week/REG-11 (permission timed out) -- SF Friday participation taken from nfl.com latest-day column; vikings.com SF Friday column blank",
-        "No 49ers.com Friday article found"
+        "Official inactives not yet posted (due Sun 11/22 3:50 PM PT)",
+        "actionnetwork.com game odds page (fetch failed)",
+        "No Sunday-morning (post-6 AM PT) sportsbook line found; most recent is Fox Sports Sat 6:52 PM PT",
+        "49ers.com injury report (timed out Sat; not retried)"
       ],
-      "line_before": "SF -3 / O/U 46.5 (Fox Sports, Thu 11/19 ~2 PM PT; VegasInsider shows SF -3 to -3.5)",
-      "line_now": "SF -3.5 / O/U 46.5 (Fox Sports Fri 11/20 3:43 PM PT; bet365 via SBR SF -3.5; DraftKings/VegasInsider SF -3 (-118))",
-      "line_moved_on_news": "Minor: SF -3 -> -3/-3.5 split, total flat 46.5. Not clearly injury-driven (Addison/Murray Out were expected; Evans still Questionable).",
+      "line_before": "SF -3.5 / O/U 46.5 (Fox Sports Fri 11/20 3:43 PM PT; DK/VegasInsider SF -3 (-118)); opener SF -3 / 46.5 (FanDuel 11/18)",
+      "line_now": "SF -3.5 / O/U 46.5, ML SF -171 / MIN +144 (Fox Sports, Sat 11/21 6:52 PM PT -- after Garafolo Evans report)",
+      "line_moved_on_news": "No move on Evans 'expected to play' news: still SF -3.5 / 46.5 after Garafolo's Sat report. Earlier SF -3 -> -3.5 drift was not clearly injury-driven.",
       "top3": [
         {
           "player": "Mike Evans",
           "team": "SF",
-          "why": "WR1 back from Achilles: Garafolo (Sat) reports expected to play SNF; SF waived Brandin Cooks. Officially Questionable."
+          "why": "WR1 back from Achilles: Garafolo (Sat) expected to play SNF, reiterated Sun AM; SF waived Brandin Cooks. Officially Questionable; snap count may be managed."
         },
         {
           "player": "Jordan Addison",
@@ -4294,22 +4331,22 @@
         }
       ],
       "conflicts": [
-        "Stale nfl.com /injuries/league/2026/reg11 cached page still showed Thursday data (no statuses); fresh nfl.com/injuries used.",
-        "Nate Hobbs injury: 'adductor' (Thu reports) vs 'groin' (nfl.com Fri) -- same area.",
-        "Spread SF -3 (DraftKings/VegasInsider) vs -3.5 (Fox, bet365) -- books split."
+        "Venue: game is in Mexico City (Estadio Banorte per Fox Sports/ESPN notes) -- SF is designated home team. Kickoff 8:20 PM ET = 5:20 PM PT (Fox lists 'Mon 1:20 AM' UTC).",
+        "Nate Hobbs injury: 'adductor' (Thu) vs 'groin' (nfl.com Fri) -- same area.",
+        "Spread SF -3 (DraftKings/VegasInsider, Fri) vs -3.5 (Fox, bet365) -- books split; Fox still -3.5 Sat night."
       ],
       "unknowns": [
         {
-          "what": "Mike Evans decision (Shanahan)",
-          "known_by": "Sat 11/21 (49ers presser/practice ~midday PT)"
-        },
-        {
-          "what": "Inactives: Evans, Greenlaw, Stout, Gifford, Kareem, James (SF); Rodgers, Ward (MIN)",
+          "what": "Inactives: Evans (expected active), Greenlaw, Stout, Gifford, Kareem, James, Mac Jones (SF); Rodgers, Ward (MIN)",
           "known_by": "Sun 11/22 3:50 PM PT"
         },
         {
-          "what": "Nate Hobbs activation (not seen Sat)",
-          "known_by": "Sun 11/22 3:50 PM PT inactives"
+          "what": "Evans snap count/role (limited?)",
+          "known_by": "In-game, Sun 11/22 5:20 PM PT+"
+        },
+        {
+          "what": "Sunday line move (no Sun-AM book line found)",
+          "known_by": "Before 5:20 PM PT kickoff"
         }
       ],
       "players": [
@@ -4463,11 +4500,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 85,
+          "play_pct": 88,
           "type": "injury",
-          "note": "SAT: Garafolo reports Evans EXPECTED TO PLAY SNF; SF waived WR Brandin Cooks Sat. Still officially Questionable. Achilles tendinitis; missed last 3 games. DNP-LP-LP, QUESTIONABLE; Shanahan says decision comes Saturday.",
-          "source": "The Spun citing Mike Garafolo/NFL Network (Sat 11/21 4:55 PM ET) + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Sat 11/21 ~7:20 PM PT"
+          "note": "Expected to PLAY (Garafolo/NFL Network Sat, re-reported Sun AM by Yahoo); FSD brief (aggregator) mentions a likely limited snap count -- unconfirmed by an insider. SF waived WR Brandin Cooks Sat. Still officially Questionable. Achilles tendinitis; missed last 3 games; DNP-LP-LP.",
+          "source": "Yahoo (Sun 11/22 12:52 UTC) + NFL.com citing Mike Garafolo (Sat 11/21) + nfl.com/injuries Wk 11 (Fri) + FSD Morning Brief (Sun 11/22)",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "SF",
@@ -4515,11 +4552,11 @@
           "practice": "Wed LP · Thu DNP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 65,
+          "play_pct": 75,
           "type": "illness",
-          "note": "Illness (backup QB); back to limited Friday, Questionable.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "Illness (backup QB); back to limited Friday, Questionable. Footballguys (Sun AM) outlook optimistic.",
+          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20) + Footballguys (Sun 11/22 10:55 AM ET)",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "SF",
@@ -4621,8 +4658,8 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "SAT: reported OUT Sunday - not activated; SF has until Wed to activate or his season ends. NOT on Saturday transaction list - must be activated to play; confirm (SNF roster deadline Sat 4 PM ET). | Groin/adductor; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
-          "source": "Yahoo/SB Nation \"49ers waive Brandin Cooks, activate C.J. West\" (Sat 11/21 21:37 UTC) + NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
+          "note": "Not activated from IR by Sat roster deadline -- reported OUT Sunday; SF has until Wed to activate or season ends. Groin/adductor; FP all week, was listed Questionable.",
+          "source": "Yahoo/SB Nation (Sat 11/21 21:37 UTC) + NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri)",
           "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
         {
@@ -4647,7 +4684,7 @@
           "status": "Questionable",
           "play_pct": 85,
           "type": "injury",
-          "note": "Activated from IR Sat 11/21 - eligible. | Knee; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
+          "note": "Knee; activated from IR Sat 11/21 -- eligible. FP all week, Questionable.",
           "source": "NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
           "pulled_at": "Sat 11/21 ~6:55 PM PT"
         },
@@ -4763,23 +4800,24 @@
       "home": "WSH",
       "kickoff": "2026-11-24T01:15:00Z",
       "week": 11,
-      "pulled_at": "Sat 11/21 ~6:55 PM PT",
-      "pulled_iso": "2026-11-22T02:55:00Z",
+      "pulled_at": "Sun 11/22 ~8:12 AM PT",
+      "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
-        "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
-        "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
-        "Yahoo/SI Bengals On SI - Burks to IR (Sat 11/21 10:15 AM PT)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
-        "Fox Sports odds tab (Sat 11/21)",
-        "SI betting (Thu 11/19)"
+        "commanders.com 'Commanders vs. Bengals Week 11 injury report' (Thu-Sat table + game statuses, fetched Sun 11/22 ~8:05 AM PT)",
+        "CBS Sports/RotoWire 'Croskey-Merritt: Expected to return for MNF' citing Matt Zenitz/CBS (Sat 11/21 6:35 PM ET)",
+        "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
+        "FSD Morning Brief Sun 11/22 (aggregator)",
+        "Fox Sports odds tab (modified Sat 11/21 16:07 UTC = 8:07 AM PT)",
+        "Web search for Sunday Bengals/Commanders roster moves, Dax Hill news -- nothing new found"
       ],
       "sources_unreachable": [
-        "cincyjungle.com and hogshaven.com injury reports (robots-blocked)",
-        "nfl.com/injuries Saturday page not fetched directly - team site + atozsports used"
+        "cincyjungle.com and hogshaven.com (robots-blocked)",
+        "No Sunday sportsbook line found -- latest is Fox Sports Sat 8:07 AM PT",
+        "Official inactives not until Mon 11/23 3:45 PM PT"
       ],
-      "line_before": "CIN -3.5 / O/U 51.5 (opener per SI); CIN -6.5 / 54.5 Fri 11/20 (Fox)",
-      "line_now": "CIN -6.5 / O/U 54.5, ML CIN -294 / WSH +238 (Fox Sports, Sat 11/21 8:07 AM PT)",
-      "line_moved_on_news": "No move on Saturday injury news (Risner Out was expected); spread/total unchanged from Friday.",
+      "line_before": "CIN -6.5 / O/U 54.5 (Fox Sports Fri 11/20); opener CIN -3.5 / 51.5 (SI)",
+      "line_now": "CIN -6.5 / O/U 54.5 (O -110 / U -126), ML CIN -294 / WSH +238 (Fox Sports, Sat 11/21 8:07 AM PT -- no newer line found Sun AM)",
+      "line_moved_on_news": "No move on weekend news; Croskey-Merritt expected activation (Zenitz Sat) not reflected in any newer line found.",
       "top3": [
         {
           "player": "Dalton Risner",
@@ -4794,7 +4832,7 @@
         {
           "player": "Amik Robertson / Rachaad White / Croskey-Merritt",
           "team": "WSH",
-          "why": "Slot CB Robertson new ankle injury (Q); RB White DNP Sat (Q); Croskey-Merritt Q pending IR activation - WSH backfield and nickel uncertain."
+          "why": "Slot CB Robertson new ankle injury (Q, DNP Sat); RB White DNP Sat (Q, trending to play); Croskey-Merritt Q, expected to be activated (Zenitz) - WSH backfield and nickel uncertain."
         }
       ],
       "clusters": [
@@ -4827,13 +4865,13 @@
         }
       ],
       "conflicts": [
-        "Amik Robertson Sat practice: commanders.com LP vs atozsports DNP - team site (more authoritative) used.",
+        "Amik Robertson Sat practice: commanders.com injury table (re-checked Sun) shows DNP; Sat-night read had LP -- DNP now matches atozsports, so resolved as DNP.",
         "Deatrich Wise Jr. Sat: commanders.com DNP (rest) vs atozsports LP - team site used.",
         "Total: Fox Sports 54.5 (Sat 11/21) vs SI/DraftKings 53.5 (Thu 11/19) - newer used."
       ],
       "unknowns": [
         {
-          "what": "IR activations: Croskey-Merritt (WSH); Bozeman, Parker, Davis, Iosivas (CIN)",
+          "what": "IR activations: Croskey-Merritt (WSH; expected per Zenitz); Bozeman, Parker, Davis, Iosivas (CIN)",
           "known_by": "Mon 11/23 ~1:00 PM PT (4 PM ET deadline)"
         },
         {
@@ -5048,11 +5086,11 @@
           "practice": "IR window · Thu FP · Fri FP · Sat FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 75,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Groin; Questionable, still needs IR activation. Quinn: \"finish up the last part of the process tonight and tomorrow.\"",
-          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Groin; Questionable, FP Thu-Sat. Matt Zenitz (CBS, Sat 6:35 PM ET): slated to be activated from IR for MNF. Not yet activated as of Sun AM. Quinn: 'finish up the last part of the process tonight and tomorrow.'",
+          "source": "CBS Sports/RotoWire citing Matt Zenitz (Sat 11/21 6:35 PM ET) + commanders.com Game Status (Sat 11/21)",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "team": "WSH",
@@ -5255,12 +5293,12 @@
           "pos": "RB",
           "practice": "Fri LP · Sat DNP",
           "status": "Questionable",
-          "play_pct": 55,
+          "play_pct": 60,
           "type": "injury",
-          "note": "Heel; held Sat to reduce soreness - Quinn says he has a shot to play.",
-          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
+          "note": "Heel; held Sat to reduce soreness - Quinn says he has a shot to play; commanders.com headline: White, Croskey-Merritt, Patrick 'trending towards playing'. Footballguys outlook optimistic.",
+          "source": "commanders.com Game Status (Sat 11/21) + Footballguys (Sun 11/22 10:55 AM ET)",
           "estimated": false,
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "pulled_at": "Sun 11/22 ~8:12 AM PT"
         },
         {
           "practice": "Sat DNP",
@@ -5276,17 +5314,17 @@
           "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)"
         },
         {
-          "practice": "Sat LP (commanders.com) / DNP (atoz)",
+          "practice": "Sat DNP (commanders.com table, re-checked Sun)",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 40,
+          "play_pct": 35,
           "type": "injury",
-          "note": "Ankle; hurt on last play Fri practice. Monitored 48 hrs; if out, Rasul Douglas / Mike Sainristil / Fabian Moreau.",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT",
+          "note": "Ankle; hurt on last play Fri practice; DNP Sat per commanders.com injury table (earlier read as LP). Monitored 48 hrs; if out, Rasul Douglas / Mike Sainristil / Fabian Moreau.",
+          "pulled_at": "Sun 11/22 ~8:12 AM PT",
           "team": "WSH",
           "player": "Amik Robertson",
           "pos": "CB",
-          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)"
+          "source": "commanders.com Week 11 injury report table (fetched Sun 11/22 ~8:05 AM PT)"
         },
         {
           "practice": "Sat DNP (rest)",
