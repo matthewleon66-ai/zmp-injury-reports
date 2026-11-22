@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:55:00Z",
+  "updated": "2026-11-22T03:20:00Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -20,7 +20,8 @@
         "Banged Up Bills 'Bills vs Dolphins Week 11 Injury Preview' (Fri 11/20 ~6:03 PM ET; projections)",
         "FOX Sports MIA-BUF game page odds (page created 11/20)",
         "SI Betting Dolphins-Bills (DraftKings, 11/17) for reference",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); buffalobills.com Bills Roster Moves Nov. 21"
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); buffalobills.com Bills Roster Moves Nov. 21",
+        "nfl.com Saturday 11/21 news roundup"
       ],
       "sources_unreachable": [
         "buffalobills.com/team/injury-report/week/REG-11 (fetch permission not granted)",
@@ -125,6 +126,10 @@
         },
         {
           "what": "Sat elevations done: MIA P Jack Browning + K Daniel Carlson; BUF LB Shaq Thompson + CB Tre'Davious White. Final actives",
+          "known_by": "Sun 11/22 8:30 AM PT"
+        },
+        {
+          "what": "Ed Oliver (BUF DT, oblique) - added Sat as Questionable",
           "known_by": "Sun 11/22 8:30 AM PT"
         }
       ],
@@ -557,6 +562,19 @@
           "note": "Season-ending injury in last two weeks per Yahoo/Roundtable.",
           "source": "Yahoo/Roundtable Dolphins final Week 11 report (Fri 11/20)",
           "pulled_at": "Fri 11/20 ~7:00 PM PT"
+        },
+        {
+          "team": "BUF",
+          "player": "Ed Oliver",
+          "pos": "DT",
+          "practice": "Added to report Sat",
+          "estimated": false,
+          "status": "Questionable",
+          "play_pct": 50,
+          "type": "injury",
+          "note": "Oblique; ADDED Saturday as Questionable. Practice detail not found.",
+          "source": "nfl.com Saturday 11/21 news roundup",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         }
       ]
     },
@@ -1373,7 +1391,8 @@
         "ESPN game page gameId 401873073 (DraftKings odds)",
         "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
         "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Heavy.com Cowboys roster moves (Yarrish)"
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); Heavy.com Cowboys roster moves (Yarrish)",
+        "nfl.com Saturday 11/21 news roundup"
       ],
       "sources_unreachable": [
         "dallascowboys.com official Friday report (not found in search)",
@@ -1482,11 +1501,11 @@
           "practice": "Wed DNP · Thu LP · Fri FP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 85,
+          "play_pct": 95,
           "type": "injury",
-          "note": "Concussion; DNP -> LP -> FP, listed Questionable (presumably cleared to practice fully; must be out of protocol).",
-          "source": "tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "SAT: cleared concussion protocol. Concussion; DNP -> LP -> FP, listed Questionable (presumably cleared to practice fully; must be out of protocol).",
+          "source": "nfl.com Saturday 11/21 news roundup + tennesseetitans.com Week 11 Injury Report Titans at Cowboys (updated Fri 11/20 2:36 PM CT); CBS Sports Week 11 injury report (Fri 11/20 5:42 PM ET)",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
         {
           "team": "TEN",
@@ -2202,7 +2221,8 @@
         "RotoWire game page ARI@KC (Fri 11/20 news: Beck Q, Josh Johnson expected to start)",
         "SportsbookReview Week 11 odds (bet365, Fri 11/20 8:14 AM ET)",
         "VegasInsider Week 11 odds (DraftKings, Thu 6:30 PM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors"
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams); ProFootballRumors",
+        "azcardinals.com \"Josh Johnson Start Confirmed After Carson Beck Downgraded\" (Sat 11/21, upd 2:00 PM)"
       ],
       "sources_unreachable": [
         "No post-Beck-news (Fri afternoon) sportsbook total found; RotoWire odds widget did not load",
@@ -2260,7 +2280,8 @@
         "Resolved: official azcardinals.com table shows Jayden Williams and Max Melton FP Thu (A to Z was right; Cards Wire LP was wrong).",
         "Beck starter question: RotoWire/CBS say Josh Johnson expected to start, but RotoWire projected lineup still lists Beck; official status Questionable.",
         "KC backfield: prior run had Jaydn Ott as replacement; CBS Fri names rookie Emmett Johnson as primary starter.",
-        "Darius Robinson injury knee (SI) vs wrist (team report) - wrist used."
+        "Darius Robinson injury knee (SI) vs wrist (team report) - wrist used.",
+        "Carson Beck: earlier Questionable vs azcardinals.com Sat downgrade to OUT -- team site (newer) wins."
       ],
       "unknowns": [
         {
@@ -2668,12 +2689,12 @@
           "pos": "QB",
           "practice": "Wed - (not listed) · Thu LP · Fri DNP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 10,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "PFR: LaFleur said Josh Johnson expected to start Sun; Beck may be available Wk 12. | Back; added Thu (LP), DNP Fri, Questionable. LaFleur: won't practice Fri, may not play Sunday. RotoWire/CBS (Fri): veteran Josh Johnson expected to start; RotoWire lineup still shows Beck.",
-          "source": "ProFootballRumors (Fri 11/20, summary) + azcardinals.com Week 11 injury report (both teams, Fri 11/20); chiefs.com Week 11 Injury Report (pub Fri 11/20 2:02 PM); nfl.com news roundup Fri 11/20; CBS Sports Fri 5:42 PM ET; RotoWire 11/20",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "SAT: OFFICIALLY DOWNGRADED TO OUT (back); Josh Johnson starts, rookie Joey Aguilar backup. PFR: LaFleur said Josh Johnson expected to start Sun; Beck may be available Wk 12. | Back; added Thu (LP), DNP Fri, Questionable. LaFleur: won't practice Fri, may not play Sunday. RotoWire/CBS (Fri): veteran Josh Johnson expected to start; RotoWire lineup still shows Beck.",
+          "source": "azcardinals.com \"Josh Johnson Start Confirmed After Carson Beck Downgraded\" (Sat 11/21, upd 2:00 PM) + ProFootballRumors (Fri 11/20, summary) + azcardinals.com Week 11 injury report (both teams, Fri 11/20); chiefs.com Week 11 Injury Report (pub Fri 11/20 2:02 PM); nfl.com news roundup Fri 11/20; CBS Sports Fri 5:42 PM ET; RotoWire 11/20",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         }
       ]
     },
@@ -3540,7 +3561,8 @@
         "Dimers JAX-NYG odds (upd. Fri 11/20 1:39 AM ET)",
         "SI betting preview (FanDuel, 11/17)",
         "VegasInsider Week 11 odds (upd. 11/20)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
+        "nfl.com Saturday 11/21 news roundup"
       ],
       "sources_unreachable": [
         "jaguars.com Friday report not separately confirmed (giants.com + nfl.com used)",
@@ -3851,12 +3873,12 @@
           "pos": "DE",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 55,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Concussion. Questionable.",
-          "source": "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM); nfl.com/injuries (Fri 11/20)",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "SAT: DOWNGRADED TO OUT (concussion). Concussion. Questionable.",
+          "source": "nfl.com Saturday 11/21 news roundup + giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM); nfl.com/injuries (Fri 11/20)",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
         {
           "team": "JAX",
@@ -4221,7 +4243,9 @@
         "Fox Sports odds page (modified Fri 11/20 3:43 PM PT)",
         "ESPN game page 401873077 (DraftKings odds)",
         "VegasInsider Week 11 consensus; SportsbookReview/bet365 (Fri 8 AM ET)",
-        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)"
+        "NFLTradeRumors NFL Transactions Sat 11/21 (Saturday roster moves, all teams)",
+        "The Spun citing Mike Garafolo/NFL Network (Sat 11/21 4:55 PM ET)",
+        "Yahoo/SB Nation \"49ers waive Brandin Cooks, activate C.J. West\" (Sat 11/21 21:37 UTC)"
       ],
       "sources_unreachable": [
         "49ers.com/team/injury-report/week/REG-11 (permission timed out) -- SF Friday participation taken from nfl.com latest-day column; vikings.com SF Friday column blank",
@@ -4234,7 +4258,7 @@
         {
           "player": "Mike Evans",
           "team": "SF",
-          "why": "WR1 Questionable (Achilles tendinitis), DNP-LP-LP after missing 3 games; Shanahan decision Saturday."
+          "why": "WR1 back from Achilles: Garafolo (Sat) reports expected to play SNF; SF waived Brandin Cooks. Officially Questionable."
         },
         {
           "player": "Jordan Addison",
@@ -4439,11 +4463,11 @@
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 55,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Achilles tendinitis; missed last 3 games. DNP-LP-LP, QUESTIONABLE; Shanahan says decision comes Saturday.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "SAT: Garafolo reports Evans EXPECTED TO PLAY SNF; SF waived WR Brandin Cooks Sat. Still officially Questionable. Achilles tendinitis; missed last 3 games. DNP-LP-LP, QUESTIONABLE; Shanahan says decision comes Saturday.",
+          "source": "The Spun citing Mike Garafolo/NFL Network (Sat 11/21 4:55 PM ET) + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
         {
           "team": "SF",
@@ -4594,12 +4618,12 @@
           "pos": "CB",
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 15,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "NOT on Saturday transaction list - must be activated to play; confirm (SNF roster deadline Sat 4 PM ET). | Groin/adductor; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
-          "source": "NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "SAT: reported OUT Sunday - not activated; SF has until Wed to activate or his season ends. NOT on Saturday transaction list - must be activated to play; confirm (SNF roster deadline Sat 4 PM ET). | Groin/adductor; on IR in return window (ESPN IR-R) -- FP all week, Questionable; must be activated to play.",
+          "source": "Yahoo/SB Nation \"49ers waive Brandin Cooks, activate C.J. West\" (Sat 11/21 21:37 UTC) + NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
+          "pulled_at": "Sat 11/21 ~7:20 PM PT"
         },
         {
           "team": "SF",
