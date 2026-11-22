@@ -188,6 +188,24 @@
    "text": "ARI@KC: gusts 25 -> 24 mph (crossed 25)",
    "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 14 mph (peak 15) / gust 24 / N | 50°F / 43°F | 0% none | BREEZY | HIGH | 44.5 → 40.5 | NWS + Open-Meteo | Sat 11/21 12:39 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873076-2026-11-22T09:46:14Z-0",
+   "created": "2026-11-22T09:46:14Z",
+   "game": "PIT@PHI",
+   "kickoff_pt": "Sun 11/22 10:00 AM PT",
+   "text": "PIT@PHI: sustained wind 10 -> 5 mph (BREEZY -> CALM)",
+   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 5 mph (peak 5) / gust 14 / NE | 64°F / 62°F | 42% rain 0.19\" | CALM | FINAL | 42.5 → 37.5 | NWS + Open-Meteo | Sun 11/22 1:46 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873083-2026-11-22T09:46:14Z-1",
+   "created": "2026-11-22T09:46:14Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: sustained wind 6 -> 11 mph (CALM -> BREEZY)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 11 mph (peak 13) / gust 18 / W | 45°F / 39°F | 18% rain | BREEZY | LOW | 41.5 → 40.5 | NWS + Open-Meteo | Sun 11/22 1:46 AM PT",
+   "notified": false
   }
  ]
 }
