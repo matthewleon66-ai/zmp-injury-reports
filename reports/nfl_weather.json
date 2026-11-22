@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T15:42:19Z",
- "updated_pt": "Sun 11/22 7:42 AM PT",
+ "updated": "2026-11-22T16:42:43Z",
+ "updated_pt": "Sun 11/22 8:42 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -21,8 +21,8 @@
     "open": 47.5,
     "open_source": "ESPN",
     "first_seen": 45.5,
-    "prev": 45.5,
-    "now": 44.5,
+    "prev": 44.5,
+    "now": 45.5,
     "spread": "BUF -16.5",
     "book": "DraftKings",
     "history": [
@@ -33,6 +33,10 @@
      {
       "t": "2026-11-19T17:01:04Z",
       "total": 44.5
+     },
+     {
+      "t": "2026-11-22T16:42:43Z",
+      "total": 45.5
      }
     ]
    },
@@ -43,7 +47,7 @@
    },
    "weather": {
     "source": "NWS",
-    "issued": "2026-11-22T11:57:30+00:00",
+    "issued": "2026-11-22T14:57:40+00:00",
     "wind_avg": 6,
     "wind_peak": 7,
     "gust": 14,
@@ -108,7 +112,7 @@
     "dir": "SSW",
     "dir_at_kick": "SSW",
     "temp": 67,
-    "feels": 59,
+    "feels": 60,
     "precip_chance": 1,
     "precip_in": 0,
     "snow_in": 0,
@@ -121,34 +125,34 @@
       "gust": 21,
       "dir": "SSW",
       "temp": 67,
-      "feels": 59,
+      "feels": 60,
       "pop": 1,
       "wx": ""
      },
      {
       "t": "2026-11-22T19:00:00Z",
       "wind": 13,
-      "gust": 21,
+      "gust": 20,
       "dir": "SSW",
-      "temp": 68,
+      "temp": 67,
       "feels": 60,
       "pop": 1,
       "wx": ""
      },
      {
       "t": "2026-11-22T20:00:00Z",
-      "wind": 12,
-      "gust": 20,
+      "wind": 11,
+      "gust": 19,
       "dir": "SSW",
       "temp": 68,
-      "feels": 60,
+      "feels": 61,
       "pop": 1,
       "wx": ""
      },
      {
       "t": "2026-11-22T21:00:00Z",
       "wind": 9,
-      "gust": 20,
+      "gust": 19,
       "dir": "SSW",
       "temp": 65,
       "feels": 60,
@@ -159,12 +163,12 @@
    },
    "observation": {
     "station": "KBUF",
-    "time": "2026-11-22T15:20:00+00:00",
+    "time": "2026-11-22T16:20:00+00:00",
     "text": "Clear",
-    "wind": 7,
+    "wind": 11,
     "gust": null,
     "dir": "S",
-    "temp": 55
+    "temp": 61
    },
    "tags": [
     "CALM",
@@ -175,14 +179,14 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
    "disagree_detail": "NWS 6 mph vs Open-Meteo 12 mph sustained",
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 6 mph (peak 7) / gust 14 / S [Open-Meteo 12] | 66°F / 65°F | 1% none | CALM SOURCES DISAGREE | FINAL | 47.5 → 44.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Highmark Stadium | OPEN-AIR | 6 mph (peak 7) / gust 14 / S [Open-Meteo 12] | 66°F / 65°F | 1% none | CALM SOURCES DISAGREE | FINAL | 47.5 → 45.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873071",
@@ -254,8 +258,8 @@
    },
    "weather": {
     "source": "NWS",
-    "issued": "2026-11-22T12:51:03+00:00",
-    "wind_avg": 16,
+    "issued": "2026-11-22T15:26:06+00:00",
+    "wind_avg": 18,
     "wind_peak": 20,
     "gust": 28,
     "dir": "NW",
@@ -271,7 +275,7 @@
      {
       "t": "2026-11-22T18:00:00Z",
       "wind": 15,
-      "gust": 24,
+      "gust": 25,
       "dir": "WSW",
       "temp": 55,
       "feels": 55,
@@ -290,8 +294,8 @@
      },
      {
       "t": "2026-11-22T20:00:00Z",
-      "wind": 15,
-      "gust": 26,
+      "wind": 20,
+      "gust": 28,
       "dir": "NW",
       "temp": 49,
       "feels": 43,
@@ -315,53 +319,53 @@
     "issued": null,
     "wind_avg": 11,
     "wind_peak": 12,
-    "gust": 25,
+    "gust": 22,
     "dir": "NW",
-    "dir_at_kick": "WNW",
-    "temp": 51,
+    "dir_at_kick": "W",
+    "temp": 52,
     "feels": 43,
-    "precip_chance": 84,
-    "precip_in": 0.02,
+    "precip_chance": 83,
+    "precip_in": 0,
     "snow_in": 0,
-    "precip_type": "rain",
+    "precip_type": "none",
     "heavy_text": false,
     "hours": [
      {
       "t": "2026-11-22T18:00:00Z",
-      "wind": 12,
-      "gust": 25,
-      "dir": "WNW",
+      "wind": 9,
+      "gust": 22,
+      "dir": "W",
       "temp": 56,
       "feels": 52,
-      "pop": 84,
+      "pop": 83,
       "wx": ""
      },
      {
       "t": "2026-11-22T19:00:00Z",
       "wind": 12,
-      "gust": 24,
-      "dir": "NW",
-      "temp": 51,
-      "feels": 46,
-      "pop": 46,
-      "wx": "Rain"
+      "gust": 22,
+      "dir": "WNW",
+      "temp": 53,
+      "feels": 47,
+      "pop": 47,
+      "wx": ""
      },
      {
       "t": "2026-11-22T20:00:00Z",
-      "wind": 11,
-      "gust": 24,
+      "wind": 10,
+      "gust": 20,
       "dir": "NW",
-      "temp": 49,
-      "feels": 43,
-      "pop": 23,
+      "temp": 51,
+      "feels": 45,
+      "pop": 24,
       "wx": ""
      },
      {
       "t": "2026-11-22T21:00:00Z",
-      "wind": 11,
-      "gust": 24,
+      "wind": 12,
+      "gust": 21,
       "dir": "NW",
-      "temp": 49,
+      "temp": 50,
       "feels": 43,
       "pop": 10,
       "wx": ""
@@ -370,11 +374,11 @@
    },
    "observation": {
     "station": "KMDW",
-    "time": "2026-11-22T15:20:00+00:00",
-    "text": "Light Rain",
-    "wind": 14,
+    "time": "2026-11-22T16:20:00+00:00",
+    "text": "Cloudy",
+    "wind": null,
     "gust": null,
-    "dir": "SSW",
+    "dir": null,
     "temp": 55
    },
    "tags": [
@@ -387,18 +391,18 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
-   "disagree_detail": "NWS 16 mph vs Open-Meteo 11 mph sustained",
+   "disagree_detail": "NWS 18 mph vs Open-Meteo 11 mph sustained",
    "weather_game": true,
-   "edge_rerun_needed": true,
+   "edge_rerun_needed": false,
    "odds_display": {
     "now": "O/U 47.5",
     "before": "O/U 48.5",
     "changed": true
    },
-   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 16 mph (peak 20) / gust 28 / NW [Open-Meteo 11] | 51°F / 42°F | 91% rain 0.01\" | WINDY GUSTY SOURCES DISAGREE | FINAL | 46.5 → 47.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Soldier Field | OPEN-AIR | 18 mph (peak 20) / gust 28 / NW [Open-Meteo 11] | 51°F / 42°F | 91% rain 0.01\" | WINDY GUSTY SOURCES DISAGREE | FINAL | 46.5 → 47.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873073",
@@ -511,11 +515,11 @@
     "issued": null,
     "wind_avg": 15,
     "wind_peak": 16,
-    "gust": 26,
+    "gust": 25,
     "dir": "N",
     "dir_at_kick": "NNW",
-    "temp": 56,
-    "feels": 48,
+    "temp": 57,
+    "feels": 49,
     "precip_chance": 0,
     "precip_in": 0,
     "snow_in": 0,
@@ -524,41 +528,41 @@
     "hours": [
      {
       "t": "2026-11-22T18:00:00Z",
-      "wind": 16,
-      "gust": 26,
+      "wind": 15,
+      "gust": 24,
       "dir": "NNW",
-      "temp": 57,
-      "feels": 51,
+      "temp": 58,
+      "feels": 52,
       "pop": 0,
       "wx": ""
      },
      {
       "t": "2026-11-22T19:00:00Z",
-      "wind": 16,
-      "gust": 25,
-      "dir": "NNW",
-      "temp": 55,
-      "feels": 48,
+      "wind": 15,
+      "gust": 24,
+      "dir": "N",
+      "temp": 57,
+      "feels": 50,
       "pop": 0,
       "wx": ""
      },
      {
       "t": "2026-11-22T20:00:00Z",
-      "wind": 15,
+      "wind": 16,
       "gust": 25,
       "dir": "N",
-      "temp": 55,
-      "feels": 48,
+      "temp": 56,
+      "feels": 49,
       "pop": 0,
       "wx": ""
      },
      {
       "t": "2026-11-22T21:00:00Z",
-      "wind": 14,
-      "gust": 24,
+      "wind": 15,
+      "gust": 23,
       "dir": "N",
-      "temp": 55,
-      "feels": 48,
+      "temp": 57,
+      "feels": 50,
       "pop": 0,
       "wx": ""
      }
@@ -566,11 +570,11 @@
    },
    "observation": {
     "station": "KGKY",
-    "time": "2026-11-22T15:20:00+00:00",
+    "time": "2026-11-22T16:20:00+00:00",
     "text": "Cloudy",
-    "wind": 7,
+    "wind": 16,
     "gust": null,
-    "dir": "WNW",
+    "dir": "NW",
     "temp": 61
    },
    "tags": [
@@ -583,8 +587,8 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
    "weather_game": true,
    "edge_rerun_needed": false,
@@ -593,7 +597,7 @@
     "before": "O/U 55.5",
     "changed": true
    },
-   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 15 mph (peak 15) / gust 32 / NNW | 62°F / 61°F | 0% none | WINDY GUSTY ROOF TBD | FINAL | 48.5 → 54.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | AT&T Stadium | ROOF TBD | 15 mph (peak 15) / gust 32 / NNW | 62°F / 61°F | 0% none | WINDY GUSTY ROOF TBD | FINAL | 48.5 → 54.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873072",
@@ -663,14 +667,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 49.5 → 48.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 49.5 → 48.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873067",
@@ -771,11 +775,11 @@
     "issued": null,
     "wind_avg": 15,
     "wind_peak": 16,
-    "gust": 26,
-    "dir": "N",
+    "gust": 25,
+    "dir": "NNW",
     "dir_at_kick": "N",
-    "temp": 46,
-    "feels": 35,
+    "temp": 47,
+    "feels": 36,
     "precip_chance": 0,
     "precip_in": 0,
     "snow_in": 0,
@@ -784,29 +788,29 @@
     "hours": [
      {
       "t": "2026-11-22T18:00:00Z",
-      "wind": 16,
-      "gust": 26,
+      "wind": 15,
+      "gust": 25,
       "dir": "N",
       "temp": 45,
-      "feels": 35,
+      "feels": 36,
       "pop": 0,
       "wx": ""
      },
      {
       "t": "2026-11-22T19:00:00Z",
       "wind": 16,
-      "gust": 26,
+      "gust": 25,
       "dir": "N",
-      "temp": 46,
+      "temp": 47,
       "feels": 36,
       "pop": 0,
       "wx": ""
      },
      {
       "t": "2026-11-22T20:00:00Z",
-      "wind": 14,
-      "gust": 22,
-      "dir": "N",
+      "wind": 15,
+      "gust": 24,
+      "dir": "NNW",
       "temp": 47,
       "feels": 37,
       "pop": 0,
@@ -815,10 +819,10 @@
      {
       "t": "2026-11-22T21:00:00Z",
       "wind": 14,
-      "gust": 21,
+      "gust": 23,
       "dir": "NNW",
       "temp": 47,
-      "feels": 38,
+      "feels": 37,
       "pop": 0,
       "wx": ""
      }
@@ -826,11 +830,11 @@
    },
    "observation": {
     "station": "KMKC",
-    "time": "2026-11-22T15:20:00+00:00",
+    "time": "2026-11-22T16:20:00+00:00",
     "text": "Mostly Cloudy",
-    "wind": 14,
-    "gust": null,
-    "dir": "N",
+    "wind": 13,
+    "gust": 18,
+    "dir": "NW",
     "temp": 45
    },
    "tags": [
@@ -841,13 +845,13 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 14 mph (peak 15) / gust 24 / NNW | 49°F / 42°F | 0% none | BREEZY | FINAL | 44.5 → 40.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | GEHA Field at Arrowhead Stadium | OPEN-AIR | 14 mph (peak 15) / gust 24 / NNW | 49°F / 42°F | 0% none | BREEZY | FINAL | 44.5 → 40.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873076",
@@ -960,8 +964,8 @@
     "dir": "ENE",
     "dir_at_kick": "ENE",
     "temp": 63,
-    "feels": 63,
-    "precip_chance": 5,
+    "feels": 61,
+    "precip_chance": 3,
     "precip_in": 0,
     "snow_in": 0,
     "precip_type": "none",
@@ -969,8 +973,28 @@
     "hours": [
      {
       "t": "2026-11-22T18:00:00Z",
-      "wind": 7,
+      "wind": 8,
+      "gust": 17,
+      "dir": "ENE",
+      "temp": 64,
+      "feels": 63,
+      "pop": 2,
+      "wx": ""
+     },
+     {
+      "t": "2026-11-22T19:00:00Z",
+      "wind": 6,
       "gust": 15,
+      "dir": "ENE",
+      "temp": 62,
+      "feels": 62,
+      "pop": 2,
+      "wx": ""
+     },
+     {
+      "t": "2026-11-22T20:00:00Z",
+      "wind": 7,
+      "gust": 16,
       "dir": "ENE",
       "temp": 63,
       "feels": 63,
@@ -978,44 +1002,24 @@
       "wx": ""
      },
      {
-      "t": "2026-11-22T19:00:00Z",
-      "wind": 7,
-      "gust": 17,
-      "dir": "NE",
-      "temp": 64,
-      "feels": 64,
-      "pop": 4,
-      "wx": ""
-     },
-     {
-      "t": "2026-11-22T20:00:00Z",
-      "wind": 8,
-      "gust": 18,
-      "dir": "ENE",
-      "temp": 64,
-      "feels": 64,
-      "pop": 4,
-      "wx": ""
-     },
-     {
       "t": "2026-11-22T21:00:00Z",
       "wind": 6,
-      "gust": 17,
+      "gust": 18,
       "dir": "ENE",
-      "temp": 63,
-      "feels": 63,
-      "pop": 5,
+      "temp": 61,
+      "feels": 61,
+      "pop": 3,
       "wx": ""
      }
     ]
    },
    "observation": {
     "station": "KPHL",
-    "time": "2026-11-22T15:20:00+00:00",
-    "text": "Mostly Cloudy",
-    "wind": 9,
+    "time": "2026-11-22T16:20:00+00:00",
+    "text": "Partly Cloudy",
+    "wind": 8,
     "gust": null,
-    "dir": "ENE",
+    "dir": "NE",
     "temp": 61
    },
    "tags": [
@@ -1026,13 +1030,13 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 5 mph (peak 5) / gust 14 / NE | 64°F / 64°F | 42% rain 0.09\" | CALM | FINAL | 42.5 → 37.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Lincoln Financial Field | OPEN-AIR | 5 mph (peak 5) / gust 14 / NE | 64°F / 64°F | 42% rain 0.09\" | CALM | FINAL | 42.5 → 37.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873068",
@@ -1052,7 +1056,7 @@
     "first_seen": 44.5,
     "prev": 43.5,
     "now": 44.5,
-    "spread": "CAR -3",
+    "spread": "CAR -2.5",
     "book": "DraftKings",
     "history": [
      {
@@ -1145,67 +1149,67 @@
     "issued": null,
     "wind_avg": 8,
     "wind_peak": 9,
-    "gust": 16,
+    "gust": 17,
     "dir": "NNE",
     "dir_at_kick": "NNE",
-    "temp": 58,
-    "feels": 56,
-    "precip_chance": 27,
+    "temp": 59,
+    "feels": 57,
+    "precip_chance": 24,
     "precip_in": 0,
     "snow_in": 0,
-    "precip_type": "rain",
+    "precip_type": "none",
     "heavy_text": false,
     "hours": [
      {
       "t": "2026-11-22T18:00:00Z",
       "wind": 9,
-      "gust": 15,
+      "gust": 17,
       "dir": "NNE",
       "temp": 59,
       "feels": 57,
-      "pop": 27,
-      "wx": "Rain"
+      "pop": 24,
+      "wx": ""
      },
      {
       "t": "2026-11-22T19:00:00Z",
       "wind": 8,
-      "gust": 15,
-      "dir": "NNE",
+      "gust": 13,
+      "dir": "NE",
       "temp": 59,
       "feels": 57,
-      "pop": 19,
+      "pop": 17,
       "wx": ""
      },
      {
       "t": "2026-11-22T20:00:00Z",
       "wind": 8,
-      "gust": 16,
+      "gust": 14,
       "dir": "NNE",
-      "temp": 58,
-      "feels": 56,
-      "pop": 12,
+      "temp": 59,
+      "feels": 57,
+      "pop": 18,
       "wx": ""
      },
      {
       "t": "2026-11-22T21:00:00Z",
-      "wind": 7,
-      "gust": 14,
+      "wind": 8,
+      "gust": 12,
       "dir": "NNE",
-      "temp": 58,
+      "temp": 59,
       "feels": 57,
-      "pop": 12,
+      "pop": 19,
       "wx": ""
      }
     ]
    },
    "observation": {
     "station": "KCLT",
-    "time": "2026-11-22T15:20:00+00:00",
+    "time": "2026-11-22T16:20:00+00:00",
     "text": "Light Rain and Fog/Mist",
     "wind": 7,
     "gust": null,
     "dir": "N",
-    "temp": 55
+    "temp": 57
    },
    "tags": [
     "CALM"
@@ -1215,13 +1219,13 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "error": null,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 7 mph (peak 8) / gust 17 / NNE | 60°F / 59°F | 39% rain 0.01\" | CALM | FINAL | 46.5 → 44.5 | NWS + Open-Meteo | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 10:00 AM PT | Bank of America Stadium | OPEN-AIR | 7 mph (peak 8) / gust 17 / NNE | 60°F / 59°F | 39% rain 0.01\" | CALM | FINAL | 46.5 → 44.5 | NWS + Open-Meteo | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873074",
@@ -1239,8 +1243,8 @@
     "open": 41.5,
     "open_source": "ESPN",
     "first_seen": 40.5,
-    "prev": 41.5,
-    "now": 42.5,
+    "prev": 42.5,
+    "now": 43.5,
     "spread": "LAC -3",
     "book": "DraftKings",
     "history": [
@@ -1263,6 +1267,10 @@
      {
       "t": "2026-11-22T14:48:10Z",
       "total": 42.5
+     },
+     {
+      "t": "2026-11-22T16:42:43Z",
+      "total": 43.5
      }
     ]
    },
@@ -1271,14 +1279,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 41.5 → 42.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/22 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 41.5 → 43.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873075",
@@ -1974,14 +1982,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873081",
@@ -2019,14 +2027,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873080",
@@ -2884,14 +2892,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -3144,14 +3152,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 7:42 AM PT",
-   "pulled_at_iso": "2026-11-22T15:42:19Z",
+   "pulled_at": "Sun 11/22 8:42 AM PT",
+   "pulled_at_iso": "2026-11-22T16:42:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 39.5 | — | Sun 11/22 7:42 AM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 39.5 | — | Sun 11/22 8:42 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -3169,14 +3177,18 @@
     "open": 47.5,
     "open_source": "ESPN",
     "first_seen": 42.5,
-    "prev": null,
-    "now": 42.5,
+    "prev": 42.5,
+    "now": 41.5,
     "spread": "WSH -7",
     "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
       "total": 42.5
+     },
+     {
+      "t": "2026-11-22T16:42:43Z",
+      "total": 41.5
      }
     ]
    },
@@ -3259,7 +3271,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:25 PM PT | State Farm Stadium | ROOF TBD | 3 mph (peak 4) / gust 5 / S | 74°F / 68°F | 1% none | CALM ROOF TBD | LOW | 47.5 → 42.5 | Open-Meteo | Sun 11/22 6:48 AM PT"
+   "card": "Sun 11/29 1:25 PM PT | State Farm Stadium | ROOF TBD | 3 mph (peak 4) / gust 5 / S | 74°F / 68°F | 1% none | CALM ROOF TBD | LOW | 47.5 → 41.5 | Open-Meteo | Sun 11/22 6:48 AM PT"
   },
   {
    "espn_event_id": "401873091",
