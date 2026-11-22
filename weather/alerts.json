@@ -206,6 +206,33 @@
    "text": "DEN@PIT: sustained wind 6 -> 11 mph (CALM -> BREEZY)",
    "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 11 mph (peak 13) / gust 18 / W | 45°F / 39°F | 18% rain | BREEZY | LOW | 41.5 → 40.5 | NWS + Open-Meteo | Sun 11/22 1:46 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873087-2026-11-22T14:48:10Z-0",
+   "created": "2026-11-22T14:48:10Z",
+   "game": "NO@CIN",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NO@CIN: sustained wind 10 -> 9 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 9 mph (peak 11) / gust 20 / W | 55°F / 47°F | 6% none | CALM | LOW | 48.5 → 52.5 | Open-Meteo | Sun 11/22 6:48 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873088-2026-11-22T14:48:10Z-1",
+   "created": "2026-11-22T14:48:10Z",
+   "game": "NYG@IND",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYG@IND: sustained wind 10 -> 9 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Lucas Oil Stadium | ROOF TBD | 9 mph (peak 11) / gust 20 / W | 54°F / 44°F | 3% none | CALM ROOF TBD | LOW | 47.5 → 43.5 | Open-Meteo | Sun 11/22 6:48 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-22T14:48:10Z-2",
+   "created": "2026-11-22T14:48:10Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 16 -> 9 mph (WINDY -> CALM)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 10) / gust 19 / SW | 44°F / 36°F | 5% none | CALM | LOW | 39.5 → 40.5 | Open-Meteo | Sun 11/22 6:48 AM PT",
+   "notified": false
   }
  ]
 }
