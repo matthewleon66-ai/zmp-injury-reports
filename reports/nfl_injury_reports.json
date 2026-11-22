@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:56:00Z",
+  "updated": "2026-11-22T16:58:00Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -2425,6 +2425,7 @@
       "pulled_at": "Sun 11/22 8:50 AM PT",
       "pulled_iso": "2026-11-22T16:50:00Z",
       "sources_checked": [
+        "azcardinals.com inactives (Sun 8:32 AM PT; Josh Johnson starts, UDFA Joey Aguilar backup, WR Devin Duvernay emergency QB); DraftKings via ESPN (Sun ~8:30 AM PT) [added Sun ~8:55 AM PT]",
         "Inactives Sun 11/22 ~8:48 AM PT: AtoZ Sports (beat site) both teams https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-inactive-players-list-week-11-cardinals/",
         "SportsbookReview line history ~8:48 AM PT: KC -15.5 (-102), latest entry 11/22 3:08 pm (no book/tz)",
         "Inactives check Sun 11/22 8:30-8:36 AM PT: CBS Week 11 inactives live tracker, ESPN FF inactives page (last upd Sat 3:32 PM ET), Yahoo Week 11 live blog (2:07 PM UTC), FantasyPros inactives (shows Out designations only), nfl-depth-charts.com - NO official inactives posted yet for this game",
@@ -2450,7 +2451,7 @@
         "(Sat run) arizonasports.com Josh Johnson 'expected start' article (headline only seen, body not found)"
       ],
       "line_before": "KC -16.5 (-109) / O/U 40.5 (O -114) / ML KC -1640 (DraftKings via ESPN odds page, fetched Sun 11/22 ~8:20 AM PT). VegasInsider table: most books KC -15.5 / 40.5, Kalshi -14.5. [prior]",
-      "line_now": "KC -15.5 (-102) (SportsbookReview line history, latest 11/22, no book named; fetched ~8:48 AM PT). Total not re-pulled; last 40.5 DK.",
+      "line_now": "KC -16.5 (-109) / O/U 40.5, ML KC -1640 / ARI +920 (DraftKings via ESPN, Sun 11/22 ~8:30 AM PT); SBR line history shows -15.5 at an unnamed book",
       "line_moved_on_news": "Possible half-point move toward ARI (DK -16.5 earlier vs SBR -15.5 now) - book mix, not tied to news; Woods and Norman-Lott both inactive (KC DL depth).",
       "top3": [
         {
@@ -2504,16 +2505,7 @@
         "Spread: DK (ESPN) KC -16.5 vs VegasInsider table KC -15.5 at most books - book difference.",
         "ARI DL Zach Carter and KC TE Jared Wiley were Out Fri but are not on the A to Z inactive lists (ARI list only 5 names - may be incomplete); kept as Out"
       ],
-      "unknowns": [
-        {
-          "what": "ARI starting QB confirmation (Josh Johnson expected with Beck inactive)",
-          "known_by": "Kickoff 10:00 AM PT"
-        },
-        {
-          "what": "Total after inactives (not re-pulled)",
-          "known_by": "n/a"
-        }
-      ],
+      "unknowns": [],
       "players": [
         {
           "team": "KC",
@@ -3833,6 +3825,7 @@
       "pulled_at": "Sun 11/22 ~8:32 AM PT",
       "pulled_iso": "2026-11-22T16:32:00Z",
       "sources_checked": [
+        "ESPN fantasy 'Week 11 inactive/active' article (Sun AM) + CBS citing Raanan - Likely expected active [added Sun ~8:55 AM PT]",
         "RotoWire betting game page id 2978785 (news through Sun 11/22; inactives 'none reported yet' at ~8:15 AM PT)",
         "RotoWire Jordan Davis player page (Schefter 11/22)",
         "jaguars.com 'Quick thoughts before Week 11 vs Giants' (Thu 11/19 2:40 PM)",
@@ -4002,11 +3995,11 @@
           "practice": "Fri DNP",
           "estimated": false,
           "status": "none",
-          "play_pct": 70,
+          "play_pct": 85,
           "type": "injury",
-          "note": "Groin (strained). NEW - added Fri as DNP but given NO game designation (RotoWire). Watch inactives.",
-          "source": "giants.com 'Injury Report: Statuses for Giants vs. Jaguars' (Fri 11/20 4:00 PM); nfl.com/injuries (Fri 11/20); RotoWire 11/20",
-          "pulled_at": "Fri 11/20 ~7:00 PM PT"
+          "note": "Groin (strained). NEW - added Fri as DNP but given NO game designation (RotoWire). Watch inactives. Harbaugh called it a 'minor thing' (to Jordan Raanan); ESPN Sunday fantasy inactives piece says he will be active.",
+          "source": "CBS citing Jordan Raanan (Fri 11/20); ESPN fantasy Sunday inactives article (Sun 11/22)",
+          "pulled_at": "Sun 11/22 ~8:55 AM PT"
         },
         {
           "team": "NYG",
@@ -4253,6 +4246,7 @@
       "pulled_at": "Sun 11/22 ~8:12 AM PT",
       "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
+        "DraftKings via ESPN odds page (Sun ~8:30 AM PT); Pickswise book table [added Sun ~8:55 AM PT]",
         "CBS Sports/RotoWire 'Raiders' Brock Bowers: Trending in wrong direction' citing Adam Schefter on ESPN NFL Countdown (Sun 11/22 10:54 AM ET)",
         "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
         "SI 'Is Brock Bowers Playing Today?' (Sun 11/22 10:23 UTC)",
@@ -4272,8 +4266,8 @@
         "surprisesports.com page itself (fetch failed)"
       ],
       "line_before": "DEN -10.5 / O/U 40.5 (Fox Sports + VegasInsider + bet365, Fri 11/20; was DEN -10 Thu 11/19)",
-      "line_now": "DEN -10.5 / O/U 40.5, ML DEN -602 / LV +450 (Fox Sports, Sun 11/22 4:33 AM PT)",
-      "line_moved_on_news": "No move since Fri: spread -10.5, total 40.5 flat as of 4:33 AM PT, before Schefter's 7:54 AM PT pessimistic Bowers report. Watch for a tick toward DEN -11 / total down if Bowers is inactive.",
+      "line_now": "DEN -10.5 (-105) / O/U 40.5, ML DEN -620 / LV +456 (DraftKings via ESPN odds page, Sun 11/22 ~8:30 AM PT); BetMGM/Fanatics DEN -11 (Pickswise)",
+      "line_moved_on_news": "Barely: DK still DEN -10.5 / 40.5 at ~8:30 AM PT, ~35 min after Schefter's pessimistic Bowers report; BetMGM/Fanatics ticked to -11.",
       "top3": [
         {
           "player": "Brock Bowers",
@@ -4335,10 +4329,6 @@
         {
           "what": "Any game-day kicker elevation (would signal Gay out) -- none as of Sat",
           "known_by": "Sun 11/22 11:55 AM PT"
-        },
-        {
-          "what": "Line reaction to Schefter Bowers report",
-          "known_by": "Sun 11/22 before 1:25 PM PT kickoff"
         }
       ],
       "players": [
@@ -4561,6 +4551,7 @@
       "pulled_at": "Sun 11/22 ~8:12 AM PT",
       "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
+        "Fox Sports game page (Sun 6:46 AM PT) + DraftKings via ESPN (Sun AM) - no Sunday move [added Sun ~8:55 AM PT]",
         "Yahoo 'Is Mike Evans playing tonight?' (Sun 11/22 12:52 UTC) citing Garafolo/NFL Network",
         "NFL.com 'Niners WR Mike Evans (Achilles) expected to play Sunday vs. Vikings' (Sat 11/21, Garafolo)",
         "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
@@ -4578,7 +4569,7 @@
         "49ers.com injury report (timed out Sat; not retried)"
       ],
       "line_before": "SF -3.5 / O/U 46.5 (Fox Sports Fri 11/20 3:43 PM PT; DK/VegasInsider SF -3 (-118)); opener SF -3 / 46.5 (FanDuel 11/18)",
-      "line_now": "SF -3.5 / O/U 46.5, ML SF -171 / MIN +144 (Fox Sports, Sat 11/21 6:52 PM PT -- after Garafolo Evans report)",
+      "line_now": "SF -3.5 / O/U 46.5, ML SF -175 / MIN +146 (Fox Sports, Sun 11/22 6:46 AM PT); DraftKings via ESPN SF -3 (-118) / 46.5, ML -170 / +143 (Sun AM)",
       "line_moved_on_news": "No move on Evans 'expected to play' news: still SF -3.5 / 46.5 after Garafolo's Sat report. Earlier SF -3 -> -3.5 drift was not clearly injury-driven.",
       "top3": [
         {
@@ -4632,10 +4623,6 @@
         {
           "what": "Evans snap count/role (limited?)",
           "known_by": "In-game, Sun 11/22 5:20 PM PT+"
-        },
-        {
-          "what": "Sunday line move (no Sun-AM book line found)",
-          "known_by": "Before 5:20 PM PT kickoff"
         }
       ],
       "players": [
@@ -5092,6 +5079,7 @@
       "pulled_at": "Sun 11/22 ~8:12 AM PT",
       "pulled_iso": "2026-11-22T16:12:00Z",
       "sources_checked": [
+        "Bengals Wire/Yahoo (Sat 10:39 AM PT) - Taylor says Dax Hill 'will be good to play' [added Sun ~8:55 AM PT]",
         "commanders.com 'Commanders vs. Bengals Week 11 injury report' (Thu-Sat table + game statuses, fetched Sun 11/22 ~8:05 AM PT)",
         "CBS Sports/RotoWire 'Croskey-Merritt: Expected to return for MNF' citing Matt Zenitz/CBS (Sat 11/21 6:35 PM ET)",
         "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
@@ -5116,7 +5104,7 @@
         {
           "player": "Dax Hill",
           "team": "CIN",
-          "why": "Starting CB DNP all week (illness), Questionable - leans out; DJ Ivey would start vs Daniels/Diggs."
+          "why": "Starting CB DNP all week (illness), Questionable - leans out; DJ Ivey would start vs Daniels/Diggs. UPDATE Sat: Taylor says Hill 'will be good to play' - risk much lower."
         },
         {
           "player": "Amik Robertson / Rachaad White / Croskey-Merritt",
@@ -5164,7 +5152,7 @@
           "known_by": "Mon 11/23 ~1:00 PM PT (4 PM ET deadline)"
         },
         {
-          "what": "Dax Hill (illness), Robertson (ankle), White (heel) - play or sit",
+          "what": "Robertson (ankle), White (heel) - play or sit",
           "known_by": "Mon 11/23 3:45 PM PT inactives"
         },
         {
@@ -5193,11 +5181,11 @@
           "practice": "Thu DNP · Fri DNP · Sat DNP",
           "estimated": false,
           "status": "Questionable",
-          "play_pct": 25,
+          "play_pct": 80,
           "type": "illness",
-          "note": "Illness; DNP all week, Questionable. DJ Ivey likely starts if out.",
-          "source": "atozsports.com Bengals Saturday injury report (Sat 11/21 3:28 PM PT)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "Illness; DNP all week, Questionable. Zac Taylor (Sat): 'will be good to play'. DJ Ivey starts if he sits.",
+          "source": "Bengals Wire/Yahoo quoting Zac Taylor, Sat 11/21 10:39 AM PT",
+          "pulled_at": "Sun 11/22 ~8:55 AM PT"
         },
         {
           "team": "CIN",
