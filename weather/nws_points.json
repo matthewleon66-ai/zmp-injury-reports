@@ -86,5 +86,61 @@
   "km_from_nws_ref": 3.5,
   "verified": true,
   "checked": "2026-11-20T08:58:56Z"
+ },
+ "39.0955,-84.5161": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/ILN/35,38/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/ILN/35,38",
+  "nws_city": "Cincinnati, OH",
+  "km_from_nws_ref": 5.0,
+  "verified": true,
+  "checked": "2026-11-22T08:12:45Z"
+ },
+ "39.7601,-86.1639": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/IND/58,69/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/IND/58,69",
+  "nws_city": "Indianapolis city (balance), IN",
+  "km_from_nws_ref": 2.4,
+  "verified": true,
+  "checked": "2026-11-22T08:12:45Z"
+ },
+ "25.9580,-80.2389": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/MFL/107,58/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/MFL/107,58",
+  "nws_city": "Miami Gardens, FL",
+  "km_from_nws_ref": 1.1,
+  "verified": true,
+  "checked": "2026-11-22T08:12:46Z"
+ },
+ "30.3239,-81.6373": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/JAX/66,64/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/JAX/66,64",
+  "nws_city": "Jacksonville, FL",
+  "km_from_nws_ref": 2.7,
+  "verified": true,
+  "checked": "2026-11-22T08:12:46Z"
+ },
+ "33.5276,-112.2626": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/PSR/152,62/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/PSR/152,62",
+  "nws_city": "Glendale, AZ",
+  "km_from_nws_ref": 6.8,
+  "verified": true,
+  "checked": "2026-11-22T08:12:47Z"
+ },
+ "37.4030,-121.9700": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/MTR/97,86/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/MTR/97,86",
+  "nws_city": "Santa Clara, CA",
+  "km_from_nws_ref": 4.3,
+  "verified": true,
+  "checked": "2026-11-22T08:12:48Z"
+ },
+ "41.5061,-81.6995": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/CLE/83,65/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/CLE/83,65",
+  "nws_city": "Cleveland, OH",
+  "km_from_nws_ref": 3.5,
+  "verified": true,
+  "checked": "2026-11-22T08:12:48Z"
  }
 }
