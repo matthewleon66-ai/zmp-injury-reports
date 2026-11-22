@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:50:00Z",
+  "updated": "2026-11-22T16:56:00Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -1534,7 +1534,8 @@
         "ESPN game page shows '6:00 PM ET' in one spot and 1:00 in ticket widget; kickoff kept 18:00Z (10 AM PT) per schedule.",
         "Spears: Friday official report Questionable after FP; Saturday transaction list (NFLTR) shows IR - newer roster move wins.",
         "Spread: SBR line history shows DAL -7.5 Sunday; ESPN/DK showed -8.5 Fri night - ESPN not re-checkable Sunday; using SBR (newer).",
-        "Tony Adams: Friday report Questionable; RotoWire Sat says designation removed after clearing concussion protocol - newer wins (no designation)."
+        "Tony Adams: Friday report Questionable; RotoWire Sat says designation removed after clearing concussion protocol - newer wins (no designation).",
+        "TEN G Fernando Carmona Jr. and DAL S Jalen Thompson / CB Devin Moore were Out on Friday's report but are not on the Tennessean inactive list - likely moved to IR or omitted; kept as Out"
       ],
       "unknowns": [
         {
@@ -2091,7 +2092,8 @@
         "Josh Hayes: FP Wed/Thu/Fri on official report but ruled Out - no explanation found; trust official Out.",
         "Line sources differ: DK (ESPN) DET -6, CBS DET -5.5, bet365 (Fri AM) -6.5.",
         "Line: VegasInsider table (Sun fetch) DET -3.5/48.5 vs ESPN DK Fri DET -6/45.5 and bet365 Fri -6.5/45.5 - VI page stamp Nov 17 and numbers out of line with every other source; not adopted.",
-        "theScore attributes Rapoport to 'ESPN' - Rapoport is NFL Network (NBC/Rotoworld + Yahoo agree)."
+        "theScore attributes Rapoport to 'ESPN' - Rapoport is NFL Network (NBC/Rotoworld + Yahoo agree).",
+        "CB Josh Hayes was ruled Out Fri but is not on the Bucs' 6-man official inactive list (S J.J. Roberts elevated) - likely moved to IR; kept as Out"
       ],
       "unknowns": [
         {
@@ -2499,7 +2501,8 @@
         "KC backfield: prior run had Jaydn Ott as replacement; CBS Fri names rookie Emmett Johnson as primary starter.",
         "Darius Robinson injury knee (SI) vs wrist (team report) - wrist used.",
         "Carson Beck: earlier Questionable vs azcardinals.com Sat downgrade to OUT -- team site (newer) wins.",
-        "Spread: DK (ESPN) KC -16.5 vs VegasInsider table KC -15.5 at most books - book difference."
+        "Spread: DK (ESPN) KC -16.5 vs VegasInsider table KC -15.5 at most books - book difference.",
+        "ARI DL Zach Carter and KC TE Jared Wiley were Out Fri but are not on the A to Z inactive lists (ARI list only 5 names - may be incomplete); kept as Out"
       ],
       "unknowns": [
         {
@@ -2978,6 +2981,7 @@
       "pulled_at": "Sun 11/22 8:50 AM PT",
       "pulled_iso": "2026-11-22T16:50:00Z",
       "sources_checked": [
+        "Heavy Jalen Carter update (Sun 11/22 8:34 AM PT; Inquirer reporter: active) - second inactives pass ~8:55 AM PT",
         "Inactives check Sun 11/22 ~8:48 AM PT: FantasyPros inactives (partial: PIT Herbig; PHI Mondon, Baun, Wicks)",
         "Steelers Now (Sun 11/22 7:58 AM PT)",
         "ESPN game page gameId 401873076 (DraftKings) ~8:45 AM PT: PIT -4.5 (-112), O/U 37.5, ML PIT -218 / PHI +180",
@@ -3057,7 +3061,8 @@
         "Jalen Carter: NOT on Eagles' Fri 11/20 final report (philadelphiaeagles.com article, prior run) but current philadelphiaeagles.com injury-report page lists him Questionable (quad) - late Sunday-morning add per Tim McManus (ESPN) via CBS/RotoWire 11:06 AM ET. Newest official source wins -> Questionable.",
         "PIT held a walkthrough Fri - Steelers' Friday participation is ESTIMATED.",
         "Greenard DNP Fri ('ankle/rest') with no game status - treated as rest day.",
-        "FanDuel Research page labels PIT-PHI spread ambiguously (shows 'Eagles -3.5'); DraftKings/ESPN clearly PIT -3.5 and ML favors PIT - used PIT -3.5."
+        "FanDuel Research page labels PIT-PHI spread ambiguously (shows 'Eagles -3.5'); DraftKings/ESPN clearly PIT -3.5 and ML favors PIT - used PIT -3.5.",
+        "Jalen Carter: ESPN/McManus (Sun 8:06 AM PT) had him Questionable; Inquirer beat reporter via Heavy (8:34 AM PT, after inactives posted) says ACTIVE - newer post-inactives report wins"
       ],
       "unknowns": [
         {
@@ -3245,12 +3250,12 @@
           "pos": "DT",
           "practice": "Not on Fri 11/20 report; added Sun morning",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 40,
+          "status": "none",
+          "play_pct": 90,
           "type": "injury",
-          "note": "Quad. NEW - late Sunday-morning add: told the team his quad was bothering him while traveling to Lincoln Financial Field (Tim McManus, ESPN). RotoWire: late add 'isn't a great sign'; Ty Robinson / Gabe Hall get more snaps if he sits or is limited. Watch inactives.",
-          "source": "Tim McManus (ESPN) via CBS/RotoWire (Sun 11/22 11:06 AM ET); philadelphiaeagles.com/team/injury-report (checked Sun 11/22)",
-          "pulled_at": "Sun 11/22 ~8:32 AM PT"
+          "note": "ACTIVE per Inquirer beat reporter after 8:30 AM inactives (Eagles official list not read). Added Sun AM as Questionable (quad) - may be on a snap count. | prior: Quad. NEW - late Sunday-morning add: told the team his quad was bothering him while traveling to Lincoln Financial Field (Tim McManus, ESPN). RotoWire: late add 'isn't a great sign'; Ty Robinson / Gabe Hall get more snaps if he sits or is limited. Watch inactives.",
+          "source": "Heavy (updated Sun 11/22 8:34 AM PT) quoting Philadelphia Inquirer beat reporter on X: 'DT Jalen Carter (quad) is active'; BGN headline 'Jalen Carter is ACTIVE'",
+          "pulled_at": "Sun 11/22 ~8:55 AM PT"
         },
         {
           "team": "PHI",
