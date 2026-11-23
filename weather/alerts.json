@@ -278,6 +278,42 @@
    "text": "LV@CLE: sustained wind 9 -> 14 mph (CALM -> BREEZY)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 14 mph (peak 15) / gust 23 / W | 46°F / 35°F | 6% none | BREEZY | LOW | 39.5 → — | Open-Meteo | Sun 11/22 12:42 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873087-2026-11-23T03:59:49Z-0",
+   "created": "2026-11-23T03:59:49Z",
+   "game": "NO@CIN",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NO@CIN: sustained wind 9 -> 10 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 10 mph (peak 10) / gust 18 / W | 51°F / 42°F | 10% none | BREEZY | LOW | 48.5 → 51.5 | Open-Meteo | Sun 11/22 7:59 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873089-2026-11-23T03:59:49Z-1",
+   "created": "2026-11-23T03:59:49Z",
+   "game": "NYJ@MIA",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYJ@MIA: sustained wind 15 -> 10 mph (WINDY -> BREEZY)",
+   "card": "Sun 11/29 10:00 AM PT | Hard Rock Stadium | OPEN-AIR | 10 mph (peak 10) / gust 13 / ENE | 78°F / 81°F | 27% rain 0.02\" | BREEZY | LOW | 41.5 → 41.5 | Open-Meteo | Sun 11/22 7:59 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873091-2026-11-23T03:59:49Z-2",
+   "created": "2026-11-23T03:59:49Z",
+   "game": "SEA@SF",
+   "kickoff_pt": "Sun 11/29 1:25 PM PT",
+   "text": "SEA@SF: sustained wind 9 -> 12 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 12 mph (peak 14) / gust 23 / WSW | 62°F / 56°F | 68% rain | BREEZY | LOW | 46.5 → — | Open-Meteo | Sun 11/22 7:59 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-23T03:59:49Z-3",
+   "created": "2026-11-23T03:59:49Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 14 -> 18 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 18 mph (peak 18) / gust 24 / W | 44°F / 33°F | 17% none | WINDY | LOW | 39.5 → 40.5 | Open-Meteo | Sun 11/22 7:59 PM PT",
+   "notified": false
   }
  ]
 }
