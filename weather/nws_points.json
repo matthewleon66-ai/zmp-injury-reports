@@ -142,5 +142,13 @@
   "km_from_nws_ref": 3.5,
   "verified": true,
   "checked": "2026-11-22T08:12:48Z"
+ },
+ "27.9759,-82.5033": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/TBW/69,99/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/TBW/69,99",
+  "nws_city": "Tampa, FL",
+  "km_from_nws_ref": 2.4,
+  "verified": true,
+  "checked": "2026-11-23T09:21:15Z"
  }
 }
