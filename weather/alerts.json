@@ -314,6 +314,78 @@
    "text": "LV@CLE: sustained wind 14 -> 18 mph (BREEZY -> WINDY)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 18 mph (peak 18) / gust 24 / W | 44°F / 33°F | 17% none | WINDY | LOW | 39.5 → 40.5 | Open-Meteo | Sun 11/22 7:59 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873083-2026-11-23T16:00:31Z-0",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: sustained wind 14 -> 19 mph (BREEZY -> WINDY)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 19 mph (peak 21) / gust 31 / SW [Open-Meteo 12] | 43°F / 33°F | 72% rain | WINDY GUSTY SOURCES DISAGREE PRICED IN | MEDIUM | 41.5 → 38.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873083-2026-11-23T16:00:31Z-1",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: gusts 22 -> 31 mph (crossed 25)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 19 mph (peak 21) / gust 31 / SW [Open-Meteo 12] | 43°F / 33°F | 72% rain | WINDY GUSTY SOURCES DISAGREE PRICED IN | MEDIUM | 41.5 → 38.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873083-2026-11-23T16:00:31Z-2",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: precip chance jumped 37% -> 72% (rain)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 19 mph (peak 21) / gust 31 / SW [Open-Meteo 12] | 43°F / 33°F | 72% rain | WINDY GUSTY SOURCES DISAGREE PRICED IN | MEDIUM | 41.5 → 38.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873087-2026-11-23T16:00:31Z-3",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "NO@CIN",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NO@CIN: sustained wind 10 -> 8 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 8 mph (peak 8) / gust 15 / SW | 53°F / 52°F | 16% rain | CALM | LOW | 48.5 → 51.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873088-2026-11-23T16:00:31Z-4",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "NYG@IND",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYG@IND: sustained wind 11 -> 8 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Lucas Oil Stadium | ROOF TBD | 8 mph (peak 8) / gust 14 / WSW | 52°F / 51°F | 13% none | CALM ROOF TBD | LOW | 47.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873089-2026-11-23T16:00:31Z-5",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "NYJ@MIA",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYJ@MIA: sustained wind 10 -> 7 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Hard Rock Stadium | OPEN-AIR | 7 mph (peak 7) / gust 13 / NE [Open-Meteo 15] | 76°F / 75°F | 33% rain 0.03\" | CALM SOURCES DISAGREE | LOW | 41.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873085-2026-11-23T16:00:31Z-6",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "BAL@HOU",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "BAL@HOU: sustained wind 5 -> 10 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 10:00 AM PT | NRG Stadium | ROOF TBD | 10 mph (peak 10) / gust 20 / S | 76°F / 75°F | 1% none | BREEZY ROOF TBD | LOW | 45.5 → 46.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-23T16:00:31Z-7",
+   "created": "2026-11-23T16:00:31Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 18 -> 9 mph (WINDY -> CALM)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 9) / gust 15 / SW | 44°F / 39°F | 27% rain | CALM | LOW | 39.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
+   "notified": false
   }
  ]
 }
