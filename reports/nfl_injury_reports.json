@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:20:00Z",
+  "updated": "2026-11-23T00:15:00Z",
   "reports": [
     {
       "espn_event_id": "",
@@ -4779,81 +4779,81 @@
       "home": "SF",
       "kickoff": "2026-11-23T01:20:00Z",
       "week": 11,
-      "pulled_at": "Sun 11/22 ~8:12 AM PT",
-      "pulled_iso": "2026-11-22T16:12:00Z",
+      "pulled_at": "Sun 11/22 ~4:15 PM PT",
+      "pulled_iso": "2026-11-23T00:15:00Z",
       "sources_checked": [
-        "Fox Sports game page (Sun 6:46 AM PT) + DraftKings via ESPN (Sun AM) - no Sunday move [added Sun ~8:55 AM PT]",
-        "Yahoo 'Is Mike Evans playing tonight?' (Sun 11/22 12:52 UTC) citing Garafolo/NFL Network",
-        "NFL.com 'Niners WR Mike Evans (Achilles) expected to play Sunday vs. Vikings' (Sat 11/21, Garafolo)",
-        "Footballguys Saturday Night Injury Watch Wk 11 (updated Sun 11/22 10:55 AM ET)",
-        "FSD Morning Brief Sun 11/22 (aggregator)",
-        "Yahoo Week 11 live blog (updated Sun 11/22 14:07 UTC)",
-        "ESPN 49ers injuries page (RotoWire notes through 11/20)",
-        "Fox Sports odds page (modified Sun 11/22 02:52 UTC = Sat 6:52 PM PT)",
-        "SI/FanDuel odds article (11/18)",
-        "Carried from Sat run: vikings.com Fri report, nfl.com/injuries Wk 11, NFLTR Sat 11/21, Yahoo/SB Nation Cooks waived/West activated"
+        "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+        "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+        "CBS Sports betting preview (Sun 11/22 8:24 AM PT): SF -3.5 / 46.5, ML SF -166 / MIN +145",
+        "CBS Sports SNF live blog (Sun 11/22 3:40 PM PT): SF -3.5 / 46.5 (DraftKings)",
+        "Yahoo SNF live blog (updated Sun 11/22 3:42 PM PT) - no inactives/odds listed",
+        "Carried from earlier runs: nfl.com/injuries Wk 11 (Fri), vikings.com final report (Fri), Garafolo/NFL Network on Evans (Sat), NFLTR (Sat)"
       ],
       "sources_unreachable": [
-        "Official inactives not yet posted (due Sun 11/22 3:50 PM PT)",
         "actionnetwork.com game odds page (fetch failed)",
-        "No Sunday-morning (post-6 AM PT) sportsbook line found; most recent is Fox Sports Sat 6:52 PM PT",
-        "49ers.com injury report (timed out Sat; not retried)"
+        "No verbatim timestamped live sportsbook line after inactives; CBS line figures came from page summary (ML not verbatim-confirmed)",
+        "Vikings inactive list confirmed by one source only (NBC/Rotoworld); vikings.com inactives post not checked"
       ],
       "line_before": "SF -3.5 / O/U 46.5 (Fox Sports Fri 11/20 3:43 PM PT; DK/VegasInsider SF -3 (-118)); opener SF -3 / 46.5 (FanDuel 11/18)",
-      "line_now": "SF -3.5 / O/U 46.5, ML SF -175 / MIN +146 (Fox Sports, Sun 11/22 6:46 AM PT); DraftKings via ESPN SF -3 (-118) / 46.5, ML -170 / +143 (Sun AM)",
-      "line_moved_on_news": "No move on Evans 'expected to play' news: still SF -3.5 / 46.5 after Garafolo's Sat report. Earlier SF -3 -> -3.5 drift was not clearly injury-driven.",
+      "line_now": "SF -3.5 / O/U 46.5, ML SF -166 / MIN +145 (CBS Sports/DraftKings, Sun 11/22 8:24 AM PT; CBS live blog 3:40 PM PT still SF -3.5 / 46.5)",
+      "line_moved_on_news": "No move found: SF -3.5 / 46.5 held from Sat night through inactives; Evans active and Rodgers/Ward out were largely priced in (Evans was reported 'expected to play' Sat). No post-inactives timestamped line found.",
       "top3": [
+        {
+          "player": "Isaiah Rodgers + Jay Ward",
+          "team": "MIN",
+          "why": "Both INACTIVE (official). MIN loses a starting CB and a S vs SF's pass game with Evans back -- biggest late change, leans SF/over."
+        },
         {
           "player": "Mike Evans",
           "team": "SF",
-          "why": "WR1 back from Achilles: Garafolo (Sat) expected to play SNF, reiterated Sun AM; SF waived Brandin Cooks. Officially Questionable; snap count may be managed."
+          "why": "Officially ACTIVE after missing 3 games (Achilles); snap count may be managed. Boosts SF passing upside."
         },
         {
-          "player": "Jordan Addison",
-          "team": "MIN",
-          "why": "Ruled OUT (thumb surgery); Jennings/Jeshaun Jones (FP Fri) absorb targets."
-        },
-        {
-          "player": "Isaiah Rodgers / Jay Ward",
-          "team": "MIN",
-          "why": "Starting CB Rodgers (quad) and S Ward (knee) both Questionable after LP all week -- MIN secondary vs SF passing game."
+          "player": "Dre Greenlaw",
+          "team": "SF",
+          "why": "INACTIVE (neck). Starting LB out; Khalid Kareem (DE) also inactive -- dents SF front seven vs Cousins."
         }
       ],
       "clusters": [
-        "SF DB: Upton Stout Questionable (LP); Nate Hobbs Questionable (IR window, needs activation); Ji'Ayir Brown cleared (FP, no status)",
-        "MIN DB: Isaiah Rodgers (quad) and Jay Ward (knee) both Questionable",
-        "SF LB/DL: Greenlaw, Gifford, Kareem Questionable; C.J. West Questionable (IR window)"
+        "MIN DB: CB Isaiah Rodgers and S Jay Ward both INACTIVE",
+        "SF front seven: LB Dre Greenlaw and DE Khalid Kareem both INACTIVE (Gifford, C.J. West active)",
+        "MIN QB room: Kyler Murray and Max Brosmer inactive -- Cousins starts, Wentz backup"
       ],
       "replacements": [
         {
-          "out": "Kyler Murray (MIN QB2, hamstring) -- OUT",
+          "out": "Kyler Murray (MIN QB2, hamstring) -- inactive",
           "replacement": "Kirk Cousins starts; Carson Wentz backup",
-          "dropoff": "None for starting QB -- Murray is the backup."
+          "dropoff": "None for starting QB."
         },
         {
-          "out": "Jordan Addison (MIN WR, thumb) -- OUT",
+          "out": "Jordan Addison (MIN WR, thumb) -- inactive",
           "replacement": "Jauan Jennings / Jeshaun Jones",
           "dropoff": "Moderate WR2 dropoff."
         },
         {
-          "out": "Mike Evans (SF WR) -- if out",
-          "replacement": "Existing SF WR group (played without him last 3 games)",
-          "dropoff": "None vs recent weeks; upside if he plays."
+          "out": "Isaiah Rodgers (MIN CB) -- inactive",
+          "replacement": "Next CB on depth chart (not confirmed by source)",
+          "dropoff": "Notable: starting outside CB out vs Evans/SF WRs."
+        },
+        {
+          "out": "Dre Greenlaw (SF LB, neck) -- inactive",
+          "replacement": "Luke Gifford / reserve LBs (Gifford active)",
+          "dropoff": "Moderate in run/coverage depth."
         }
       ],
       "conflicts": [
         "Venue: game is in Mexico City (Estadio Banorte per Fox Sports/ESPN notes) -- SF is designated home team. Kickoff 8:20 PM ET = 5:20 PM PT (Fox lists 'Mon 1:20 AM' UTC).",
         "Nate Hobbs injury: 'adductor' (Thu) vs 'groin' (nfl.com Fri) -- same area.",
-        "Spread SF -3 (DraftKings/VegasInsider, Fri) vs -3.5 (Fox, bet365) -- books split; Fox still -3.5 Sat night."
+        "Venue name: 49ers.com says Estadio Banorte; CBS live blog says Estadio Azteca -- same stadium (renamed). Kickoff 7:20 PM local = 5:20 PM PT."
       ],
       "unknowns": [
         {
-          "what": "Inactives: Evans (expected active), Greenlaw, Stout, Gifford, Kareem, James, Mac Jones (SF); Rodgers, Ward (MIN)",
-          "known_by": "Sun 11/22 3:50 PM PT"
-        },
-        {
           "what": "Evans snap count/role (limited?)",
           "known_by": "In-game, Sun 11/22 5:20 PM PT+"
+        },
+        {
+          "what": "Who starts at CB for MIN in Rodgers' place",
+          "known_by": "Kickoff, Sun 11/22 5:20 PM PT"
         }
       ],
       "players": [
@@ -4866,9 +4866,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Thumb; surgery Mon 11/16. RULED OUT. RotoWire (11/18): not going on IR.",
-          "source": "vikings.com 'Vikings at 49ers Injury Report Week 11' (Fri 11/20 1:15 PM) + nfl.com/injuries Wk 11 (Fri) + RotoWire (11/18)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Thumb; surgery Mon 11/16. RULED OUT. RotoWire (11/18): not going on IR.",
+          "source": "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "MIN",
@@ -4879,9 +4879,9 @@
           "status": "Out",
           "play_pct": 0,
           "type": "injury",
-          "note": "Grade 2 hamstring; RULED OUT. Backup to Kirk Cousins.",
-          "source": "vikings.com 'Vikings at 49ers Injury Report Week 11' (Fri 11/20 1:15 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Grade 2 hamstring; RULED OUT. Backup to Kirk Cousins.",
+          "source": "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "MIN",
@@ -4889,12 +4889,12 @@
           "pos": "CB",
           "practice": "Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 65,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Quad; LP-LP (added Thu), QUESTIONABLE. Starting CB.",
-          "source": "vikings.com 'Vikings at 49ers Injury Report Week 11' (Fri 11/20 1:15 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Quad; LP-LP (added Thu), QUESTIONABLE. Starting CB.",
+          "source": "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "MIN",
@@ -4954,12 +4954,12 @@
           "pos": "S",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 60,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Knee; LP all week, QUESTIONABLE.",
-          "source": "vikings.com 'Vikings at 49ers Injury Report Week 11' (Fri 11/20 1:15 PM) + nfl.com/injuries Wk 11 (Fri)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Knee; LP all week, QUESTIONABLE.",
+          "source": "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "MIN",
@@ -5006,12 +5006,12 @@
           "pos": "WR",
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 88,
+          "status": "Active",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Expected to PLAY (Garafolo/NFL Network Sat, re-reported Sun AM by Yahoo); FSD brief (aggregator) mentions a likely limited snap count -- unconfirmed by an insider. SF waived WR Brandin Cooks Sat. Still officially Questionable. Achilles tendinitis; missed last 3 games; DNP-LP-LP.",
-          "source": "Yahoo (Sun 11/22 12:52 UTC) + NFL.com citing Mike Garafolo (Sat 11/21) + nfl.com/injuries Wk 11 (Fri) + FSD Morning Brief (Sun 11/22)",
-          "pulled_at": "Sun 11/22 ~8:12 AM PT"
+          "note": "ACTIVE (not on official inactive list). Expected to PLAY (Garafolo/NFL Network Sat, re-reported Sun AM by Yahoo); FSD brief (aggregator) mentions a likely limited snap count -- unconfirmed by an insider. SF waived WR Brandin Cooks Sat. Still officially Questionable. Achilles tendinitis; missed last 3 games; DNP-LP-LP.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5019,12 +5019,12 @@
           "pos": "LB",
           "practice": "Wed DNP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 75,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Neck / rest; DNP-LP-LP, Questionable.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Neck / rest; DNP-LP-LP, Questionable.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5058,12 +5058,12 @@
           "pos": "QB",
           "practice": "Wed LP · Thu DNP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 75,
+          "status": "Active",
+          "play_pct": 100,
           "type": "illness",
-          "note": "Illness (backup QB); back to limited Friday, Questionable. Footballguys (Sun AM) outlook optimistic.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20) + Footballguys (Sun 11/22 10:55 AM ET)",
-          "pulled_at": "Sun 11/22 ~8:12 AM PT"
+          "note": "ACTIVE (not on official inactive list). Illness (backup QB); back to limited Friday, Questionable. Footballguys (Sun AM) outlook optimistic.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5084,12 +5084,12 @@
           "pos": "LB",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 60,
+          "status": "Active",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Chest; LP all week, Questionable.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "ACTIVE (not on official inactive list). Chest; LP all week, Questionable.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5097,12 +5097,12 @@
           "pos": "DE",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 60,
+          "status": "Out",
+          "play_pct": 0,
           "type": "injury",
-          "note": "Ankle; LP all week, Questionable.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "INACTIVE (official). Ankle; LP all week, Questionable.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5110,12 +5110,12 @@
           "pos": "CB",
           "practice": "Wed LP · Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 60,
+          "status": "Active",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Shoulder/neck; LP all week, Questionable. Starting nickel.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "ACTIVE (not on official inactive list). Shoulder/neck; LP all week, Questionable. Starting nickel.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5123,12 +5123,12 @@
           "pos": "RB",
           "practice": "Thu LP · Fri LP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 60,
+          "status": "Active",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Calf; LP Thu-Fri, Questionable.",
-          "source": "nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Fri 11/20 ~6:50 PM PT"
+          "note": "ACTIVE (not on official inactive list). Calf; LP Thu-Fri, Questionable.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5188,12 +5188,12 @@
           "pos": "DT",
           "practice": "Wed FP · Thu FP · Fri FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 85,
+          "status": "Active",
+          "play_pct": 100,
           "type": "injury",
-          "note": "Knee; activated from IR Sat 11/21 -- eligible. FP all week, Questionable.",
-          "source": "NFLTR Sat 11/21 + nfl.com/injuries Wk 11 (Fri; latest-day participation + game status) + RotoWire/ESPN SF injuries (11/20)",
-          "pulled_at": "Sat 11/21 ~6:55 PM PT"
+          "note": "ACTIVE (not on official inactive list). Knee; activated from IR Sat 11/21 -- eligible. FP all week, Questionable.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         },
         {
           "team": "SF",
@@ -5298,6 +5298,58 @@
           "player": "Brandin Cooks",
           "pos": "WR",
           "source": "NFLTR Sat 11/21"
+        },
+        {
+          "team": "SF",
+          "player": "Kurtis Rourke",
+          "pos": "QB",
+          "practice": "Not on injury report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "INACTIVE (official), healthy scratch -- no reason given.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Enrique Cruz Jr.",
+          "pos": "OL",
+          "practice": "Not on injury report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "INACTIVE (official), healthy scratch -- no reason given.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
+        },
+        {
+          "team": "SF",
+          "player": "Demarcus Robinson",
+          "pos": "WR",
+          "practice": "Not on injury report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "INACTIVE (official), healthy scratch -- no reason given.",
+          "source": "49ers.com 'Mike Evans Active, Dre Greenlaw OUT vs. Vikings; Inactives Week 11' (Sun 11/22 3:50 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
+        },
+        {
+          "team": "MIN",
+          "player": "Max Brosmer",
+          "pos": "QB",
+          "practice": "Not on injury report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "INACTIVE (official), healthy scratch -- no reason given.",
+          "source": "NBC Sports/Rotoworld 'Jordan Addison headlines Vikings' inactives' (Sun 11/22 3:57 PM PT) -- official inactives",
+          "pulled_at": "Sun 11/22 ~4:15 PM PT"
         }
       ]
     },
