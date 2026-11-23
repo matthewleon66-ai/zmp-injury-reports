@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:53:00Z",
+  "updated": "2026-11-24T00:05:00Z",
   "reports": [
     {
       "espn_event_id": "401873078",
@@ -7,8 +7,8 @@
       "home": "WSH",
       "kickoff": "2026-11-24T01:15:00Z",
       "week": 11,
-      "pulled_at": "Mon 11/23 3:53 PM PT",
-      "pulled_iso": "2026-11-23T23:53:00Z",
+      "pulled_at": "Mon 11/23 4:05 PM PT",
+      "pulled_iso": "2026-11-24T00:05:00Z",
       "sources_checked": [
         "SI Bengals On SI 'Two Bengals Starters Who Were Questionable are Active' (official inactives report, 11/23 3:45 PM PT) - CIN inactives: Risner, Dugger, Hinton, Grandy, L. Robinson; Hill & Fairchild active; Bozeman/Parker activated; WSH: Robertson inactive, Yiadom waived",
         "Cincinnati Enquirer via Yahoo 'Commanders won't have Amik Robertson vs Bengals' (11/23 3:08 PM PT)",
@@ -18,15 +18,17 @@
         "SI Betting odds (DraftKings, 11/19) and BUSR (11/20) for line history",
         "Yahoo live blog (11/23 3:10 PM PT) - no inactive list in text",
         "commanders.com Game Status (Sat 11/21) - pre-game statuses",
-        "Carried: nfl.com/commanders.com Thu-Sat practice reports (prior run)"
+        "Carried: nfl.com/commanders.com Thu-Sat practice reports (prior run)",
+        "RotoWire game page inactives block (Mon ~4:00 PM PT) - WSH inactives: Barber, Henry, Kaliakmanis, Robertson, Togiai; White active",
+        "bengals.com Week 11 injury report Monday update - Davis/Iosivas OUT, Bozeman/Parker activated"
       ],
       "sources_unreachable": [
-        "Full official WSH inactive list - not found (hogshaven.com robots-blocked; commanders.com and Yahoo pages fetched had no list). Only Robertson confirmed inactive.",
         "nfl.com official inactives page not fetched/indexed at 3:53 PM PT",
-        "No live sportsbook feed - latest line is CBS 1:45 PM PT (book not named)"
+        "No live sportsbook feed - latest line is CBS 1:45 PM PT (book not named)",
+        "Team-posted WSH inactives not found (hogshaven robots-blocked; commanders.com page stale) - WSH list from RotoWire, Robertson confirmed by SI"
       ],
       "line_before": "CIN -6.5 / O/U 54.5 (Fox Sports Sat 11/21); DK Thu CIN -6.5 / 53.5; opener CIN -3.5 / 51.5",
-      "line_now": "CIN -6 / O/U 54.5, ML CIN -290 / WSH +245 (CBS Sports, Mon 11/23 1:45 PM PT; book not named)",
+      "line_now": "CIN -6 / O/U 54.5, ML CIN -290 / WSH +245 (CBS Sports, Mon 11/23 1:45 PM PT; book not named); DraftKings via NBC Sports (Mon ~10:30 AM PT): CIN -6 (-120) / 54.5, ML -302/+245",
       "line_moved_on_news": "Barely - spread ticked from -6.5 to -6 by Mon afternoon, consistent with Croskey-Merritt activation and Dax Hill expected back; total steady at 54.5. Robertson OUT news (~3:00 PM PT) came after the latest line found. Opener-to-now move (-3.5 to -6.5) was money/form, not injuries (BUSR).",
       "top3": [
         {
@@ -76,13 +78,11 @@
       "conflicts": [
         "Croskey-Merritt: BUSR (Fri) said WSH 'lost' him - superseded by official IR activation Mon (NBC/PFT, RotoWire).",
         "Spread: CBS Mon CIN -6 vs DK/BUSR -6.5 (Thu-Fri) - newer CBS used.",
-        "Total: DK 53.5 (Thu) vs BUSR 54 (Fri) vs CBS/Fox 54.5 - newest (CBS) used."
+        "Total: DK 53.5 (Thu) vs BUSR 54 (Fri) vs CBS/Fox 54.5 - newest (CBS) used.",
+        "Rachaad White: commanders.com still Questionable vs RotoWire 'active' and absent from WSH inactives - active wins (inactives override).",
+        "Jalen Davis/Iosivas: commanders.com shows Doubtful (stale) vs bengals.com Monday update OUT - team's own site wins."
       ],
       "unknowns": [
-        {
-          "what": "Full WSH inactive list (esp. Rachaad White) - not found in any reachable source",
-          "known_by": "Visible at kickoff Mon 11/23 5:15 PM PT"
-        },
         {
           "what": "Closing line after Robertson OUT news",
           "known_by": "Kickoff 5:15 PM PT"
@@ -277,12 +277,12 @@
           "pos": "C",
           "practice": "Thu FP · Fri FP · Sat FP",
           "estimated": false,
-          "status": "Questionable",
-          "play_pct": 92,
+          "status": "none",
+          "play_pct": 99,
           "type": "injury",
-          "note": "Concussion; cleared protocol, Quinn says he will start. Not named inactive (full WSH list unconfirmed).",
-          "source": "commanders.com Game Status (Sat 11/21 ~4:00 PM)",
-          "pulled_at": "Mon 11/23 3:53 PM PT"
+          "note": "Concussion cleared; NOT on WSH inactives list - expected to start at C.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
         },
         {
           "team": "WSH",
@@ -497,13 +497,13 @@
           "player": "Rachaad White",
           "pos": "RB",
           "practice": "Fri LP · Sat DNP",
-          "status": "Questionable",
-          "play_pct": 75,
+          "status": "none",
+          "play_pct": 99,
           "type": "injury",
-          "note": "Heel; DNP Sat (soreness). Garafolo: should be good to go. NOT named inactive in any report found, but full WSH list unconfirmed.",
-          "source": "SI Betting citing Mike Garafolo (Sat): 'should be good to go'; full WSH inactive list not found",
+          "note": "Heel; NOT on WSH inactives list and RotoWire reports him active (citing Commanders post) - plays.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
           "estimated": false,
-          "pulled_at": "Mon 11/23 3:53 PM PT"
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
         },
         {
           "practice": "Sat DNP",
@@ -582,6 +582,58 @@
           "note": "Waived Mon to make room for Croskey-Merritt (roster move, not injury).",
           "source": "SI Bengals On SI 'Two Bengals Starters Who Were Questionable are Active' (official inactives report, 11/23 3:45 PM PT)",
           "pulled_at": "Mon 11/23 3:53 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Ricky Barber",
+          "pos": "DT",
+          "practice": "not on report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "Healthy/depth inactive.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Robert Henry",
+          "pos": "RB",
+          "practice": "not on report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "Healthy/depth inactive.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Athan Kaliakmanis",
+          "pos": "QB",
+          "practice": "not on report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "Healthy/depth inactive.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
+        },
+        {
+          "team": "WSH",
+          "player": "Tanoa Togiai",
+          "pos": "G",
+          "practice": "not on report",
+          "estimated": false,
+          "status": "Out",
+          "play_pct": 0,
+          "type": "rest",
+          "note": "Healthy/depth inactive.",
+          "source": "RotoWire game-page inactives block (Mon 11/23; CIN list matches SI official inactives exactly)",
+          "pulled_at": "Mon 11/23 ~4:05 PM PT"
         }
       ]
     }
