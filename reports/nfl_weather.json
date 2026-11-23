@@ -1,125 +1,10 @@
 {
- "updated": "2026-11-23T01:01:55Z",
- "updated_pt": "Sun 11/22 5:01 PM PT",
+ "updated": "2026-11-23T02:14:42Z",
+ "updated_pt": "Sun 11/22 6:14 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
  "games": [
-  {
-   "espn_event_id": "401873077",
-   "away": "MIN",
-   "home": "SF",
-   "week": 11,
-   "kickoff": "2026-11-23T01:20:00Z",
-   "kickoff_pt": "Sun 11/22 5:20 PM PT",
-   "stadium": "Estadio Banorte",
-   "city": "Mexico City, Mexico",
-   "neutral_site": true,
-   "roof": "OPEN-AIR",
-   "confidence": "FINAL",
-   "total": {
-    "open": 46.5,
-    "open_source": "ESPN",
-    "first_seen": 46.5,
-    "prev": 46.5,
-    "now": 44.5,
-    "spread": "SF -4.5",
-    "book": "DraftKings",
-    "history": [
-     {
-      "t": "2026-11-17T05:38:41Z",
-      "total": 46.5
-     },
-     {
-      "t": "2026-11-17T18:56:17Z",
-      "total": 45.5
-     },
-     {
-      "t": "2026-11-19T02:14:17Z",
-      "total": 46.5
-     },
-     {
-      "t": "2026-11-22T23:40:07Z",
-      "total": 44.5
-     }
-    ]
-   },
-   "venue_note": "Neutral/international venue: coordinates geocoded from city, roof from ESPN venue.indoor. Verify.",
-   "weather": {
-    "source": "Open-Meteo",
-    "issued": null,
-    "wind_avg": 3,
-    "wind_peak": 4,
-    "gust": 13,
-    "dir": "W",
-    "dir_at_kick": "NNE",
-    "temp": 61,
-    "feels": 60,
-    "precip_chance": 83,
-    "precip_in": 0.0,
-    "snow_in": 0,
-    "precip_type": "rain",
-    "heavy_text": false,
-    "hours": [
-     {
-      "t": "2026-11-23T01:00:00Z",
-      "wind": 4,
-      "gust": 13,
-      "dir": "NNE",
-      "temp": 60,
-      "feels": 60,
-      "pop": 79,
-      "wx": "Rain"
-     },
-     {
-      "t": "2026-11-23T02:00:00Z",
-      "wind": 2,
-      "gust": 10,
-      "dir": "SW",
-      "temp": 61,
-      "feels": 61,
-      "pop": 83,
-      "wx": "Rain"
-     },
-     {
-      "t": "2026-11-23T03:00:00Z",
-      "wind": 3,
-      "gust": 9,
-      "dir": "W",
-      "temp": 61,
-      "feels": 60,
-      "pop": 78,
-      "wx": ""
-     },
-     {
-      "t": "2026-11-23T04:00:00Z",
-      "wind": 2,
-      "gust": 10,
-      "dir": "W",
-      "temp": 61,
-      "feels": 61,
-      "pop": 57,
-      "wx": ""
-     }
-    ]
-   },
-   "weather_backup": null,
-   "observation": null,
-   "tags": [
-    "CALM"
-   ],
-   "sources_disagree": false,
-   "sources": [
-    "Open-Meteo"
-   ],
-   "pulled_at": "Sun 11/22 5:01 PM PT",
-   "pulled_at_iso": "2026-11-23T01:01:55Z",
-   "error": null,
-   "weather_game": false,
-   "edge_rerun_needed": false,
-   "odds_display": null,
-   "card": "Sun 11/22 5:20 PM PT | Estadio Banorte | OPEN-AIR | 3 mph (peak 4) / gust 13 / W | 61°F / 60°F | 83% rain | CALM | FINAL | 46.5 → 44.5 | Open-Meteo | Sun 11/22 5:01 PM PT"
-  },
   {
    "espn_event_id": "401873078",
    "away": "CIN",
@@ -327,8 +212,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": null,
-    "now": 45.5,
+    "prev": 45.5,
+    "now": 44.5,
     "spread": "LAR -3",
     "book": "DraftKings",
     "history": [
@@ -339,6 +224,10 @@
      {
       "t": "2026-11-18T15:57:05Z",
       "total": 45.5
+     },
+     {
+      "t": "2026-11-23T02:14:42Z",
+      "total": 44.5
      }
     ]
    },
@@ -347,14 +236,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 5:01 PM PT",
-   "pulled_at_iso": "2026-11-23T01:01:55Z",
+   "pulled_at": "Sun 11/22 6:14 PM PT",
+   "pulled_at_iso": "2026-11-23T02:14:42Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 45.5 | — | Sun 11/22 5:01 PM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 49.5 → 44.5 | — | Sun 11/22 6:14 PM PT"
   },
   {
    "espn_event_id": "401873081",
@@ -400,14 +289,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 5:01 PM PT",
-   "pulled_at_iso": "2026-11-23T01:01:55Z",
+   "pulled_at": "Sun 11/22 6:14 PM PT",
+   "pulled_at_iso": "2026-11-23T02:14:42Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Sun 11/22 5:01 PM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Sun 11/22 6:14 PM PT"
   },
   {
    "espn_event_id": "401873080",
@@ -425,8 +314,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 47.5,
-    "prev": null,
-    "now": 48.5,
+    "prev": 48.5,
+    "now": 47.5,
     "spread": "DAL -8.5",
     "book": "DraftKings",
     "history": [
@@ -437,6 +326,10 @@
      {
       "t": "2026-11-22T21:40:12Z",
       "total": 48.5
+     },
+     {
+      "t": "2026-11-23T02:14:42Z",
+      "total": 47.5
      }
     ]
    },
@@ -579,7 +472,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 2 mph (peak 5) / gust 7 / N [Open-Meteo 8] | 54°F / 51°F | 0% none | CALM ROOF TBD SOURCES DISAGREE | MEDIUM | 49.5 → 48.5 | NWS + Open-Meteo | Sun 11/22 1:40 PM PT"
+   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 2 mph (peak 5) / gust 7 / N [Open-Meteo 8] | 54°F / 51°F | 0% none | CALM ROOF TBD SOURCES DISAGREE | MEDIUM | 49.5 → 47.5 | NWS + Open-Meteo | Sun 11/22 1:40 PM PT"
   },
   {
    "espn_event_id": "401873082",
@@ -599,7 +492,7 @@
     "first_seen": 50.5,
     "prev": null,
     "now": 50.5,
-    "spread": "BUF -3",
+    "spread": "BUF -2.5",
     "book": "DraftKings",
     "history": [
      {
@@ -774,7 +667,7 @@
     "first_seen": 40.5,
     "prev": null,
     "now": 39.5,
-    "spread": "DEN -2.5",
+    "spread": "DEN -3",
     "book": "DraftKings",
     "history": [
      {
@@ -941,8 +834,8 @@
     "open": 48.5,
     "open_source": "ESPN",
     "first_seen": 52.5,
-    "prev": null,
-    "now": 51.5,
+    "prev": 51.5,
+    "now": 52.5,
     "spread": "CIN -10",
     "book": "DraftKings",
     "history": [
@@ -953,6 +846,10 @@
      {
       "t": "2026-11-22T23:40:07Z",
       "total": 51.5
+     },
+     {
+      "t": "2026-11-23T02:14:42Z",
+      "total": 52.5
      }
     ]
    },
@@ -1034,7 +931,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 9 mph (peak 10) / gust 18 / WSW | 56°F / 49°F | 5% none | CALM | LOW | 48.5 → 51.5 | Open-Meteo | Sun 11/22 12:42 PM PT"
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 9 mph (peak 10) / gust 18 / WSW | 56°F / 49°F | 5% none | CALM | LOW | 48.5 → 52.5 | Open-Meteo | Sun 11/22 12:42 PM PT"
   },
   {
    "espn_event_id": "401873088",
@@ -1054,7 +951,7 @@
     "first_seen": 43.5,
     "prev": null,
     "now": 41.5,
-    "spread": "NYG -7",
+    "spread": "NYG -6.5",
     "book": "DraftKings",
     "history": [
      {
@@ -1279,10 +1176,10 @@
     "open": 43.5,
     "open_source": "ESPN",
     "first_seen": 42.5,
-    "prev": null,
-    "now": 42.5,
-    "spread": "MIN -7",
-    "book": "DraftKings",
+    "prev": 42.5,
+    "now": null,
+    "spread": null,
+    "book": null,
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1295,14 +1192,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 5:01 PM PT",
-   "pulled_at_iso": "2026-11-23T01:01:55Z",
+   "pulled_at": "Sun 11/22 6:14 PM PT",
+   "pulled_at_iso": "2026-11-23T02:14:42Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Sun 11/22 5:01 PM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → — | — | Sun 11/22 6:14 PM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1551,9 +1448,9 @@
     "open": 45.5,
     "open_source": "ESPN",
     "first_seen": 39.5,
-    "prev": 39.5,
-    "now": 37.5,
-    "spread": "LAC -2.5",
+    "prev": 37.5,
+    "now": 38.5,
+    "spread": "LAC -1.5",
     "book": "DraftKings",
     "history": [
      {
@@ -1563,6 +1460,10 @@
      {
       "t": "2026-11-23T01:01:55Z",
       "total": 37.5
+     },
+     {
+      "t": "2026-11-23T02:14:42Z",
+      "total": 38.5
      }
     ]
    },
@@ -1571,14 +1472,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sun 11/22 5:01 PM PT",
-   "pulled_at_iso": "2026-11-23T01:01:55Z",
+   "pulled_at": "Sun 11/22 6:14 PM PT",
+   "pulled_at_iso": "2026-11-23T02:14:42Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 37.5 | — | Sun 11/22 5:01 PM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 38.5 | — | Sun 11/22 6:14 PM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1708,10 +1609,10 @@
     "open": 46.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": null,
-    "now": 46.5,
-    "spread": "SF -2.5",
-    "book": "DraftKings",
+    "prev": 46.5,
+    "now": null,
+    "spread": null,
+    "book": null,
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1797,7 +1698,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 9 mph (peak 10) / gust 20 / W | 59°F / 54°F | 51% rain 0.02\" | CALM | LOW | 46.5 → 46.5 | Open-Meteo | Sun 11/22 12:42 PM PT"
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 9 mph (peak 10) / gust 20 / W | 59°F / 54°F | 51% rain 0.02\" | CALM | LOW | 46.5 → — | Open-Meteo | Sun 11/22 12:42 PM PT"
   },
   {
    "espn_event_id": "401873086",
