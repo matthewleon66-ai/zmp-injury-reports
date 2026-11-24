@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T03:56:40Z",
- "updated_pt": "Mon 11/23 7:56 PM PT",
+ "updated": "2026-11-24T05:02:17Z",
+ "updated_pt": "Mon 11/23 9:02 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -21,8 +21,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 46.5,
-    "prev": 45.5,
-    "now": 44.5,
+    "prev": 44.5,
+    "now": 43.5,
     "spread": "LAR -2.5",
     "book": "Draft Kings",
     "history": [
@@ -37,6 +37,10 @@
      {
       "t": "2026-11-23T02:14:42Z",
       "total": 44.5
+     },
+     {
+      "t": "2026-11-24T05:02:17Z",
+      "total": 43.5
      }
     ]
    },
@@ -45,14 +49,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 7:56 PM PT",
-   "pulled_at_iso": "2026-11-24T03:56:40Z",
+   "pulled_at": "Mon 11/23 9:02 PM PT",
+   "pulled_at_iso": "2026-11-24T05:02:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 44.5 | — | Mon 11/23 7:56 PM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 43.5 | — | Mon 11/23 9:02 PM PT"
   },
   {
    "espn_event_id": "401873081",
@@ -98,14 +102,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 7:56 PM PT",
-   "pulled_at_iso": "2026-11-24T03:56:40Z",
+   "pulled_at": "Mon 11/23 9:02 PM PT",
+   "pulled_at_iso": "2026-11-24T05:02:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Mon 11/23 7:56 PM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Mon 11/23 9:02 PM PT"
   },
   {
    "espn_event_id": "401873080",
@@ -123,8 +127,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 47.5,
-    "prev": 47.5,
-    "now": 48.5,
+    "prev": 48.5,
+    "now": 47.5,
     "spread": "DAL -8.5",
     "book": "Draft Kings",
     "history": [
@@ -143,6 +147,10 @@
      {
       "t": "2026-11-23T22:51:09Z",
       "total": 48.5
+     },
+     {
+      "t": "2026-11-24T05:02:17Z",
+      "total": 47.5
      }
     ]
    },
@@ -283,7 +291,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 2 mph (peak 5) / gust 12 / NNW | 54°F / 52°F | 0% none | CALM ROOF TBD | MEDIUM | 49.5 → 48.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
+   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 2 mph (peak 5) / gust 12 / NNW | 54°F / 52°F | 0% none | CALM ROOF TBD | MEDIUM | 49.5 → 47.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
    "espn_event_id": "401873082",
@@ -657,7 +665,7 @@
    "pulled_at_iso": "2026-11-24T03:56:40Z",
    "error": null,
    "weather_game": true,
-   "edge_rerun_needed": true,
+   "edge_rerun_needed": false,
    "odds_display": {
     "now": "O/U 38.5",
     "before": "O/U 37.5",
@@ -681,10 +689,10 @@
     "open": 48.5,
     "open_source": "ESPN",
     "first_seen": 52.5,
-    "prev": 50.5,
-    "now": null,
-    "spread": null,
-    "book": null,
+    "prev": null,
+    "now": 50.5,
+    "spread": "CIN -10",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -842,13 +850,9 @@
    "pulled_at_iso": "2026-11-24T03:56:40Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U —",
-    "before": "O/U 50.5",
-    "changed": false
-   },
-   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 11 mph (peak 12) / gust 17 / SW | 54°F / 53°F | 13% none | BREEZY | LOW | 48.5 → — | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
+   "edge_rerun_needed": false,
+   "odds_display": null,
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 11 mph (peak 12) / gust 17 / SW | 54°F / 53°F | 13% none | BREEZY | LOW | 48.5 → 50.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
    "espn_event_id": "401873088",
@@ -1215,7 +1219,7 @@
     "first_seen": 42.5,
     "prev": 41.5,
     "now": 42.5,
-    "spread": "MIN -6.5",
+    "spread": "MIN -7",
     "book": "Draft Kings",
     "history": [
      {
@@ -1237,14 +1241,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 7:56 PM PT",
-   "pulled_at_iso": "2026-11-24T03:56:40Z",
+   "pulled_at": "Mon 11/23 9:02 PM PT",
+   "pulled_at_iso": "2026-11-24T05:02:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Mon 11/23 7:56 PM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Mon 11/23 9:02 PM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1645,14 +1649,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 7:56 PM PT",
-   "pulled_at_iso": "2026-11-24T03:56:40Z",
+   "pulled_at": "Mon 11/23 9:02 PM PT",
+   "pulled_at_iso": "2026-11-24T05:02:17Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 35.5 | — | Mon 11/23 7:56 PM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 35.5 | — | Mon 11/23 9:02 PM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1670,10 +1674,10 @@
     "open": 47.5,
     "open_source": "ESPN",
     "first_seen": 42.5,
-    "prev": 40.5,
-    "now": null,
-    "spread": null,
-    "book": null,
+    "prev": null,
+    "now": 40.5,
+    "spread": "WSH -7.5",
+    "book": "Draft Kings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1842,7 +1846,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:25 PM PT | State Farm Stadium | ROOF TBD | 2 mph (peak 5) / gust 7 / S | 76°F / 74°F | 6% none | CALM ROOF TBD | LOW | 47.5 → — | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
+   "card": "Sun 11/29 1:25 PM PT | State Farm Stadium | ROOF TBD | 2 mph (peak 5) / gust 7 / S | 76°F / 74°F | 6% none | CALM ROOF TBD | LOW | 47.5 → 40.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
    "espn_event_id": "401873091",
@@ -2014,12 +2018,8 @@
    "pulled_at_iso": "2026-11-24T03:56:40Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U 46.5",
-    "before": "O/U 47.5",
-    "changed": true
-   },
+   "edge_rerun_needed": false,
+   "odds_display": null,
    "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 13 mph (peak 14) / gust 30 / SW | 62°F / 61°F | 82% rain 0.07\" | BREEZY GUSTY | LOW | 46.5 → 46.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
@@ -2187,12 +2187,8 @@
    "pulled_at_iso": "2026-11-24T03:56:40Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U 41.5",
-    "before": "O/U 40.5",
-    "changed": true
-   },
+   "edge_rerun_needed": false,
+   "odds_display": null,
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 12 mph (peak 12) / gust 18 / SW | 44°F / 36°F | 32% rain | BREEZY | LOW | 39.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
