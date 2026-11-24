@@ -422,6 +422,24 @@
    "text": "LV@CLE: sustained wind 9 -> 12 mph (CALM -> BREEZY)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 12 mph (peak 12) / gust 18 / SW | 44°F / 36°F | 32% rain | BREEZY | LOW | 39.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873094-2026-11-24T10:06:10Z-0",
+   "created": "2026-11-24T10:06:10Z",
+   "game": "CAR@TB",
+   "kickoff_pt": "Mon 11/30 5:15 PM PT",
+   "text": "CAR@TB: sustained wind 7 -> 11 mph (CALM -> BREEZY)",
+   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 11 mph (peak 11) / gust 28 / S | 72°F / 76°F | 12% rain 0.61\" | BREEZY GUSTY | LOW | 44.5 → 43.5 | Open-Meteo | Tue 11/24 2:06 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873094-2026-11-24T10:06:10Z-1",
+   "created": "2026-11-24T10:06:10Z",
+   "game": "CAR@TB",
+   "kickoff_pt": "Mon 11/30 5:15 PM PT",
+   "text": "CAR@TB: gusts 16 -> 28 mph (crossed 25)",
+   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 11 mph (peak 11) / gust 28 / S | 72°F / 76°F | 12% rain 0.61\" | BREEZY GUSTY | LOW | 44.5 → 43.5 | Open-Meteo | Tue 11/24 2:06 AM PT",
+   "notified": false
   }
  ]
 }
