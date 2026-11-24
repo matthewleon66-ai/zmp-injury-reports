@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T05:02:17Z",
- "updated_pt": "Mon 11/23 9:02 PM PT",
+ "updated": "2026-11-24T05:58:16Z",
+ "updated_pt": "Mon 11/23 9:58 PM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -49,14 +49,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 9:02 PM PT",
-   "pulled_at_iso": "2026-11-24T05:02:17Z",
+   "pulled_at": "Mon 11/23 9:58 PM PT",
+   "pulled_at_iso": "2026-11-24T05:58:16Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 43.5 | — | Mon 11/23 9:02 PM PT"
+   "card": "Wed 11/25 5:00 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 49.5 → 43.5 | — | Mon 11/23 9:58 PM PT"
   },
   {
    "espn_event_id": "401873081",
@@ -102,14 +102,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 9:02 PM PT",
-   "pulled_at_iso": "2026-11-24T05:02:17Z",
+   "pulled_at": "Mon 11/23 9:58 PM PT",
+   "pulled_at_iso": "2026-11-24T05:58:16Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Mon 11/23 9:02 PM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 51.5 → 55.5 | — | Mon 11/23 9:58 PM PT"
   },
   {
    "espn_event_id": "401873080",
@@ -309,8 +309,8 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 50.5,
-    "prev": 47.5,
-    "now": 48.5,
+    "prev": 48.5,
+    "now": 47.5,
     "spread": "BUF -3",
     "book": "Draft Kings",
     "history": [
@@ -337,6 +337,10 @@
      {
       "t": "2026-11-24T01:01:59Z",
       "total": 48.5
+     },
+     {
+      "t": "2026-11-24T05:58:16Z",
+      "total": 47.5
      }
     ]
    },
@@ -476,7 +480,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 5:20 PM PT | Highmark Stadium | OPEN-AIR | 9 mph (peak 10) / gust 23 / E | 38°F / 32°F | 99% rain 0.22\" | CALM | MEDIUM | 49.5 → 48.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
+   "card": "Thu 11/26 5:20 PM PT | Highmark Stadium | OPEN-AIR | 9 mph (peak 10) / gust 23 / E | 38°F / 32°F | 99% rain 0.22\" | CALM | MEDIUM | 49.5 → 47.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT"
   },
   {
    "espn_event_id": "401873083",
@@ -1241,14 +1245,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 9:02 PM PT",
-   "pulled_at_iso": "2026-11-24T05:02:17Z",
+   "pulled_at": "Mon 11/23 9:58 PM PT",
+   "pulled_at_iso": "2026-11-24T05:58:16Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Mon 11/23 9:02 PM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 43.5 → 42.5 | — | Mon 11/23 9:58 PM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1649,14 +1653,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Mon 11/23 9:02 PM PT",
-   "pulled_at_iso": "2026-11-24T05:02:17Z",
+   "pulled_at": "Mon 11/23 9:58 PM PT",
+   "pulled_at_iso": "2026-11-24T05:58:16Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 35.5 | — | Mon 11/23 9:02 PM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 45.5 → 35.5 | — | Mon 11/23 9:58 PM PT"
   },
   {
    "espn_event_id": "401873092",
