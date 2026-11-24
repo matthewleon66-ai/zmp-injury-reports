@@ -440,6 +440,51 @@
    "text": "CAR@TB: gusts 16 -> 28 mph (crossed 25)",
    "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 11 mph (peak 11) / gust 28 / S | 72°F / 76°F | 12% rain 0.61\" | BREEZY GUSTY | LOW | 44.5 → 43.5 | Open-Meteo | Tue 11/24 2:06 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873082-2026-11-24T16:04:10Z-0",
+   "created": "2026-11-24T16:04:10Z",
+   "game": "KC@BUF",
+   "kickoff_pt": "Thu 11/26 5:20 PM PT",
+   "text": "KC@BUF: sustained wind 9 -> 10 mph (CALM -> BREEZY)",
+   "card": "Thu 11/26 5:20 PM PT | Highmark Stadium | OPEN-AIR | 10 mph (peak 10) / gust 26 / NE [Open-Meteo 15] | 37°F / 30°F | 99% rain 0.23\" | BREEZY GUSTY SOURCES DISAGREE | MEDIUM | 49.5 → 47.5 | NWS + Open-Meteo | Tue 11/24 8:04 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873082-2026-11-24T16:04:10Z-1",
+   "created": "2026-11-24T16:04:10Z",
+   "game": "KC@BUF",
+   "kickoff_pt": "Thu 11/26 5:20 PM PT",
+   "text": "KC@BUF: gusts 23 -> 26 mph (crossed 25)",
+   "card": "Thu 11/26 5:20 PM PT | Highmark Stadium | OPEN-AIR | 10 mph (peak 10) / gust 26 / NE [Open-Meteo 15] | 37°F / 30°F | 99% rain 0.23\" | BREEZY GUSTY SOURCES DISAGREE | MEDIUM | 49.5 → 47.5 | NWS + Open-Meteo | Tue 11/24 8:04 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873083-2026-11-24T16:04:10Z-2",
+   "created": "2026-11-24T16:04:10Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: sustained wind 20 -> 18 mph (HIGH WIND -> WINDY)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 18 mph (peak 20) / gust 31 / W | 42°F / 33°F | 81% rain | WINDY GUSTY PRICED IN | MEDIUM | 41.5 → 38.5 | NWS + Open-Meteo | Tue 11/24 8:04 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873088-2026-11-24T16:04:10Z-3",
+   "created": "2026-11-24T16:04:10Z",
+   "game": "NYG@IND",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYG@IND: sustained wind 9 -> 10 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 10:00 AM PT | Lucas Oil Stadium | ROOF TBD | 10 mph (peak 10) / gust 20 / SW | 51°F / 45°F | 37% rain | BREEZY ROOF TBD | LOW | 47.5 → 41.5 | NWS + Open-Meteo | Tue 11/24 8:04 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873091-2026-11-24T16:04:10Z-4",
+   "created": "2026-11-24T16:04:10Z",
+   "game": "SEA@SF",
+   "kickoff_pt": "Sun 11/29 1:25 PM PT",
+   "text": "SEA@SF: gusts 30 -> 23 mph (crossed 25)",
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 11 mph (peak 12) / gust 23 / SSW | 62°F / 62°F | 80% rain 0.07\" | BREEZY | LOW | 46.5 → 46.5 | NWS + Open-Meteo | Tue 11/24 8:04 AM PT",
+   "notified": false
   }
  ]
 }
