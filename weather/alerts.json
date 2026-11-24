@@ -386,6 +386,42 @@
    "text": "LV@CLE: sustained wind 18 -> 9 mph (WINDY -> CALM)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 9) / gust 15 / SW | 44°F / 39°F | 27% rain | CALM | LOW | 39.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 8:00 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873083-2026-11-24T03:56:40Z-0",
+   "created": "2026-11-24T03:56:40Z",
+   "game": "DEN@PIT",
+   "kickoff_pt": "Fri 11/27 12:00 PM PT",
+   "text": "DEN@PIT: sustained wind 19 -> 20 mph (WINDY -> HIGH WIND)",
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 20 mph (peak 21) / gust 30 / SW | 43°F / 33°F | 72% rain | HIGH WIND GUSTY PRICED IN | MEDIUM | 41.5 → 38.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873087-2026-11-24T03:56:40Z-1",
+   "created": "2026-11-24T03:56:40Z",
+   "game": "NO@CIN",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NO@CIN: sustained wind 8 -> 11 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 11 mph (peak 12) / gust 17 / SW | 54°F / 53°F | 13% none | BREEZY | LOW | 48.5 → — | NWS + Open-Meteo | Mon 11/23 7:56 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873091-2026-11-24T03:56:40Z-2",
+   "created": "2026-11-24T03:56:40Z",
+   "game": "SEA@SF",
+   "kickoff_pt": "Sun 11/29 1:25 PM PT",
+   "text": "SEA@SF: gusts 24 -> 30 mph (crossed 25)",
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 13 mph (peak 14) / gust 30 / SW | 62°F / 61°F | 82% rain 0.07\" | BREEZY GUSTY | LOW | 46.5 → 46.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-24T03:56:40Z-3",
+   "created": "2026-11-24T03:56:40Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 9 -> 12 mph (CALM -> BREEZY)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 12 mph (peak 12) / gust 18 / SW | 44°F / 36°F | 32% rain | BREEZY | LOW | 39.5 → 41.5 | NWS + Open-Meteo | Mon 11/23 7:56 PM PT",
+   "notified": false
   }
  ]
 }
