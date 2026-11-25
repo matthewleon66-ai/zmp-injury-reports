@@ -503,6 +503,24 @@
    "text": "CAR@TB: gusts 28 -> 10 mph (crossed 25)",
    "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 4 mph (peak 5) / gust 10 / W [Open-Meteo 12] | 66°F / 65°F | 15% rain 0.01\" | CALM SOURCES DISAGREE | LOW | 44.5 → 43.5 | NWS + Open-Meteo | Tue 11/24 2:55 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873085-2026-11-25T03:59:06Z-0",
+   "created": "2026-11-25T03:59:06Z",
+   "game": "BAL@HOU",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "BAL@HOU: sustained wind 10 -> 15 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/29 10:00 AM PT | NRG Stadium | ROOF TBD | 15 mph (peak 15) / gust 22 / W [Open-Meteo 6] | 74°F / 73°F | 0% none | WINDY ROOF TBD SOURCES DISAGREE | MEDIUM | 45.5 → 47.5 | NWS + Open-Meteo | Tue 11/24 7:59 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873091-2026-11-25T03:59:06Z-1",
+   "created": "2026-11-25T03:59:06Z",
+   "game": "SEA@SF",
+   "kickoff_pt": "Sun 11/29 1:25 PM PT",
+   "text": "SEA@SF: gusts 23 -> 32 mph (crossed 25)",
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 14 mph (peak 15) / gust 32 / S [Open-Meteo 9] | 63°F / 62°F | 75% rain 0.05\" | BREEZY GUSTY SOURCES DISAGREE | MEDIUM | 46.5 → 45.5 | NWS + Open-Meteo | Tue 11/24 7:59 PM PT",
+   "notified": false
   }
  ]
 }
