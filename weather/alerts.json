@@ -521,6 +521,15 @@
    "text": "SEA@SF: gusts 23 -> 32 mph (crossed 25)",
    "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 14 mph (peak 15) / gust 32 / S [Open-Meteo 9] | 63°F / 62°F | 75% rain 0.05\" | BREEZY GUSTY SOURCES DISAGREE | MEDIUM | 46.5 → 45.5 | NWS + Open-Meteo | Tue 11/24 7:59 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873086-2026-11-25T16:02:23Z-0",
+   "created": "2026-11-25T16:02:23Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 14 -> 15 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 15 mph (peak 15) / gust 24 / SW | 46°F / 39°F | 71% rain 0.05\" | WINDY | MEDIUM | 39.5 → 40.5 | NWS + Open-Meteo | Wed 11/25 8:02 AM PT",
+   "notified": false
   }
  ]
 }
