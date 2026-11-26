@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:14:28Z",
- "updated_pt": "Thu 11/26 5:14 AM PT",
+ "updated": "2026-11-26T14:57:05Z",
+ "updated_pt": "Thu 11/26 6:57 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -21,10 +21,10 @@
     "open": 51.5,
     "open_source": "ESPN",
     "first_seen": 54.5,
-    "prev": 54.5,
-    "now": 55.5,
+    "prev": 55.5,
+    "now": 56.5,
     "spread": "CHI -1.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-19T08:59:17Z",
@@ -41,6 +41,10 @@
      {
       "t": "2026-11-22T22:41:57Z",
       "total": 55.5
+     },
+     {
+      "t": "2026-11-26T14:57:05Z",
+      "total": 56.5
      }
     ]
    },
@@ -49,14 +53,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 5:14 AM PT",
-   "pulled_at_iso": "2026-11-26T13:14:28Z",
+   "pulled_at": "Thu 11/26 6:57 AM PT",
+   "pulled_at_iso": "2026-11-26T14:57:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 51.5 → 55.5 | — | Thu 11/26 5:14 AM PT"
+   "card": "Thu 11/26 10:00 AM PT | Ford Field | INDOOR – weather N/A | — | — | — | INDOOR | FINAL | 51.5 → 56.5 | — | Thu 11/26 6:57 AM PT"
   },
   {
    "espn_event_id": "401873080",
@@ -74,10 +78,10 @@
     "open": 49.5,
     "open_source": "ESPN",
     "first_seen": 47.5,
-    "prev": 47.5,
-    "now": 48.5,
+    "prev": 48.5,
+    "now": 49.5,
     "spread": "DAL -8.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-19T08:59:17Z",
@@ -110,6 +114,10 @@
      {
       "t": "2026-11-26T03:57:09Z",
       "total": 48.5
+     },
+     {
+      "t": "2026-11-26T14:57:05Z",
+      "total": 49.5
      }
     ]
    },
@@ -192,7 +200,7 @@
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 9 mph (peak 10) / gust 22 / NW | 51°F / 47°F | 0% none | CALM ROOF TBD | FINAL | 49.5 → 48.5 | NWS | Thu 11/26 2:07 AM PT"
+   "card": "Thu 11/26 1:30 PM PT | AT&T Stadium | ROOF TBD | 9 mph (peak 10) / gust 22 / NW | 51°F / 47°F | 0% none | CALM ROOF TBD | FINAL | 49.5 → 49.5 | NWS | Thu 11/26 2:07 AM PT"
   },
   {
    "espn_event_id": "401873082",
@@ -213,7 +221,7 @@
     "prev": 46.5,
     "now": 45.5,
     "spread": "BUF -3",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-19T08:59:17Z",
@@ -367,7 +375,7 @@
     "prev": 38.5,
     "now": 36.5,
     "spread": "DEN -4.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-23T21:50:00Z",
@@ -584,7 +592,7 @@
     "prev": 50.5,
     "now": 49.5,
     "spread": "CIN -10",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -769,7 +777,7 @@
     "prev": null,
     "now": 41.5,
     "spread": "NYG -6",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -941,7 +949,7 @@
     "prev": 41.5,
     "now": 40.5,
     "spread": "NYJ -4.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1118,7 +1126,7 @@
     "prev": 42.5,
     "now": 41.5,
     "spread": "MIN -7",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1143,14 +1151,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 5:14 AM PT",
-   "pulled_at_iso": "2026-11-26T13:14:28Z",
+   "pulled_at": "Thu 11/26 6:57 AM PT",
+   "pulled_at_iso": "2026-11-26T14:57:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Thu 11/26 5:14 AM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Thu 11/26 6:57 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1171,7 +1179,7 @@
     "prev": 48.5,
     "now": 49.5,
     "spread": "JAX -14.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1356,7 +1364,7 @@
     "prev": 46.5,
     "now": 47.5,
     "spread": "HOU -6.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1535,7 +1543,7 @@
     "prev": 36.5,
     "now": 35.5,
     "spread": "NE -1.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1568,14 +1576,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 5:14 AM PT",
-   "pulled_at_iso": "2026-11-26T13:14:28Z",
+   "pulled_at": "Thu 11/26 6:57 AM PT",
+   "pulled_at_iso": "2026-11-26T14:57:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Thu 11/26 5:14 AM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Thu 11/26 6:57 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1596,7 +1604,7 @@
     "prev": 42.5,
     "now": 41.5,
     "spread": "WSH -6.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1794,7 +1802,7 @@
     "prev": 45.5,
     "now": 44.5,
     "spread": "SF -2.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1978,7 +1986,7 @@
     "prev": 39.5,
     "now": 40.5,
     "spread": "CLE -4.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -2159,7 +2167,7 @@
     "prev": null,
     "now": 43.5,
     "spread": "TB -3",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-23T09:21:15Z",
@@ -2233,57 +2241,57 @@
    "weather_backup": {
     "source": "Open-Meteo",
     "issued": null,
-    "wind_avg": 2,
-    "wind_peak": 2,
-    "gust": 4,
-    "dir": "N",
-    "dir_at_kick": "N",
+    "wind_avg": 5,
+    "wind_peak": 5,
+    "gust": 9,
+    "dir": "NE",
+    "dir_at_kick": "NNW",
     "temp": 68,
-    "feels": 73,
-    "precip_chance": 32,
-    "precip_in": 0.09,
+    "feels": 72,
+    "precip_chance": 38,
+    "precip_in": 0.03,
     "snow_in": 0,
     "precip_type": "rain",
     "heavy_text": false,
     "hours": [
      {
       "t": "2026-12-01T01:00:00Z",
-      "wind": 2,
-      "gust": 4,
-      "dir": "N",
-      "temp": 68,
+      "wind": 5,
+      "gust": 9,
+      "dir": "NNW",
+      "temp": 69,
       "feels": 73,
-      "pop": 32,
+      "pop": 38,
       "wx": "Rain"
      },
      {
       "t": "2026-12-01T02:00:00Z",
-      "wind": 2,
-      "gust": 2,
-      "dir": "N",
+      "wind": 3,
+      "gust": 5,
+      "dir": "NNE",
       "temp": 68,
-      "feels": 74,
-      "pop": 32,
+      "feels": 73,
+      "pop": 38,
       "wx": "Rain"
      },
      {
       "t": "2026-12-01T03:00:00Z",
-      "wind": 2,
-      "gust": 2,
-      "dir": "NNE",
+      "wind": 5,
+      "gust": 6,
+      "dir": "NE",
       "temp": 68,
-      "feels": 74,
-      "pop": 32,
+      "feels": 72,
+      "pop": 38,
       "wx": "Rain"
      },
      {
       "t": "2026-12-01T04:00:00Z",
-      "wind": 2,
-      "gust": 3,
-      "dir": "ENE",
+      "wind": 5,
+      "gust": 7,
+      "dir": "NE",
       "temp": 68,
-      "feels": 74,
-      "pop": 32,
+      "feels": 72,
+      "pop": 38,
       "wx": "Rain"
      }
     ]
@@ -2297,13 +2305,13 @@
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Thu 11/26 1:00 AM PT",
-   "pulled_at_iso": "2026-11-26T09:00:13Z",
+   "pulled_at": "Thu 11/26 6:57 AM PT",
+   "pulled_at_iso": "2026-11-26T14:57:05Z",
    "error": null,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 3 mph (peak 3) / gust 8 / N | 66°F / 65°F | 28% rain 0.01\" | CALM | MEDIUM | 44.5 → 43.5 | NWS + Open-Meteo | Thu 11/26 1:00 AM PT"
+   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 3 mph (peak 3) / gust 8 / N | 66°F / 65°F | 28% rain 0.01\" | CALM | MEDIUM | 44.5 → 43.5 | NWS + Open-Meteo | Thu 11/26 6:57 AM PT"
   },
   {
    "espn_event_id": "401873096",
@@ -2324,7 +2332,7 @@
     "prev": 45.5,
     "now": 44.5,
     "spread": "LAR -1.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-26T09:00:13Z",
@@ -2341,14 +2349,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 5:14 AM PT",
-   "pulled_at_iso": "2026-11-26T13:14:28Z",
+   "pulled_at": "Thu 11/26 6:57 AM PT",
+   "pulled_at_iso": "2026-11-26T14:57:05Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Thu 11/26 5:14 AM PT"
+   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Thu 11/26 6:57 AM PT"
   }
  ]
 }
