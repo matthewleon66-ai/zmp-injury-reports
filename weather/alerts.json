@@ -530,6 +530,24 @@
    "text": "LV@CLE: sustained wind 14 -> 15 mph (BREEZY -> WINDY)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 15 mph (peak 15) / gust 24 / SW | 46°F / 39°F | 71% rain 0.05\" | WINDY | MEDIUM | 39.5 → 40.5 | NWS + Open-Meteo | Wed 11/25 8:02 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873085-2026-11-26T03:57:09Z-0",
+   "created": "2026-11-26T03:57:09Z",
+   "game": "BAL@HOU",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "BAL@HOU: gusts 23 -> 26 mph (crossed 25)",
+   "card": "Sun 11/29 10:00 AM PT | NRG Stadium | ROOF TBD | 15 mph (peak 15) / gust 26 / NW | 70°F / 69°F | 0% none | WINDY GUSTY ROOF TBD | MEDIUM | 45.5 → 47.5 | NWS + Open-Meteo | Wed 11/25 7:57 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-26T03:57:09Z-1",
+   "created": "2026-11-26T03:57:09Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: gusts 24 -> 25 mph (crossed 25)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 16 mph (peak 17) / gust 25 / S [Open-Meteo 11] | 47°F / 39°F | 92% rain 0.05\" | WINDY GUSTY SOURCES DISAGREE | MEDIUM | 39.5 → 39.5 | NWS + Open-Meteo | Wed 11/25 7:57 PM PT",
+   "notified": false
   }
  ]
 }
