@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T07:14:29Z",
- "updated_pt": "Thu 11/26 11:14 PM PT",
+ "updated": "2026-11-27T09:00:44Z",
+ "updated_pt": "Fri 11/27 1:00 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -16,7 +16,7 @@
    "city": "Pittsburgh, PA",
    "neutral_site": false,
    "roof": "OPEN-AIR",
-   "confidence": "HIGH",
+   "confidence": "FINAL",
    "total": {
     "open": 41.5,
     "open_source": "ESPN",
@@ -24,7 +24,7 @@
     "prev": 36.5,
     "now": 37.5,
     "spread": "DEN -4.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-24T10:06:10Z",
@@ -160,7 +160,7 @@
     "before": "O/U 36.5",
     "changed": true
    },
-   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 17 mph (peak 17) / gust 28 / SW | 42°F / 33°F | 65% rain | WINDY GUSTY PRICED IN | HIGH | 41.5 → 37.5 | NWS | Thu 11/26 7:58 PM PT"
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 17 mph (peak 17) / gust 28 / SW | 42°F / 33°F | 65% rain | WINDY GUSTY PRICED IN | FINAL | 41.5 → 37.5 | NWS | Thu 11/26 7:58 PM PT"
   },
   {
    "espn_event_id": "401873087",
@@ -181,7 +181,7 @@
     "prev": 50.5,
     "now": 49.5,
     "spread": "CIN -10",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -368,7 +368,7 @@
     "prev": null,
     "now": 41.5,
     "spread": "NYG -6",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -538,7 +538,7 @@
     "prev": 40.5,
     "now": 39.5,
     "spread": "NYJ -5.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -719,7 +719,7 @@
     "prev": 42.5,
     "now": 41.5,
     "spread": "MIN -7",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -744,14 +744,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 11:14 PM PT",
-   "pulled_at_iso": "2026-11-27T07:14:29Z",
+   "pulled_at": "Fri 11/27 1:00 AM PT",
+   "pulled_at_iso": "2026-11-27T09:00:44Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Thu 11/26 11:14 PM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Fri 11/27 1:00 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -772,7 +772,7 @@
     "prev": 48.5,
     "now": 49.5,
     "spread": "JAX -14.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -957,7 +957,7 @@
     "prev": 46.5,
     "now": 47.5,
     "spread": "HOU -6.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1135,7 +1135,7 @@
     "prev": 36.5,
     "now": 35.5,
     "spread": "NE -2.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1168,14 +1168,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 11:14 PM PT",
-   "pulled_at_iso": "2026-11-27T07:14:29Z",
+   "pulled_at": "Fri 11/27 1:00 AM PT",
+   "pulled_at_iso": "2026-11-27T09:00:44Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Thu 11/26 11:14 PM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Fri 11/27 1:00 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1196,7 +1196,7 @@
     "prev": 42.5,
     "now": 41.5,
     "spread": "WSH -6.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1394,7 +1394,7 @@
     "prev": 44.5,
     "now": 43.5,
     "spread": "SF -3",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1582,7 +1582,7 @@
     "prev": 39.5,
     "now": 40.5,
     "spread": "CLE -4.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-22T08:12:43Z",
@@ -1768,7 +1768,7 @@
     "prev": null,
     "now": 43.5,
     "spread": "TB -3",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-23T09:21:15Z",
@@ -1783,15 +1783,15 @@
    },
    "weather": {
     "source": "NWS",
-    "issued": "2026-11-26T20:36:53+00:00",
+    "issued": "2026-11-27T07:01:04+00:00",
     "wind_avg": 3,
     "wind_peak": 3,
-    "gust": 8,
-    "dir": "ENE",
-    "dir_at_kick": "NE",
+    "gust": 9,
+    "dir": "NE",
+    "dir_at_kick": "NNE",
     "temp": 66,
     "feels": 66,
-    "precip_chance": 45,
+    "precip_chance": 24,
     "precip_in": 0.01,
     "snow_in": 0,
     "precip_type": "rain",
@@ -1801,118 +1801,120 @@
       "t": "2026-12-01T01:00:00Z",
       "wind": 3,
       "gust": 8,
-      "dir": "NE",
-      "temp": 67,
-      "feels": 67,
-      "pop": 45,
-      "wx": "Scattered Showers And Thunderstorms"
+      "dir": "NNE",
+      "temp": 66,
+      "feels": 66,
+      "pop": 24,
+      "wx": "Isolated Rain Showers"
      },
      {
       "t": "2026-12-01T02:00:00Z",
       "wind": 3,
       "gust": 8,
-      "dir": "ENE",
+      "dir": "NE",
       "temp": 66,
       "feels": 66,
-      "pop": 45,
-      "wx": "Scattered Showers And Thunderstorms"
+      "pop": 24,
+      "wx": "Isolated Rain Showers"
      },
      {
       "t": "2026-12-01T03:00:00Z",
       "wind": 3,
-      "gust": 8,
-      "dir": "ENE",
+      "gust": 9,
+      "dir": "NE",
       "temp": 66,
       "feels": 66,
-      "pop": 45,
-      "wx": "Scattered Showers And Thunderstorms"
+      "pop": 24,
+      "wx": "Isolated Rain Showers"
      },
      {
       "t": "2026-12-01T04:00:00Z",
       "wind": 3,
-      "gust": 8,
-      "dir": "ENE",
+      "gust": 9,
+      "dir": "NE",
       "temp": 66,
       "feels": 66,
-      "pop": 45,
-      "wx": "Scattered Showers And Thunderstorms"
+      "pop": 24,
+      "wx": "Isolated Rain Showers"
      }
     ]
    },
    "weather_backup": {
     "source": "Open-Meteo",
     "issued": null,
-    "wind_avg": 7,
-    "wind_peak": 8,
-    "gust": 17,
-    "dir": "E",
-    "dir_at_kick": "ENE",
-    "temp": 68,
-    "feels": 69,
-    "precip_chance": 15,
-    "precip_in": 0.04,
+    "wind_avg": 8,
+    "wind_peak": 9,
+    "gust": 15,
+    "dir": "NE",
+    "dir_at_kick": "NE",
+    "temp": 66,
+    "feels": 67,
+    "precip_chance": 22,
+    "precip_in": 0.01,
     "snow_in": 0,
     "precip_type": "rain",
     "heavy_text": false,
     "hours": [
      {
       "t": "2026-12-01T01:00:00Z",
-      "wind": 5,
-      "gust": 9,
-      "dir": "ENE",
-      "temp": 68,
-      "feels": 72,
-      "pop": 15,
+      "wind": 7,
+      "gust": 10,
+      "dir": "NE",
+      "temp": 66,
+      "feels": 68,
+      "pop": 22,
       "wx": "Rain"
      },
      {
       "t": "2026-12-01T02:00:00Z",
       "wind": 8,
-      "gust": 14,
-      "dir": "E",
-      "temp": 68,
-      "feels": 70,
-      "pop": 15,
+      "gust": 12,
+      "dir": "NE",
+      "temp": 66,
+      "feels": 68,
+      "pop": 22,
       "wx": "Rain"
      },
      {
       "t": "2026-12-01T03:00:00Z",
-      "wind": 7,
-      "gust": 15,
-      "dir": "E",
-      "temp": 68,
-      "feels": 70,
-      "pop": 15,
+      "wind": 8,
+      "gust": 13,
+      "dir": "NE",
+      "temp": 66,
+      "feels": 68,
+      "pop": 22,
       "wx": ""
      },
      {
       "t": "2026-12-01T04:00:00Z",
-      "wind": 8,
-      "gust": 17,
-      "dir": "E",
-      "temp": 67,
-      "feels": 69,
-      "pop": 15,
+      "wind": 9,
+      "gust": 15,
+      "dir": "ENE",
+      "temp": 65,
+      "feels": 67,
+      "pop": 22,
       "wx": "Rain"
      }
     ]
    },
    "observation": null,
    "tags": [
-    "CALM"
+    "CALM",
+    "SOURCES DISAGREE"
    ],
-   "sources_disagree": false,
+   "sources_disagree": true,
    "sources": [
     "NWS",
     "Open-Meteo"
    ],
-   "pulled_at": "Thu 11/26 6:54 PM PT",
-   "pulled_at_iso": "2026-11-27T02:54:11Z",
+   "pulled_at": "Fri 11/27 1:00 AM PT",
+   "pulled_at_iso": "2026-11-27T09:00:44Z",
    "error": null,
+   "disagree_detail": "NWS 3 mph vs Open-Meteo 8 mph sustained",
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 3 mph (peak 3) / gust 8 / ENE | 66°F / 66°F | 45% rain 0.01\" | CALM | MEDIUM | 44.5 → 43.5 | NWS + Open-Meteo | Thu 11/26 6:54 PM PT"
+   "card": "Mon 11/30 5:15 PM PT | Raymond James Stadium | OPEN-AIR | 3 mph (peak 3) / gust 9 / NE [Open-Meteo 8] | 66°F / 66°F | 24% rain 0.01\" | CALM SOURCES DISAGREE | MEDIUM | 44.5 → 43.5 | NWS + Open-Meteo | Fri 11/27 1:00 AM PT"
   },
   {
    "espn_event_id": "401873096",
@@ -1933,7 +1935,7 @@
     "prev": null,
     "now": 44.5,
     "spread": "LAR -1.5",
-    "book": "Draft Kings",
+    "book": "DraftKings",
     "history": [
      {
       "t": "2026-11-26T09:00:13Z",
@@ -1950,14 +1952,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Thu 11/26 11:14 PM PT",
-   "pulled_at_iso": "2026-11-27T07:14:29Z",
+   "pulled_at": "Fri 11/27 1:00 AM PT",
+   "pulled_at_iso": "2026-11-27T09:00:44Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Thu 11/26 11:14 PM PT"
+   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Fri 11/27 1:00 AM PT"
   }
  ]
 }
