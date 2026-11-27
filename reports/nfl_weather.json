@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-27T15:57:51Z",
- "updated_pt": "Fri 11/27 7:57 AM PT",
+ "updated": "2026-11-27T17:03:39Z",
+ "updated_pt": "Fri 11/27 9:03 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
- "errors": [
-  "DEN@PIT: Open-Meteo https://api.open-meteo.com/v1/forecast?latitude=40.4468&longitude=-80.0158&hourly=wind_speed_10m,wind_gusts_10m,wind_direction_10m,temperature_2m,apparent_temperature,precipitation_probability,precipitation,snowfall,weather_code&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch&timezone=auto&forecast_days=10: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "errors": [],
  "games": [
   {
    "espn_event_id": "401873083",
@@ -85,15 +83,15 @@
    },
    "weather": {
     "source": "NWS",
-    "issued": "2026-11-27T09:46:20+00:00",
+    "issued": "2026-11-27T16:31:36+00:00",
     "wind_avg": 16,
     "wind_peak": 17,
-    "gust": 30,
+    "gust": 28,
     "dir": "SW",
     "dir_at_kick": "SW",
-    "temp": 41,
-    "feels": 32,
-    "precip_chance": 93,
+    "temp": 38,
+    "feels": 29,
+    "precip_chance": 81,
     "precip_in": 0,
     "snow_in": 0,
     "precip_type": "rain",
@@ -102,52 +100,109 @@
      {
       "t": "2026-11-27T20:00:00Z",
       "wind": 17,
-      "gust": 30,
+      "gust": 28,
       "dir": "SW",
-      "temp": 41,
-      "feels": 33,
-      "pop": 93,
-      "wx": "Light Rain"
+      "temp": 38,
+      "feels": 29,
+      "pop": 81,
+      "wx": "Rain Showers"
      },
      {
       "t": "2026-11-27T21:00:00Z",
       "wind": 16,
-      "gust": 30,
+      "gust": 26,
       "dir": "SW",
-      "temp": 41,
-      "feels": 33,
-      "pop": 74,
-      "wx": "Light Rain Likely"
+      "temp": 38,
+      "feels": 29,
+      "pop": 79,
+      "wx": "Rain Showers"
      },
      {
       "t": "2026-11-27T22:00:00Z",
-      "wind": 17,
-      "gust": 30,
-      "dir": "W",
-      "temp": 41,
-      "feels": 32,
-      "pop": 67,
-      "wx": "Light Rain Likely"
+      "wind": 16,
+      "gust": 26,
+      "dir": "SW",
+      "temp": 39,
+      "feels": 30,
+      "pop": 75,
+      "wx": "Rain Showers"
      },
      {
       "t": "2026-11-27T23:00:00Z",
       "wind": 16,
-      "gust": 29,
-      "dir": "W",
-      "temp": 41,
-      "feels": 32,
-      "pop": 59,
-      "wx": "Light Rain Likely"
+      "gust": 26,
+      "dir": "SW",
+      "temp": 39,
+      "feels": 30,
+      "pop": 71,
+      "wx": "Rain Showers Likely"
      }
     ]
    },
-   "weather_backup": null,
+   "weather_backup": {
+    "source": "Open-Meteo",
+    "issued": null,
+    "wind_avg": 12,
+    "wind_peak": 14,
+    "gust": 31,
+    "dir": "WSW",
+    "dir_at_kick": "SW",
+    "temp": 37,
+    "feels": 29,
+    "precip_chance": 41,
+    "precip_in": 0.02,
+    "snow_in": 0,
+    "precip_type": "rain",
+    "heavy_text": false,
+    "hours": [
+     {
+      "t": "2026-11-27T20:00:00Z",
+      "wind": 14,
+      "gust": 30,
+      "dir": "SW",
+      "temp": 38,
+      "feels": 29,
+      "pop": 37,
+      "wx": ""
+     },
+     {
+      "t": "2026-11-27T21:00:00Z",
+      "wind": 12,
+      "gust": 31,
+      "dir": "WSW",
+      "temp": 37,
+      "feels": 29,
+      "pop": 41,
+      "wx": ""
+     },
+     {
+      "t": "2026-11-27T22:00:00Z",
+      "wind": 12,
+      "gust": 29,
+      "dir": "WSW",
+      "temp": 37,
+      "feels": 29,
+      "pop": 32,
+      "wx": ""
+     },
+     {
+      "t": "2026-11-27T23:00:00Z",
+      "wind": 11,
+      "gust": 28,
+      "dir": "WSW",
+      "temp": 37,
+      "feels": 29,
+      "pop": 23,
+      "wx": ""
+     }
+    ]
+   },
    "observation": {
     "station": "KAGC",
-    "time": "2026-11-27T15:20:00+00:00",
-    "text": "Cloudy",
+    "time": "2026-11-27T16:04:00+00:00",
+    "text": "Unknown Precipitation and Fog/Mist",
     "wind": null,
-    "gust": 22,
+    "gust": null,
     "dir": null,
     "temp": 36
    },
@@ -158,10 +213,11 @@
    ],
    "sources_disagree": false,
    "sources": [
-    "NWS"
+    "NWS",
+    "Open-Meteo"
    ],
-   "pulled_at": "Fri 11/27 7:57 AM PT",
-   "pulled_at_iso": "2026-11-27T15:57:51Z",
+   "pulled_at": "Fri 11/27 9:03 AM PT",
+   "pulled_at_iso": "2026-11-27T17:03:39Z",
    "error": null,
    "weather_game": true,
    "edge_rerun_needed": false,
@@ -170,7 +226,7 @@
     "before": "O/U 36.5",
     "changed": true
    },
-   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 16 mph (peak 17) / gust 30 / SW | 41°F / 32°F | 93% rain | WINDY GUSTY PRICED IN | FINAL | 41.5 → 37.5 | NWS | Fri 11/27 7:57 AM PT"
+   "card": "Fri 11/27 12:00 PM PT | Acrisure Stadium | OPEN-AIR | 16 mph (peak 17) / gust 28 / SW | 38°F / 29°F | 81% rain | WINDY GUSTY PRICED IN | FINAL | 41.5 → 37.5 | NWS + Open-Meteo | Fri 11/27 9:03 AM PT"
   },
   {
    "espn_event_id": "401873087",
@@ -754,14 +810,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 7:57 AM PT",
-   "pulled_at_iso": "2026-11-27T15:57:51Z",
+   "pulled_at": "Fri 11/27 9:03 AM PT",
+   "pulled_at_iso": "2026-11-27T17:03:39Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Fri 11/27 7:57 AM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Fri 11/27 9:03 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1183,14 +1239,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 7:57 AM PT",
-   "pulled_at_iso": "2026-11-27T15:57:51Z",
+   "pulled_at": "Fri 11/27 9:03 AM PT",
+   "pulled_at_iso": "2026-11-27T17:03:39Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Fri 11/27 7:57 AM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Fri 11/27 9:03 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1971,14 +2027,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 7:57 AM PT",
-   "pulled_at_iso": "2026-11-27T15:57:51Z",
+   "pulled_at": "Fri 11/27 9:03 AM PT",
+   "pulled_at_iso": "2026-11-27T17:03:39Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Fri 11/27 7:57 AM PT"
+   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Fri 11/27 9:03 AM PT"
   }
  ]
 }
