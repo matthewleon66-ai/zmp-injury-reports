@@ -602,6 +602,42 @@
    "text": "BAL@HOU: gusts 24 -> 29 mph (crossed 25)",
    "card": "Sun 11/29 10:00 AM PT | NRG Stadium | ROOF TBD | 15 mph (peak 15) / gust 29 / N | 66°F / 66°F | 0% none | WINDY GUSTY ROOF TBD | MEDIUM | 45.5 → 47.5 | NWS + Open-Meteo | Fri 11/27 2:03 AM PT",
    "notified": false
+  },
+  {
+   "id": "401873087-2026-11-27T21:53:42Z-0",
+   "created": "2026-11-27T21:53:42Z",
+   "game": "NO@CIN",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NO@CIN: gusts 24 -> 25 mph (crossed 25)",
+   "card": "Sun 11/29 10:00 AM PT | Paycor Stadium | OPEN-AIR | 14 mph (peak 15) / gust 25 / S | 52°F / 51°F | 100% rain 0.18\" | BREEZY GUSTY | HIGH | 48.5 → 48.5 | NWS + Open-Meteo | Fri 11/27 1:53 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873088-2026-11-27T21:53:42Z-1",
+   "created": "2026-11-27T21:53:42Z",
+   "game": "NYG@IND",
+   "kickoff_pt": "Sun 11/29 10:00 AM PT",
+   "text": "NYG@IND: sustained wind 11 -> 8 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 10:00 AM PT | Lucas Oil Stadium | ROOF TBD | 8 mph (peak 9) / gust 22 / SE | 48°F / 41°F | 100% rain 0.15\" | CALM ROOF TBD | HIGH | 47.5 → 41.5 | NWS + Open-Meteo | Fri 11/27 1:53 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873091-2026-11-27T21:53:42Z-2",
+   "created": "2026-11-27T21:53:42Z",
+   "game": "SEA@SF",
+   "kickoff_pt": "Sun 11/29 1:25 PM PT",
+   "text": "SEA@SF: sustained wind 14 -> 16 mph (BREEZY -> WINDY)",
+   "card": "Sun 11/29 1:25 PM PT | Levi's Stadium | OPEN-AIR | 16 mph (peak 16) / gust 30 / S [Open-Meteo 10] | 65°F / 64°F | 99% rain 0.07\" | WINDY GUSTY SOURCES DISAGREE PRICED IN | HIGH | 46.5 → 43.5 | NWS + Open-Meteo | Fri 11/27 1:53 PM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-27T21:53:42Z-3",
+   "created": "2026-11-27T21:53:42Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 17 -> 11 mph (WINDY -> BREEZY)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 11 mph (peak 13) / gust 30 / SW | 46°F / 39°F | 100% rain 0.15\" | BREEZY GUSTY | MEDIUM | 39.5 → 39.5 | NWS + Open-Meteo | Fri 11/27 1:53 PM PT",
+   "notified": false
   }
  ]
 }
