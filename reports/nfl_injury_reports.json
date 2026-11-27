@@ -2,7 +2,7 @@
   "updated": "2026-11-27T00:05:00Z",
   "reports": [
     {
-      "espn_event_id": "",
+      "espn_event_id": "401873082",
       "away": "KC",
       "home": "BUF",
       "kickoff": "2026-11-27T01:20:00Z",
@@ -23,7 +23,8 @@
         "CBS Sports Week 12 injury report 11/25 6:10 PM ET",
         "CBS Sports Thanksgiving injury report 11/25 (Tue practice, DK lines)",
         "covers.com Week 12 opening lines",
-        "yardbarker/A to Z Sports Chiefs report"
+        "yardbarker/A to Z Sports Chiefs report",
+        "espn.com game page 401873082 (DraftKings: open BUF -2.5 / o49.5; now BUF -3 / 45.5, BUF -156 / KC +132; injury table unchanged, Thu ~4:03 PM PT)"
       ],
       "sources_unreachable": [
         "Official KC/BUF inactives: not yet populated on nfl.com when checked 3:52-4:05 PM PT; no insider/beat report of inactives found",
