@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T10:55:36Z",
- "updated_pt": "Fri 11/27 2:55 AM PT",
+ "updated": "2026-11-27T11:55:43Z",
+ "updated_pt": "Fri 11/27 3:55 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -806,14 +806,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 2:55 AM PT",
-   "pulled_at_iso": "2026-11-27T10:55:36Z",
+   "pulled_at": "Fri 11/27 3:55 AM PT",
+   "pulled_at_iso": "2026-11-27T11:55:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Fri 11/27 2:55 AM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 43.5 → 41.5 | — | Fri 11/27 3:55 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1233,14 +1233,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 2:55 AM PT",
-   "pulled_at_iso": "2026-11-27T10:55:36Z",
+   "pulled_at": "Fri 11/27 3:55 AM PT",
+   "pulled_at_iso": "2026-11-27T11:55:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Fri 11/27 2:55 AM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | MEDIUM | 45.5 → 35.5 | — | Fri 11/27 3:55 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1642,8 +1642,8 @@
     "open": 39.5,
     "open_source": "ESPN",
     "first_seen": 40.5,
-    "prev": 39.5,
-    "now": 40.5,
+    "prev": 40.5,
+    "now": 39.5,
     "spread": "CLE -4.5",
     "book": "DraftKings",
     "history": [
@@ -1666,6 +1666,10 @@
      {
       "t": "2026-11-26T07:13:00Z",
       "total": 40.5
+     },
+     {
+      "t": "2026-11-27T11:55:43Z",
+      "total": 39.5
      }
     ]
    },
@@ -1806,13 +1810,13 @@
    "error": null,
    "disagree_detail": "NWS 17 mph vs Open-Meteo 6 mph sustained",
    "weather_game": true,
-   "edge_rerun_needed": false,
+   "edge_rerun_needed": true,
    "odds_display": {
-    "now": "O/U 40.5",
-    "before": "O/U 39.5",
+    "now": "O/U 39.5",
+    "before": "O/U 40.5",
     "changed": true
    },
-   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 17 mph (peak 21) / gust 30 / SW [Open-Meteo 6] | 45°F / 36°F | 99% rain 0.11\" | WINDY GUSTY SOURCES DISAGREE | MEDIUM | 39.5 → 40.5 | NWS + Open-Meteo | Fri 11/27 2:03 AM PT"
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 17 mph (peak 21) / gust 30 / SW [Open-Meteo 6] | 45°F / 36°F | 99% rain 0.11\" | WINDY GUSTY SOURCES DISAGREE | MEDIUM | 39.5 → 39.5 | NWS + Open-Meteo | Fri 11/27 2:03 AM PT"
   },
   {
    "espn_event_id": "401873094",
@@ -2017,14 +2021,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Fri 11/27 2:55 AM PT",
-   "pulled_at_iso": "2026-11-27T10:55:36Z",
+   "pulled_at": "Fri 11/27 3:55 AM PT",
+   "pulled_at_iso": "2026-11-27T11:55:43Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Fri 11/27 2:55 AM PT"
+   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Fri 11/27 3:55 AM PT"
   }
  ]
 }
