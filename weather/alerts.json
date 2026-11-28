@@ -638,6 +638,24 @@
    "text": "LV@CLE: sustained wind 17 -> 11 mph (WINDY -> BREEZY)",
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 11 mph (peak 13) / gust 30 / SW | 46°F / 39°F | 100% rain 0.15\" | BREEZY GUSTY | MEDIUM | 39.5 → 39.5 | NWS + Open-Meteo | Fri 11/27 1:53 PM PT",
    "notified": false
+  },
+  {
+   "id": "401873086-2026-11-28T09:50:59Z-0",
+   "created": "2026-11-28T09:50:59Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: sustained wind 11 -> 9 mph (BREEZY -> CALM)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 10) / gust 20 / S | 48°F / 43°F | 100% rain 0.14\" | CALM | HIGH | 39.5 → 38.5 | NWS + Open-Meteo | Sat 11/28 1:50 AM PT",
+   "notified": false
+  },
+  {
+   "id": "401873086-2026-11-28T09:50:59Z-1",
+   "created": "2026-11-28T09:50:59Z",
+   "game": "LV@CLE",
+   "kickoff_pt": "Sun 11/29 5:20 PM PT",
+   "text": "LV@CLE: gusts 30 -> 20 mph (crossed 25)",
+   "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 10) / gust 20 / S | 48°F / 43°F | 100% rain 0.14\" | CALM | HIGH | 39.5 → 38.5 | NWS + Open-Meteo | Sat 11/28 1:50 AM PT",
+   "notified": false
   }
  ]
 }
