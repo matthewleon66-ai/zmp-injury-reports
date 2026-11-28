@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T09:50:59Z",
- "updated_pt": "Sat 11/28 1:50 AM PT",
+ "updated": "2026-11-28T10:50:04Z",
+ "updated_pt": "Sat 11/28 2:50 AM PT",
  "note": "Weather layer for the ZAYS MOTION PLAYS Sports tab. Built by weather/build_weather.py (GitHub Action). Fresh NWS + Open-Meteo pulls; never cached weather.",
  "columns": "Kickoff (PT) | Stadium | Roof | Wind (sustained / gust / direction) | Temp / Feels | Precip | Tags | Confidence | Total (open → now) | Source | Updated",
  "errors": [],
@@ -596,14 +596,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sat 11/28 1:50 AM PT",
-   "pulled_at_iso": "2026-11-28T09:50:59Z",
+   "pulled_at": "Sat 11/28 2:50 AM PT",
+   "pulled_at_iso": "2026-11-28T10:50:04Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 43.5 → 41.5 | — | Sat 11/28 1:50 AM PT"
+   "card": "Sun 11/29 10:00 AM PT | U.S. Bank Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 43.5 → 41.5 | — | Sat 11/28 2:50 AM PT"
   },
   {
    "espn_event_id": "401873090",
@@ -1029,14 +1029,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sat 11/28 1:50 AM PT",
-   "pulled_at_iso": "2026-11-28T09:50:59Z",
+   "pulled_at": "Sat 11/28 2:50 AM PT",
+   "pulled_at_iso": "2026-11-28T10:50:04Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 45.5 → 34.5 | — | Sat 11/28 1:50 AM PT"
+   "card": "Sun 11/29 1:05 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | HIGH | 45.5 → 34.5 | — | Sat 11/28 2:50 AM PT"
   },
   {
    "espn_event_id": "401873092",
@@ -1618,12 +1618,8 @@
    "pulled_at_iso": "2026-11-28T09:50:59Z",
    "error": null,
    "weather_game": false,
-   "edge_rerun_needed": true,
-   "odds_display": {
-    "now": "O/U 38.5",
-    "before": "O/U 39.5",
-    "changed": true
-   },
+   "edge_rerun_needed": false,
+   "odds_display": null,
    "card": "Sun 11/29 5:20 PM PT | Huntington Bank Field | OPEN-AIR | 9 mph (peak 10) / gust 20 / S | 48°F / 43°F | 100% rain 0.14\" | CALM | HIGH | 39.5 → 38.5 | NWS + Open-Meteo | Sat 11/28 1:50 AM PT"
   },
   {
@@ -1827,14 +1823,14 @@
     "INDOOR"
    ],
    "display_weather": "INDOOR – weather N/A",
-   "pulled_at": "Sat 11/28 1:50 AM PT",
-   "pulled_at_iso": "2026-11-28T09:50:59Z",
+   "pulled_at": "Sat 11/28 2:50 AM PT",
+   "pulled_at_iso": "2026-11-28T10:50:04Z",
    "sources": [],
    "sources_disagree": false,
    "weather_game": false,
    "edge_rerun_needed": false,
    "odds_display": null,
-   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Sat 11/28 1:50 AM PT"
+   "card": "Thu 12/3 5:15 PM PT | SoFi Stadium | INDOOR – weather N/A | — | — | — | INDOOR | LOW | 47.5 → 44.5 | — | Sat 11/28 2:50 AM PT"
   }
  ]
 }
